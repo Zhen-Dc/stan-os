@@ -1,0 +1,20 @@
+
+Comment SKILL.
+
+A saved prompt only remembers wording.
+A Claude Skill should remember the workflow.
+
+Use this structure:
+
+1. Name the repeated job.
+2. Define the trigger.
+3. Save the rules and examples.
+4. Set the output path.
+5. Add a QA gate.
+
+The important detail:
+Claude uses the short Skill description to decide when the Skill should run.
+
+So make the description narrow and task-based.
+
+Comment SKILL if you want the checklist.

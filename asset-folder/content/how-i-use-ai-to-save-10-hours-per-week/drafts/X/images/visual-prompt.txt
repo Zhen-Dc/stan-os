@@ -1,0 +1,10 @@
+
+Create platform visuals for "How I Use AI To Save 10 Hours Per Week".
+
+Core idea: The video shows beginner-friendly ways AI can save time across writing, data analysis, and personal life.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Six clean tweet screenshot quote cards. They must look like normal tweets: avatar, Stanley, verified badge, @stanleyai, and tweet text only. No LESSON/TIP/WORKFLOW labels, no footer, no timestamp, no fake engagement row.

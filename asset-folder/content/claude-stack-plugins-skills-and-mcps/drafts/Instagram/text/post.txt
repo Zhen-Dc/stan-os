@@ -1,0 +1,31 @@
+Slide 1: A stack is not a tool list
+Plugins, Skills, and MCPs matter when they connect into one operating flow.
+COVER: A useful AI stack is a chain of tools, skills, plugins, MCPs, QA, and publishing surfaces.
+
+Slide 2: Think in layers
+A useful AI stack moves work through connected capabilities.
+PIPELINE: Research gathers context, tools act on files or apps, Skills store repeatable rules, and QA protects the final output.
+
+Slide 3: What each layer owns
+Each layer should have one reason to exist.
+PROGRESS: Plugins extend the app, MCPs connect tools and data, Skills store repeatable instructions, and QA keeps outputs usable.
+
+Slide 4: Tool pile vs operating system
+Buying tools does not create a workflow by itself.
+COMPARISON: Connect each layer to a job: gather context, act on files, generate assets, review quality, and publish.
+
+Slide 5: Why stacks get messy
+The stack breaks when every tool creates a new disconnected tab.
+FIX: Give each layer a clear role and define where the output goes after that layer is done.
+
+Slide 6: Design the flow
+Start from the business workflow, then choose the layers.
+FLOW: Map the task, add the connector, store the rules, generate the asset, review it, then publish or hand off.
+
+Slide 7: Stack speed needs judgment
+The more powerful the stack, the more important the approval gate.
+RATIO: Let the stack handle context, generation, file work, and packaging. Keep humans on source judgment and final approval.
+
+Slide 8: Save this stack rule
+If a tool does not improve the workflow, it is clutter.
+SAVE THIS: A useful AI stack has a job for every layer and a clear handoff after every output.

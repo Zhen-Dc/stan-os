@@ -1,0 +1,19 @@
+Stop trying to solve workflow problems with longer prompts.
+
+The next AI skill is loop engineering.
+
+A prompt gives AI one instruction.
+
+A loop gives AI a process:
+
+Goal -> Context -> Action -> Feedback -> Stop condition
+
+That is what makes AI useful for real work like coding, research, content, operations, and automation.
+
+The goal is not unlimited autonomy.
+
+The goal is bounded autonomy: clear context, clear actions, clear checks, and a clear stopping point.
+
+Pick one task you repeat every week.
+
+Map the loop before you write the prompt.

@@ -1,0 +1,1 @@
+AI saves time when it becomes a workflow, not another tab. Claude Skills turn repeated long instructions into reusable one-line workflows.

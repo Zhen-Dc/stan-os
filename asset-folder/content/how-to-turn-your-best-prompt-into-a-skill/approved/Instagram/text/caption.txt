@@ -1,0 +1,11 @@
+Comment SKILL.
+
+Your strongest prompt might already be a workflow.
+
+The trick is not saving the words. The trick is saving the task, trigger, rules, examples, output path, and QA gate so Claude knows when to run it again.
+
+Data beats design: in this case, the checkable detail is simple. Claude reads the short Skill description when deciding whether a Skill should fire.
+
+Make that description narrow and task-based.
+
+Save this if you want AI workflows that trigger cleanly instead of making you retype the same brief.

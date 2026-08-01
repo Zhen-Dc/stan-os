@@ -1,0 +1,181 @@
+# Visual QA Report
+
+This report checks required image files for the current repurpose packages.
+Automated whitespace checks are approximate and must be paired with manual contact-sheet inspection.
+
+## Summary
+
+- Packages checked: 8
+- PNGs checked: 160
+- Missing/GIF issues: 0
+- Automated image failures: 0
+
+## Contact Sheets
+
+- LinkedIn: `C:\Users\DELL\Master Project\Stan OS\AIS-OS\.tmp\visual-qa\linkedin-all-contact-sheet.png`
+- Instagram: `C:\Users\DELL\Master Project\Stan OS\AIS-OS\.tmp\visual-qa\instagram-all-contact-sheet.png`
+- X: `C:\Users\DELL\Master Project\Stan OS\AIS-OS\.tmp\visual-qa\x-all-contact-sheet.png`
+- Facebook: `C:\Users\DELL\Master Project\Stan OS\AIS-OS\.tmp\visual-qa\facebook-all-contact-sheet.png`
+
+## All Image Metrics
+
+- PASS: `how-to-use-ai-save-time/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.524
+- PASS: `how-to-use-ai-save-time/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.524
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.280
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.311
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.150
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.442
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.308
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.196
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `how-to-use-ai-save-time/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.990
+- PASS: `how-to-use-ai-save-time/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-to-use-ai-save-time/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.76 ink=0.286
+- PASS: `how-to-use-ai-save-time/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.277
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.517
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.517
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.273
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.311
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.152
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.442
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.308
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.192
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.990
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.74 ink=0.281
+- PASS: `how-i-use-ai-to-save-10-hours-per-week/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.74 ink=0.280
+- PASS: `higgsfield-claude-creative-agency/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.522
+- PASS: `higgsfield-claude-creative-agency/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.522
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.287
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.314
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.152
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.446
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.311
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.195
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `higgsfield-claude-creative-agency/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `higgsfield-claude-creative-agency/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `higgsfield-claude-creative-agency/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.79 ink=0.285
+- PASS: `higgsfield-claude-creative-agency/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.74 ink=0.280
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.517
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.517
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.286
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.313
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.156
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.445
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.311
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.198
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.231
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.76 ink=0.289
+- PASS: `claude-in-davinci-resolve-video-editing-agent/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.275
+- PASS: `claude-code-video-editing-wow-moment/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.520
+- PASS: `claude-code-video-editing-wow-moment/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.520
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.288
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.313
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.155
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.445
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.310
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.198
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `claude-code-video-editing-wow-moment/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.231
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-code-video-editing-wow-moment/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `claude-code-video-editing-wow-moment/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.77 ink=0.292
+- PASS: `claude-code-video-editing-wow-moment/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.275
+- PASS: `claude-skills-one-line-prompt-system/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.516
+- PASS: `claude-skills-one-line-prompt-system/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.516
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.284
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.312
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.153
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.308
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.197
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `claude-skills-one-line-prompt-system/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.990
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-skills-one-line-prompt-system/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-skills-one-line-prompt-system/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.77 ink=0.288
+- PASS: `claude-skills-one-line-prompt-system/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.273
+- PASS: `automated-faceless-youtube-system-teardown/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.516
+- PASS: `automated-faceless-youtube-system-teardown/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.516
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.283
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.312
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.157
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.444
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.311
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.198
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.990
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `automated-faceless-youtube-system-teardown/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.987
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.80 ink=0.295
+- PASS: `automated-faceless-youtube-system-teardown/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.274
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/LinkedIn/images/linkedin-thumbnail.png` size=1200x1200 bbox=0.87 ink=0.523
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/LinkedIn/images/linkedin-diagram.png` size=1200x1200 bbox=0.87 ink=0.523
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-01.png` size=1080x1350 bbox=0.80 ink=0.285
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-02.png` size=1080x1350 bbox=0.83 ink=0.310
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-03.png` size=1080x1350 bbox=0.79 ink=0.154
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-04.png` size=1080x1350 bbox=0.83 ink=0.442
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-05.png` size=1080x1350 bbox=0.83 ink=0.312
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-06.png` size=1080x1350 bbox=0.83 ink=0.196
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-07.png` size=1080x1350 bbox=0.83 ink=0.443
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Instagram/images/instagram-slide-08.png` size=1080x1350 bbox=0.83 ink=0.232
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-thumbnail.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-01.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-02.png` size=920x458 bbox=1.00 ink=0.990
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-03.png` size=920x458 bbox=1.00 ink=0.992
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-04.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-05.png` size=920x458 bbox=1.00 ink=0.991
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote-06.png` size=920x458 bbox=1.00 ink=0.988
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/X/images/x-quote.png` size=920x458 bbox=1.00 ink=0.989
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Facebook/images/facebook-thumbnail.png` size=1080x1350 bbox=0.77 ink=0.288
+- PASS: `claude-stack-plugins-skills-and-mcps/drafts/Facebook/images/facebook-course-card.png` size=1080x1350 bbox=0.71 ink=0.272

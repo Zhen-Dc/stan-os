@@ -1,0 +1,9 @@
+**Caption:** The biggest mistake every professional makes when adopting AI at work is ignoring data privacy rules! 🚨
+The core idea is simple, but the legal risks are massive. Don't let your workflow optimization blind you to compliance.
+
+⚠️ **3 Things to Know Before You Paste:**
+1.  **Default Training:** By default, many personal AI chats use your inputs (code snippets, meeting transcripts) to train their models for years. This is a major risk point for NDAs and company secrets.
+2.  **Jurisdictional Risk:** For EU users, passing PII (personal identifiers) through foreign-hosted tools can be an automatic GDPR violation.
+3.  **The Golden Rule:** Before you paste anything into ChatGPT or Claude, ask: "Would I be comfortable if this conversation was visible on our internal company chat?" If the answer is no, anonymize it first!
+
+👉 **Action Step:** Start auditing your team's current AI usage to identify single points of failure and build a compliant workflow. This is where true process automation starts.

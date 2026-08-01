@@ -1,0 +1,8 @@
+Create slide 1 of an Instagram educational carousel.
+
+Headline: "Stop saving prompts. Start saving workflows."
+Badge: "CLAUDE SKILLS"
+Subhead: "The command is not the asset. The repeatable process is."
+Creator row: "Stanley - @stanleyai" with Stanley's real avatar.
+Footer: "01 / 08" and "SWIPE".
+Style: clean cream graph-paper cover, large headline, one orange accent, no teaching cards on the cover.

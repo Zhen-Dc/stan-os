@@ -1,0 +1,10 @@
+
+Create platform visuals for "Claude Stack Plugins Skills And MCPs".
+
+Core idea: A useful AI stack is a chain of tools, skills, plugins, MCPs, QA, and publishing surfaces.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Six clean tweet screenshot quote cards. They must look like normal tweets: avatar, Stanley, verified badge, @stanleyai, and tweet text only. No LESSON/TIP/WORKFLOW labels, no footer, no timestamp, no fake engagement row.

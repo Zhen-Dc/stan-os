@@ -1,0 +1,24 @@
+You have 20 unread messages.
+
+Sorry. That was not part of the post. I just needed your attention because this mistake can quietly burn money.
+
+Claude Fable 5 should not be used like a normal chatbot.
+
+Use it for hard thinking:
+- strategy
+- workflow design
+- decision rules
+- research direction
+- complex first drafts
+
+Then move execution to a cheaper/faster model.
+
+That is the real AI skill:
+
+Not just prompting.
+Model routing.
+
+Premium AI should act like the architect.
+Your cheaper models should handle the repeated execution.
+
+Save this before your next long AI chat.

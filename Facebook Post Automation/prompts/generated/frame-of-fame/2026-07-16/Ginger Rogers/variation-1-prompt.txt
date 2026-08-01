@@ -1,0 +1,36 @@
+Use case: photorealistic-natural
+Asset type: Facebook image post for Frame of Fame, true 3:4 portrait ratio
+
+Fields:
+CELEBRITY NAME: Ginger Rogers
+COUNTRY: USA
+POST TYPE: Birthday / Golden Age musical legacy
+AGE OR MEMORIAL YEARS: 1911-1995
+KNOWN WORKS: Kitty Foyle, RKO musicals, films with Fred Astaire, Golden Age Hollywood
+CAREER MOOD: graceful musical cinema, elegant movement, golden age warmth
+COLOR PALETTE: emerald and cream
+HOUSE STRUCTURE: Elegant Actress Mosaic With Name Band
+
+Primary request:
+Create a premium celebrity tribute collage for Ginger Rogers using the Elegant Actress Mosaic With Name Band structure.
+
+Subject:
+Ginger Rogers, respectful recognizable likeness across life stages. Every grid/photo panel must show Ginger Rogers recognizably. Props/settings may appear only as background context while Ginger Rogers is present.
+
+Style/medium:
+photorealistic editorial cinema mosaic, premium Facebook tribute poster, warm nostalgic lighting, refined and high engagement. Photorealistic, premium, nostalgic, Facebook-mobile readable.
+
+Composition/framing:
+Vertical 3:4 portrait. One large elegant center portrait, smaller panels around the center portrait, warm screen/stage context panels, wide textured bottom name band. Thin clean dividers. No empty object-only panels. No prop-only panels. No distant silhouette-only panels.
+
+Lighting/mood:
+graceful musical cinema, elegant movement, golden age warmth; warm cinematic lighting, celebratory, legacy-focused, premium.
+
+Color palette:
+emerald and cream.
+
+Text (verbatim):
+"GINGER ROGERS" only. Spell the name exactly as: GINGER ROGERS. Large clean readable serif in the title/name band.
+
+Constraints:
+Every panel must include Ginger Rogers recognizably. No standalone props. No exact movie-scene recreation. No copyrighted logos. No fake quotes. No hashtags. No watermark. No Facebook UI. No page branding. No extra text. No political references. No scandal references. Name must be correctly spelled and readable.

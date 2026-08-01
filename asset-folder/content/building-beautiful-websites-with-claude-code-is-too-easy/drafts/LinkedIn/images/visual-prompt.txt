@@ -1,0 +1,30 @@
+Use case: infographic-diagram
+Asset type: LinkedIn key-takeaway graphic, PNG
+
+Create a clean educational diagram based on the video "Building Beautiful Websites with Claude Code Is Too Easy."
+
+Main title:
+AI Websites Work Better With A Setup
+
+Subtitle:
+Claude Code is faster when it has context, design rules, brand assets, review, and deployment.
+
+Diagram sections:
+1. Context
+   CLAUDE.md gives the AI rules before the build starts.
+2. Design
+   Frontend standards keep the site from looking generic.
+3. Brand
+   Assets, colors, examples, and voice keep the output consistent.
+4. Review
+   The operator checks quality before anything ships.
+5. Deploy
+   The workflow ends with a publishable website, not a demo.
+
+Visual style:
+- Whiteboard-style educational graphic.
+- Cream or white background with subtle grid.
+- Numbered boxes, arrows, small code/window icons, and annotation notes.
+- Include Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg` in a small creator pill.
+- Put a blue verified badge beside Stanley's name, not overlapping it.
+- PNG output, readable text, no fake company logos, no watermark.

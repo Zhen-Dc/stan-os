@@ -1,0 +1,11 @@
+1/ AI saves time when it becomes a workflow, not another tab. Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.
+
+2/ The prompt is not the asset. The repeatable process is. Creators often know the result they want but get stuck operating command-line tools manually.
+
+3/ Do not ask AI to guess your workflow. Give it the source, the rules, and the definition of done.
+
+4/ The safest automation has a human review gate before anything reaches a client, customer, or audience.
+
+5/ If a task happens every week, has clear inputs, and ends in a predictable output, it is a good AI workflow candidate.
+
+6/ Give AI the outcome, let it inspect files, choose the command, run the edit, and save the finished asset. The win is not magic. It is repeatable operating leverage.

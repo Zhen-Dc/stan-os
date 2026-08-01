@@ -1,0 +1,10 @@
+
+Create platform visuals for "Writing Emails From Scratch In 2026 Is Embarrassing".
+
+Core idea: A faster email workflow connects Claude to Gmail and meeting context before drafting, then saves the result as a reviewed Gmail draft.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Six clean tweet screenshot quote cards. They must look like normal tweets: avatar, chima-stanley-chukwu, verified badge, @chima-stanley-chukwu, and tweet text only. No LESSON/TIP/WORKFLOW labels, no footer, no timestamp, no fake engagement row.

@@ -1,0 +1,32 @@
+Most people are still asking AI for answers.
+
+The better move is building loops.
+
+A loop is simple:
+
+discover -> plan -> execute -> verify -> improve
+
+That is how AI stops being a one-off chatbot and starts becoming a repeatable workflow.
+
+The important part:
+
+Do not remove the human.
+
+Move the human to the judgment points.
+
+Optional thread:
+
+1. Prompting is asking once.
+Looping is designing a workflow the AI can repeat.
+
+2. Good loops have stages:
+discovery, planning, execution, verification, iteration.
+
+3. Agents are useful when each one has a clear job.
+Research agent. Builder agent. Marketing agent. QA agent.
+
+4. The orchestrator is what keeps the system moving.
+It decides what runs, when it runs, and what needs review.
+
+5. The win is not "AI does everything."
+The win is that AI handles repeatable work while humans protect quality.

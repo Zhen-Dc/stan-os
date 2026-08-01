@@ -1,0 +1,31 @@
+Slide 1:
+Turn One Winning Ad Into 30.
+This is how app marketing teams can use Claude skills to turn one proven creative into a repeatable ad-testing pipeline.
+
+Slide 2:
+Do Not Start From Blank
+The best next ad usually starts inside the best previous ad.
+
+Slide 3:
+Score The Ad First
+A creative system needs a pass/fail view before it generates more assets.
+
+Slide 4:
+Mine Buyer Language
+Comments are not noise. They are a copy bank if the system knows what to extract.
+
+Slide 5:
+Map The Buyer Stage
+Cold viewers and warm viewers should not get the same creative angle.
+
+Slide 6:
+Generate The Test Batch
+One angle should create more than one asset if the pipeline is built properly.
+
+Slide 7:
+Turn Angles Into Scripts
+Marketing teams move faster when the system turns strategy into a production-ready brief.
+
+Slide 8:
+Build The Creative OS
+The asset is not one prompt. The asset is the repeatable ad production workflow.

@@ -1,0 +1,36 @@
+Use case: photorealistic-natural
+Asset type: Facebook image post for Frame of Fame, true 3:4 portrait ratio
+
+Fields:
+CELEBRITY NAME: Phoebe Cates
+COUNTRY: USA
+POST TYPE: Birthday / screen nostalgia legacy
+AGE OR MEMORIAL YEARS: Turns 63
+KNOWN WORKS: Fast Times at Ridgemont High, Gremlins, Drop Dead Fred, Princess Caraboo
+CAREER MOOD: warm 1980s screen nostalgia, graceful, timeless
+COLOR PALETTE: burgundy and gold
+HOUSE STRUCTURE: Elegant Actress Mosaic With Name Band
+
+Primary request:
+Create a premium celebrity tribute collage for Phoebe Cates using the Elegant Actress Mosaic With Name Band structure.
+
+Subject:
+Phoebe Cates, respectful recognizable likeness across life stages. Every grid/photo panel must show Phoebe Cates recognizably. Props/settings may appear only as background context while Phoebe Cates is present.
+
+Style/medium:
+photorealistic editorial cinema mosaic, premium Facebook tribute poster, warm nostalgic lighting, refined and high engagement. Photorealistic, premium, nostalgic, Facebook-mobile readable.
+
+Composition/framing:
+Vertical 3:4 portrait. One large elegant center portrait, smaller panels around the center portrait, warm screen/stage context panels, wide textured bottom name band. Thin clean dividers. No empty object-only panels. No prop-only panels. No distant silhouette-only panels.
+
+Lighting/mood:
+warm 1980s screen nostalgia, graceful, timeless; warm cinematic lighting, celebratory, legacy-focused, premium.
+
+Color palette:
+burgundy and gold.
+
+Text (verbatim):
+"PHOEBE CATES" only. Spell the name exactly as: PHOEBE CATES. Large clean readable serif in the title/name band.
+
+Constraints:
+Every panel must include Phoebe Cates recognizably. No standalone props. No exact movie-scene recreation. No copyrighted logos. No fake quotes. No hashtags. No watermark. No Facebook UI. No page branding. No extra text. No political references. No scandal references. Name must be correctly spelled and readable.

@@ -1,0 +1,39 @@
+Do not install random things in Claude.
+
+Install workflows.
+
+For marketing teams, that means research, campaign briefs, content drafts, ad variations, reporting, follow-up, and QA.
+
+The weak Claude setup:
+
+A folder full of prompts.
+
+The useful setup:
+
+A marketing stack where every prompt, file, and automation moves a campaign from input to approved output.
+
+Claude becomes useful for marketing when you give it a function.
+
+Campaign strategist.
+Research analyst.
+Content planner.
+Ad variation builder.
+Reporting assistant.
+Lead follow-up prep.
+
+Most teams do not need more AI tools.
+
+They need one repeated marketing workflow mapped clearly enough for AI to help without creating more chaos.
+
+If Claude is helping your marketing team, it should know:
+
+The buyer.
+The offer.
+The channel.
+The proof.
+The output format.
+The review rule.
+
+For app and SaaS teams, the opportunity is not "learn every AI trend."
+
+The opportunity is turning repeated marketing tasks into workflows that save time every week.

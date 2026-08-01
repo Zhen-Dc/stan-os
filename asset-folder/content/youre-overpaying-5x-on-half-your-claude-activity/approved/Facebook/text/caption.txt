@@ -1,0 +1,27 @@
+
+Comment MODEL.
+
+Claude gets expensive when every task uses the same model.
+
+Use the model ladder:
+
+1. Haiku for cheap bulk work.
+2. Sonnet for everyday drafting and planning.
+3. Opus when mistakes are expensive.
+4. Fable for long agentic builds.
+
+Then check the effort dial:
+
+Low for bulk.
+Medium for step-down.
+High as the sweet spot.
+Extra for long runs.
+Max only when the gain is worth the cost.
+
+The simple check:
+if the task is low-risk, do not spend premium capacity on it.
+
+Checkable detail:
+Haiku is the 1x lane, Sonnet is 3x, Opus is 5x, and Fable is 10x.
+
+Comment MODEL if you want the checklist.

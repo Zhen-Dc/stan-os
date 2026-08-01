@@ -1,0 +1,32 @@
+Use case: infographic-diagram
+Asset type: LinkedIn key-takeaway graphic, PNG
+
+Create a LinkedIn educational diagram for an AI automation services brand.
+
+Main title:
+Stop Prompting Once. Build Loops.
+
+Subtitle:
+A useful AI workflow moves through discovery, planning, execution, verification, and iteration.
+
+Diagram sections:
+1. Discover
+   Find the inputs, context, and opportunities.
+2. Plan
+   Decide the steps, agents, and success criteria.
+3. Execute
+   Let specialist agents do the repeatable work.
+4. Verify
+   Check accuracy, quality, and brand fit.
+5. Iterate
+   Improve the output and run the loop again.
+
+Bottom note:
+The human does not disappear. The human moves to judgment.
+
+Visual style:
+- Cream or white grid background.
+- Numbered boxes, arrows, and concise annotations.
+- Small creator pill using Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg`.
+- Blue verified badge beside Stanley's name, not overlapping it.
+- PNG output, readable text, no fake company logos, no watermark.

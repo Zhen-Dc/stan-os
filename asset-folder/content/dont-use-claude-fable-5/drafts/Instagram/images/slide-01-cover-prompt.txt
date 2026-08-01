@@ -1,0 +1,1 @@
+Create a premium editorial Instagram cover from cover-prompt.json. Huge magazine-style headline must cover around 60% of the canvas, one orange highlighted line, fixed dark top-left badge, bottom-left profile pill with Stanley's real avatar, page counter, and swipe cue. No cards or rule panels.

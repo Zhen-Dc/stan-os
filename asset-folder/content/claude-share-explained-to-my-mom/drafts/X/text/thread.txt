@@ -1,0 +1,19 @@
+Do not explain Claude to a beginner with model names.
+
+Ask what they want finished.
+
+Then give them this:
+
+"I want [task] for [result]. Ask me questions first."
+
+That removes the blank prompt problem.
+
+After that:
+
+Use voice if typing slows them down.
+Upload the file into a Claude Project.
+Ask for the output they need.
+Save repeated instructions as a Skill.
+Connect email or calendar only when permissions are clear.
+
+One useful result beats a feature tour.

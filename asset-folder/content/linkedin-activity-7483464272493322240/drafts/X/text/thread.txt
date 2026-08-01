@@ -1,0 +1,26 @@
+A winning ad should not sit in a folder.
+
+It should become the input for the next test batch.
+
+Use Claude to:
+
+1. Score the ad
+2. Tear down the angle
+3. Mine the comments
+4. Map the buyer stage
+5. Generate hooks and scripts
+6. Build the brief
+7. Adapt the creative for the channel
+
+Most teams use AI at the wrong step.
+
+They ask it to invent new ads from nothing.
+
+Better move:
+
+Give it the creative that already worked.
+Give it the comments.
+Give it the numbers.
+Then ask it to extract what is reusable.
+
+That is how one ad becomes a creative system.

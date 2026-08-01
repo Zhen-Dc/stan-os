@@ -1,0 +1,35 @@
+Slide 1: Turn 1 prompt into Skills
+Use the prompt that already works, save it as a narrow Claude Skill, and describe the exact task it should run.
+COVER: A useful Claude Skill starts from a repeated prompt or chat, then uses a short task-based description so Claude knows when to run it.
+
+Slide 2: Start with the repeat
+A Skill only makes sense when the task comes back again and again.
+STAKES: Choose a prompt you already reuse: hooks, meeting notes, spreadsheet cleanup, AI text cleanup, client briefs, or content packaging.
+
+Slide 3: The description routes it
+Claude reads the short Skill description to decide whether the Skill should run.
+ROUTING: Write the description like a clear task trigger, not a broad topic label. Use: when I ask for a LinkedIn hook from a source post.
+
+Slide 4: Make one Skill do one job
+Broad Skills become hard to trigger and harder to trust.
+ONE_JOB: Create a narrow Skill for one job with one input pattern, one output format, and one QA gate.
+
+Slide 5: Do not write manually first
+Use the finished chat or a ready-made Skill as the starting point, then refine it for your own job.
+BUILD_LOOP: Take the working process, save the instructions, add examples, define the output, and keep the review step visible.
+
+Slide 6: Test the firing behavior
+A Skill is useful only when it appears at the right moment.
+QA_GATE: Run a small real task. If Claude misses the Skill or uses it too broadly, rewrite the description until the trigger is obvious.
+
+Slide 7: Save the whole workflow
+The best prompt is usually hiding more than words.
+FLOW: Keep the source rules, examples, tone, output format, file paths, limits, approval steps, and mistakes to avoid inside the Skill.
+
+Slide 8: Use this rule
+If a prompt becomes part of your work, stop treating it like a message.
+RULE: Turn it into a narrow Skill with a task-based description, then keep improving it from real runs.
+
+Slide 9: Comment SKILL
+Comment SKILL if you want the checklist for turning one repeated prompt into a reusable workflow.
+CTA: Comment SKILL. I will send the checklist for turning a repeated prompt into a reusable Claude Skill.

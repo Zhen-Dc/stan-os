@@ -1,0 +1,32 @@
+Use case: ads-marketing
+Asset type: Facebook course-interest graphic, PNG
+
+Create a beginner-friendly Facebook course-interest graphic about learning AI loops.
+
+Main text:
+Learn AI loops
+
+Support text:
+Discover. Plan. Execute. Verify. Improve.
+
+CTA:
+Comment "loops" for the beginner checklist.
+
+Visual structure:
+- 1080x1350 PNG.
+- Warm clean grid background.
+- Top-left creator row with Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg`.
+- Blue verified badge beside Stanley's name with clear spacing.
+- Big centered headline.
+- Three roomy learning cards:
+  1. Map the task
+  2. Assign agents
+  3. Add QA gates
+- Bottom CTA with generous padding.
+
+Constraints:
+- No luxury imagery.
+- No unrealistic income claims.
+- No clipped text.
+- No generated lookalike avatar.
+- No watermark.

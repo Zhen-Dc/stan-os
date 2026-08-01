@@ -1,0 +1,27 @@
+
+Do not build a huge prompt collection first.
+
+Build commands for repeated work.
+
+A Claude Skill should save the setup you keep retyping:
+
+- role
+- source file
+- examples
+- tone
+- output format
+- mistakes to avoid
+
+That is why Skills are useful.
+
+You type the command. Claude already has the context.
+
+Start with boring daily jobs:
+
+- ask questions before building
+- humanize a draft
+- fact-check claims
+- clean a messy idea
+- write a hook
+
+Then make your own Skills from the tasks you repeat every week.

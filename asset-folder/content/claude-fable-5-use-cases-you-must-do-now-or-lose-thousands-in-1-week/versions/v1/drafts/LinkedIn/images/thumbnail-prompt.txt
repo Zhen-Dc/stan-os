@@ -1,0 +1,5 @@
+Create a LinkedIn intro/thumbnail about "5 projects worth your best AI model".
+Headline: "5 Projects Worth Your Best Model"
+Badge text: "AI WORKFLOW"
+Subhead: "Plan first. Hand the strongest model a real goal second."
+Style: cream grid background, oversized headline, rust accent on the number 5, creator row for Stanley @stanleyai, clean educational layout. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep text readable and avoid fake metrics or logos.

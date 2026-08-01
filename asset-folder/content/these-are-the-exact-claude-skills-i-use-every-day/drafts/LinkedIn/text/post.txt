@@ -1,0 +1,32 @@
+
+Claude Skills are not just prompts with a better name.
+
+They are shortcuts for work you repeat.
+
+The useful idea from this post:
+
+A Skill can behave like a slash command.
+
+Instead of re-explaining your tone, files, process, examples, and output format in every new chat, you save the setup once.
+
+Then the next task starts from a command, not a blank page.
+
+The daily Skills worth copying are the boring ones:
+
+1. A Skill that interviews you before building.
+2. A Skill that removes robotic AI writing.
+3. A Skill that fact-checks claims before publishing.
+4. A Skill that turns messy thoughts into a clean task.
+5. A Skill that writes the first two lines of a LinkedIn post.
+
+That is why the "27 Skills" angle works.
+
+The number is not the point.
+
+The point is that repeated work should have reusable instructions.
+
+Install a library if it saves you time.
+
+But the real move is to build your own Skill library from the tasks you actually repeat every week.
+
+Comment SKILLS if you want the checklist for deciding which Claude Skills to install, build, or ignore.

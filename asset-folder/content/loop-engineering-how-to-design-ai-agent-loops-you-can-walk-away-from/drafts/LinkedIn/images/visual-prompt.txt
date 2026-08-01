@@ -1,0 +1,14 @@
+Create a LinkedIn educational diagram image for an AI automation services brand.
+
+Main title: "Prompt vs Loop: The AI Workflow Shift"
+
+Structure:
+1. Prompt: one instruction, one response, waits for next input.
+2. Loop: goal, action, feedback, checkpoint, continue or stop.
+3. Workflow: context, tools, boundaries, saved artifacts, approval gate.
+
+Visual style: polished whiteboard-style educational diagram, white background, black text, blue and green accents, arrows connecting the loop stages, small interface sketches, professional and readable.
+
+Include Stanley's real profile photo from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png as a small creator avatar if available, with a small blue verified badge placed beside the name with clear spacing.
+
+Do not include fake logos or unverifiable numbers. Keep all text legible on mobile.

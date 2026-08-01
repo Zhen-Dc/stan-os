@@ -1,0 +1,17 @@
+Source URL: https://www.linkedin.com/feed/update/urn:li:activity:7475865408646926336/
+Source title: Claude Skills One-Line Prompt System
+Creator: Ruben Hassid
+Source confidence: source-brief-derived
+
+Verified facts used for drafting:
+- Local source brief lists creator: Ruben Hassid.
+- Local source brief topic: Claude Skills turn repeated long instructions into reusable one-line workflows.
+- The public preview was recorded in AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md.
+- The package recreates the strategy for Stanley's AI automation positioning.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source brief from AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md. Creator: Ruben Hassid. Topic: Claude Skills turn repeated long instructions into reusable one-line workflows.. Useful pattern: The local reference says the post turns a complex AI workflow into a before/after fix with steps.

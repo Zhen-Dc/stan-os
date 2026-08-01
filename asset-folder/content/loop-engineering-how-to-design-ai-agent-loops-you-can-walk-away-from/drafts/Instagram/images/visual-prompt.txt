@@ -1,0 +1,19 @@
+Create an 8-slide Instagram educational carousel with clean structured tweet-style layouts.
+
+Aspect ratio: 1080x1350 per slide.
+
+Theme: Loop Engineering for AI workflows.
+
+Slide plan:
+1. Intro cover using `slide-01-cover-prompt.txt`: "Design AI Loops You Can Walk Away From."
+2. Teaching slide numbered 1: "A prompt is one instruction. A loop is a working cycle."
+3. Teaching slide numbered 2: "Real work needs multiple steps, not one response."
+4. Teaching slide numbered 3: "A strong loop needs goal, context, action, feedback, stop condition."
+5. Teaching slide numbered 4: "The unlock is bounded autonomy."
+6. Teaching slide numbered 5: "Example loop: source -> facts -> rewrite -> check -> approve -> repurpose."
+7. Teaching slide numbered 6: "Better question: what should the AI check, and when should it stop?"
+8. Teaching slide numbered 7: "Map the loop first. Then write the prompt."
+
+Visual style: clean tweet-style carousel, light background, black text, blue and green accents, simple workflow diagrams, creator pill with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png if available, verified badge beside the creator name with visible spacing.
+
+Keep slides uncluttered, readable at phone size, and avoid tiny text or overlapping containers.

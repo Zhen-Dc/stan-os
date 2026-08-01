@@ -1,0 +1,11 @@
+1/ The bottleneck was not the content idea. It was one person acting as the whole content department.
+
+2/ A content tool stack works when each tool owns one role, not when one model tries to do everything.
+
+3/ Claude writes. Claude Code designs. HyperFrames edits. Buffer ships. Apify reports. Notion remembers.
+
+4/ The human does not disappear. The human becomes the final approval seat.
+
+5/ If your content workflow depends on you remembering every asset, metric, idea, and deadline, you do not have a system yet.
+
+6/ The org chart is the strategy. The tools only matter after the roles are clear.

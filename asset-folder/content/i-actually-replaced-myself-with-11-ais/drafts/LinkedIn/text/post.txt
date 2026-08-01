@@ -1,0 +1,51 @@
+
+I replaced one creator bottleneck with a content tool org chart.
+
+The exact team behind 350k+ across socials:
+
+For years, every post needed one person to think, research, write, design, edit, publish, reply, track, and remember everything.
+
+That does not scale.
+
+So the work became a team:
+
+Head of Operations: Hermes
+Scores every idea and picks the winner before production starts.
+
+Head of Research: Reddit, X, and Instagram
+Finds what people actually care about before the content gets made.
+
+Head of Content: Claude
+Turns rough ideas into posts and scripts in the right voice.
+
+Head of Design: Claude Code
+Builds branded graphics and infographics in HTML.
+
+Head of Illustration: GPT Image 2
+Creates visuals on demand when the post needs an image.
+
+Head of Post-Production: HyperFrames
+Cuts and renders reels, captions, and overlays.
+
+Head of Cinematography: Higgsfield
+Creates the B-roll footage that was never filmed.
+
+Head of Distribution: Buffer
+Queues and ships the content on schedule.
+
+Head of Community: ManyChat
+Handles comments, DMs, and guide delivery.
+
+Head of Analytics: Apify
+Pulls the numbers and shows what actually landed.
+
+Head of Memory: Notion
+Stores ideas, assets, calendars, metrics, and the messy history.
+
+The useful part is not replacing the human.
+
+The useful part is removing the bottleneck.
+
+The human still keeps the last yes.
+
+Comment TEAM if you want the content tool org chart.

@@ -1,0 +1,23 @@
+Slide 1: Claude Fable 5 Is Not For Every Tiny Task
+Claude Fable 5 should not answer every small question. Use it for expensive thinking: strategy, decisions, routing, and setup. Then let cheaper models handle execution.
+
+Slide 2: The Senior Lawyer Test
+Think of Claude Fable 5 like a senior lawyer. You do not pay the senior lawyer to rewrite every clause. You pay them to define the strategy. Then the assistant drafts from that strategy.
+
+Slide 3: Where The Money Leaks
+Every prompt and every answer is a turn. Long chats become expensive because the model keeps reading more context and generating more output. The leak is not one question. The leak is using premium AI for every small turn.
+
+Slide 4: The Right Model Routing
+Use the strongest model for unclear goals, high-stakes decisions, research direction, and workflow design. Use cheaper models for drafts, formatting, summaries, repurposing, resizing, and template execution.
+
+Slide 5: The Better Workflow
+First, give the premium model the goal and success target. Second, make it ask clarifying questions. Third, let it create the plan. Fourth, switch execution to a cheaper model. Fifth, track the output and cost.
+
+Slide 6: Prompt The Expensive Model Like This
+Do not ask a vague question. Give the task, goal, success target, and ask for clarifying questions before it solves. This makes the expensive turns count.
+
+Slide 7: The Team Risk
+One trained person can waste a few credits. An untrained team can multiply the same mistake every day. The fix is a shared model-routing rule, not just another prompt template.
+
+Slide 8: Save This Rule
+Use premium AI for architecture. Use cheaper AI for execution. If your team cannot explain when to switch models, the workflow is not ready.

@@ -1,0 +1,13 @@
+I bet this will save someone from giving a 30-minute AI lecture.
+
+Sorry for the dramatic hook, but this matters.
+
+If someone asks you what Claude is, do not explain everything.
+
+Ask what they want done.
+Give them one prompt.
+Help them get one useful output.
+
+That is enough to start.
+
+Save this if you are trying to help a parent, friend, teammate, or client stop feeling behind on AI.

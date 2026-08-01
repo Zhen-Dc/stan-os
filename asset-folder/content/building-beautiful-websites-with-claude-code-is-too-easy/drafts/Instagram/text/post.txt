@@ -1,0 +1,70 @@
+Carousel Caption
+
+Claude Code makes website building feel almost too easy.
+
+But the real advantage is not "AI writes code."
+
+The real advantage is that you can move faster when the AI knows the setup.
+
+If you skip the setup, you usually get generic pages, random design choices, weak brand alignment, and a lot of cleanup.
+
+If you do the setup well, the AI has a system to build inside.
+
+That means:
+
+- clearer instructions
+- better design direction
+- stronger brand consistency
+- faster revisions
+- cleaner handoff to deployment
+
+That is the part most beginners miss.
+
+AI gives speed.
+
+Your system gives direction.
+
+Save this if you are learning how to build polished websites with AI without making everything look generic.
+
+Carousel Slides
+
+Slide 1: Start with the setup
+AI website building does not start with a prompt.
+It starts with the system around the prompt.
+
+Paste this:
+Before you ask Claude Code to build, define the outcome, the rules, and what good should look like.
+
+Slide 2: Create the context
+Your CLAUDE.md file is the onboarding document the AI reads before the work starts.
+
+Paste this:
+Write your role, voice, design defaults, brand rules, and output standards once. Reuse them every session.
+
+Slide 3: Add design standards
+A working website is not always a polished website.
+The AI needs taste boundaries.
+
+Paste this:
+Give the AI layout rules, spacing preferences, examples, and frontend quality standards before it builds.
+
+Slide 4: Feed the brand
+If the AI cannot see your brand assets, it will guess.
+That is how generic output happens.
+
+Paste this:
+Keep logo, colors, fonts, profile image, screenshots, and examples in one brand assets folder.
+
+Slide 5: Review like an operator
+The first draft is not the win.
+The review loop is where quality shows up.
+
+Paste this:
+Check the layout, text, brand fit, responsiveness, and whether the website solves the real problem.
+
+Slide 6: Ship the system
+The goal is not a one-time AI trick.
+The goal is a repeatable workflow you can use again.
+
+Paste this:
+Turn the process into a reusable setup: context, design rules, brand assets, review, and deployment.

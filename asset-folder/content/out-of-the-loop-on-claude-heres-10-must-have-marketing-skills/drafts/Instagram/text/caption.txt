@@ -1,0 +1,28 @@
+
+Out of the loop on Claude for marketing? Here are 10 must-have audit Skills for Sonnet 5.
+
+Sonnet 5 is one of the cheaper Claude models.
+
+But cheap does not mean bad. For marketing work, it can be the model that reads live ad data and hands back a ranked fix list.
+
+The useful output is simple:
+scale, pause, test, or rebuild.
+
+Meta Ads:
+-> /tracking-audit for Pixel and CAPI gaps.
+-> /kpi-map for wrong-objective campaigns.
+-> /campaign-structure-audit for learning-phase issues.
+-> /adset-analysis for scale, hold, or kill verdicts.
+-> /creative-fatigue for ads dying before CPMs jump.
+
+Google Ads:
+-> /wasted-spend-audit for zero-conversion spend.
+-> /search-audit for match-type and RSA leaks.
+-> /shopping-audit for dead products dragging ROAS.
+-> /pmax-audit for A-to-F asset group grades.
+-> /keyword-opportunities for proven terms you never added.
+
+Want all 10?
+Make sure we are connected.
+
+Comment SONNET below and I will send you the pack.

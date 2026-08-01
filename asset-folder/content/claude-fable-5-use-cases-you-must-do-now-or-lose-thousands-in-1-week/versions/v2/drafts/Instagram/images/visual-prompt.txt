@@ -1,0 +1,34 @@
+Create an 8-slide Instagram carousel in the dense reference style.
+
+Slide 1 must be a clean intro cover:
+- Title: "Stop wasting your strongest AI model on tiny prompts."
+- Subtext: "Use Fable 5 when the work has a brief, tools, checkpoints, and a finish line. Tiny prompts can use cheaper models."
+- cream grid background
+- dark badge
+- huge hook headline
+- one rust/orange accent line
+- Stanley creator row near the lower-left
+- "01 / 08" and swipe cue
+
+Slides 2-6 must match the five source use cases in order:
+- Slide 2 / No. 1: clone one paid tool locally.
+- Slide 3 / No. 2: audit Claude Code history.
+- Slide 4 / No. 3: build an agentic OS.
+- Slide 5 / No. 4: review serious code.
+- Slide 6 / No. 5: build custom software from a PRD.
+
+Slides 7-8 explain the usage filter:
+- Slide 7: plan before Fable 5.
+- Slide 8: save the model filter.
+
+Every lower module must be labeled by what it is:
+- PROMPT for prompt boxes.
+- TIPS for tips.
+- INSTRUCTION for instructions.
+- CHECKLIST for checklists.
+- QA GATE for review gates.
+- TECH STACK for tools or build stack.
+- WORKFLOW for process rows.
+- USE THIS for final filters.
+
+Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png. Fill the canvas with useful information like the references, but keep all text readable and avoid clipping, overlap, fake metrics, fake logos, jargon, or unsupported claims.

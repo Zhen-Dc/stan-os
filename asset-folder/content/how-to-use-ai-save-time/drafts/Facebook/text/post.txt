@@ -1,0 +1,18 @@
+
+If you are learning AI, start here:
+
+Do not chase every new tool.
+
+Study how one useful workflow is built.
+
+This source shows a practical pattern:
+
+- Creators and founders lose time by doing ideation, drafting, editing, and handoff work manually every week.
+- Turn the task into roles: researcher, strategist, copywriter, editor, visual planner, and QA reviewer.
+- The rough draft already framed the system as faster production, higher consistency, and more room for strategy.
+
+That is the skill worth learning. You are not just learning how to prompt. You are learning how to turn a repeated task into a system.
+
+Start with one task you already do every week. Write the steps. Let AI help with the draft. Then review the result before using it.
+
+That is how AI becomes useful for work, content, and business.

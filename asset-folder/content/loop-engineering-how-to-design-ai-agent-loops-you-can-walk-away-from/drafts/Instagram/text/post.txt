@@ -1,0 +1,75 @@
+Carousel: Loop Engineering
+
+Slide 1:
+Stop writing longer prompts.
+
+Build the loop instead.
+
+Slide 2:
+1. Prompt vs loop
+
+A prompt gives AI one instruction.
+
+A loop gives AI a working cycle:
+plan, act, check, continue, or stop.
+
+Slide 3:
+2. Real work is not one response
+
+Coding, research, content, operations, and automation usually need multiple passes.
+
+That is where a loop beats a prompt.
+
+Slide 4:
+3. The loop stack
+
+A strong AI loop needs:
+
+- A clear goal
+- The right context
+- Allowed actions
+- Feedback checks
+- Stop conditions
+- Saved outputs
+
+Slide 5:
+4. Bounded autonomy
+
+The goal is not to let AI do anything.
+
+The goal is to let it work inside a clear lane, then stop when approval or judgment is needed.
+
+Slide 6:
+5. Example workflow
+
+Fetch source.
+Save original.
+Extract facts.
+Rewrite.
+Check claims.
+Create metadata.
+Wait for approval.
+Repurpose.
+
+That is a loop.
+
+Slide 7:
+6. The better question
+
+Do not only ask:
+
+"What prompt should I write?"
+
+Ask:
+
+"What should the AI check, and when should it stop?"
+
+Slide 8:
+7. Map it first
+
+If a task repeats, design the loop before the prompt.
+
+That is how AI becomes a workflow, not just a chat.
+
+CTA:
+Save this if you are building AI systems.

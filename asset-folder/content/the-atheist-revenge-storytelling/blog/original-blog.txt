@@ -1,0 +1,18 @@
+# Source Notes Only: The Atheist
+
+Source URL: https://www.ebonystory.com/story/the-atheist
+
+The full EbonyStory text was not copied because the source page carries an explicit copyright notice. This file is kept in the `original-blog.txt` position so the repurpose-blog folder contract stays intact, but it contains only source attribution and high-level public listing notes.
+
+Public details used:
+
+- Title: The Atheist
+- Source: EbonyStory
+- Listed author: Tz Jay
+- Copyright notice on page: Alabede Deborah, 2018
+- Genre signal: Action
+- High-level premise: A young man named Josh is pushed toward revenge after his parents are killed by a feared group known as Faceless. Jude is connected to his fight back.
+
+Rewrite boundary:
+
+The draft in `blog/repurposed-blog.txt` is an original educational blog post inspired by the public premise. It is not a copied or close retelling of the story.

@@ -1,0 +1,40 @@
+Writing emails from scratch in 2026 is embarrassing
+
+Here's what I do instead (only takes 2 minutes):
+
+Step 1. Install Granola. ai. It's free. 
+→ It silently transcribes every Zoom/Teams/Meet call you join. No bot creeping in your meeting. 
+→ People talk normally & you get the real conversation. Always open Granola when in calls.
+(To gather the context of all your meetings.)
+
+Step 2. Open the Claude desktop app. 
+→ Settings > Connector > Connect Gmail + Granola
+→ Claude can now read your inbox AND meeting transcripts at the same time. 
+→ Most people connect just Gmail. It's not enough. 
+→ Without Granola, Claude drafts emails with zero memory of what was actually said in the meetings.
+
+Step 3. Open the email you need to reply to. 
+→ Note the sender + the meeting it ties to. 
+→ This step is what makes the prompt 10x sharper. 
+→ You're telling Claude exactly where to look in Granola so it doesn't guess.
+
+Step 4. Prompt Claude (with context): 
+"Pull [sender]'s email about [topic]. Search Granola for our meetings on [topic] in the last [timeframe]. Draft a reply that [confirms / answers / declines]. Tone: warm + direct. Length: short." 
+
+Step 5. Ask Claude to "save as draft."
+→ It lands in your Gmail. 0 copy and paste. You just open Gmail, review it, and hit send. 
+→ The whole loop happens without leaving Claude.
+
+Pro tip: Don't grant write access on day one. Read-only first. Watch how Claude uses it for a week, then upgrade. 
+
+Most accidents happen when you enable Claude with full access & asks to "clean up my inbox."
+
+To download all of my other Claude infographics:
+
+Step 1. Go to how-to-ai.guide.
+Step 2. Subscribe for free. Don't pay anything.
+Step 3. Open my welcome email (most skip this).
+Step 4. Hit the automatic reply button inside.
+Step 5. Download my infographics from my Notion.
+
+Bonus. Enjoy my best copy-paste prompts, too. | 234 comments on LinkedIn

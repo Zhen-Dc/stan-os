@@ -1,0 +1,11 @@
+1/ Claude limits disappear faster when the wrong model is doing the wrong job.
+
+2/ Haiku for cheap bulk. Sonnet for daily work. Opus for expensive mistakes. Fable for long agentic builds.
+
+3/ The cheapest Claude upgrade is often the effort dial, not the model.
+
+4/ High is the sweet spot. Low is for bulk. Extra is for long agentic runs. Max is the trap unless the gain is worth it.
+
+5/ Do not spend 5x model capacity on a task that only needed a summary, reformat, or quick lookup.
+
+6/ Move the dial before you move the model.

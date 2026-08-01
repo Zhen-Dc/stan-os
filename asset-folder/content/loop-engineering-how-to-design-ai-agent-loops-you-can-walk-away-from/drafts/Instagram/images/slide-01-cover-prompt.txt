@@ -1,0 +1,19 @@
+Create slide 1 intro/cover image for an Instagram carousel about loop engineering.
+
+Headline: "Design AI Loops You Can Walk Away From."
+
+Accent text: "Walk Away From." in rust/orange.
+
+Badge text: "AI AGENT SYSTEMS"
+
+Subhead: "Agent workflows that plan, act, check, and stop without babysitting."
+
+Creator row: "Stanley • @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png if available.
+
+Footer cue: "01 / 08" on the left and "SWIPE" with a small arrow on the right.
+
+Visual style: cream/off-white graph-paper background, editorial carousel cover, oversized dark navy/black headline, one rust/orange accent phrase, compact dark rounded badge near the top, creator pill near lower-left, generous whitespace, phone-readable typography.
+
+Do not include steps, prompt boxes, action boxes, diagrams, or teaching content on this intro. This slide is only the scroll-stopping title and short description.
+
+Do not copy the reference images exactly. Recreate the structure and pattern for Stanley's brand.

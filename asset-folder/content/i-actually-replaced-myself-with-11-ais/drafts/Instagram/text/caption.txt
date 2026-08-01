@@ -1,0 +1,43 @@
+
+I replaced one creator bottleneck with a content tool stack.
+
+The source proof is 350k+ across socials, but the useful part is the org chart behind it.
+
+The team:
+
+Head of Operations: Hermes
+Scores ideas and picks the winner.
+
+Head of Research: Reddit, X, and Instagram
+Finds what people actually want to read.
+
+Head of Content: Claude
+Turns rough ideas into posts and scripts.
+
+Head of Design: Claude Code
+Builds branded graphics in HTML.
+
+Head of Illustration: GPT Image 2
+Creates visuals on demand.
+
+Head of Post-Production: HyperFrames
+Cuts reels, captions, and overlays.
+
+Head of Cinematography: Higgsfield
+Generates the B-roll that was never shot.
+
+Head of Distribution: Buffer
+Queues and ships posts on schedule.
+
+Head of Community: ManyChat
+Handles comments, DMs, and guide delivery.
+
+Head of Analytics: Apify
+Pulls the numbers on what landed.
+
+Head of Memory: Notion
+Stores ideas, assets, numbers, and calendars.
+
+The human still keeps the final yes.
+
+Comment TEAM if you want the content tool org chart.

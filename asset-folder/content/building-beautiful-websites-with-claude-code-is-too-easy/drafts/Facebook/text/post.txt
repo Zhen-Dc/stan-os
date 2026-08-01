@@ -1,0 +1,29 @@
+You do not need to start as a developer to understand how AI can help you build polished websites.
+
+But you do need to learn the setup.
+
+That is the biggest lesson from this Claude Code website workflow.
+
+A lot of beginners think the hard part is writing every line of code.
+
+Now the harder part is learning how to guide the AI properly:
+
+1. Give it context before it starts.
+2. Add design standards so the site does not look generic.
+3. Use brand assets so the output feels consistent.
+4. Review the result like someone who cares about quality.
+5. Learn how to move from draft to something you can actually publish.
+
+That is why AI skills are becoming so valuable.
+
+The person who wins is not the person who opens the most tools.
+
+It is the person who can turn a tool into a repeatable workflow.
+
+If you are trying to learn AI for websites, content, automation, or client work, this is the kind of foundation you should understand first.
+
+Do not just chase prompts.
+
+Learn the setup.
+
+Comment "AI setup" if you want the beginner checklist I would use before building a website with AI.

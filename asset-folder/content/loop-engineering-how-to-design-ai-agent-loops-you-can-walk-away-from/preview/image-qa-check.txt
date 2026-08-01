@@ -1,0 +1,37 @@
+Image generation retry QA
+
+Method:
+- Used local deterministic Pillow renderer.
+- Did not use GPT image generation.
+- Rendered reference-style educational cards based on the provided carousel examples.
+
+Generated files:
+- drafts/Instagram/images/instagram-slide-01.png
+- drafts/Instagram/images/instagram-slide-02.png
+- drafts/Instagram/images/instagram-slide-03.png
+- drafts/Instagram/images/instagram-slide-04.png
+- drafts/Instagram/images/instagram-slide-05.png
+- drafts/Instagram/images/instagram-slide-06.png
+- drafts/Instagram/images/instagram-slide-07.png
+- drafts/Instagram/images/instagram-slide-08.png
+- drafts/LinkedIn/images/linkedin-diagram.png
+- drafts/Facebook/images/facebook-course-card.png
+- drafts/X/images/x-quote-01.png
+- drafts/X/images/x-quote-02.png
+- drafts/X/images/x-quote-03.png
+- drafts/X/images/x-quote-04.png
+- drafts/X/images/x-quote-05.png
+- drafts/X/images/x-quote-06.png
+- drafts/X/images/x-quote.png
+
+QA notes:
+- Contact sheet created at preview/render-contact-sheet.jpg.
+- Full-size spot check completed on instagram-slide-05.png.
+- Layout follows the reference pattern: cream grid background, top creator pill, numbered title pill, explanatory text, structured visual block, action box, slide count, and swipe cue.
+- Carousel numbering was corrected: the intro/cover is slide 01, and the first teaching slide starts with number 1.
+- Social platform text drafts were revised to use stronger hook-first openings while staying truthful to the approved source.
+- X visuals were revised into the content-tight tweet style: 920x458 plain white canvas, no extra top or bottom margin, no slide-count pill, Stan Avatar.png, blue verified badge immediately after the name, and tweet text only.
+- The final carousel slide was replaced with a cleaner start/run/stop recap slide.
+- The intro carousel slide was revised to be cover-only: punchy blog-matched headline, short subtext, badge, creator row, slide count, and swipe cue. It no longer includes steps, prompt boxes, action boxes, or teaching content.
+- Text is readable and no obvious overlap was found in the spot check.
+- Stanley's new brand avatar `AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png` is used in the creator pill and tweet cards.

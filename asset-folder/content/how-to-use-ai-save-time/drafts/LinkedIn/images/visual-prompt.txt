@@ -1,0 +1,10 @@
+
+Create platform visuals for "How To Use AI To Save Time".
+
+Core idea: A practical AI team saves time by splitting work into roles instead of asking one chat to do everything.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+LinkedIn animated process GIF plus diagram poster with 5 workflow steps.

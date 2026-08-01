@@ -1,0 +1,9 @@
+Do not explain Claude to a beginner with model names.
+
+Ask what they want finished.
+
+Then give them this:
+
+"I want [task] for [result]. Ask me questions first."
+
+One useful result beats a feature tour.

@@ -1,0 +1,84 @@
+Carousel Caption
+
+The next level of prompting is not a better prompt.
+
+It is a loop.
+
+Most people use AI like this:
+
+Ask once.
+Get output.
+Fix it manually.
+Repeat from scratch next time.
+
+That works for small tasks, but it does not become a real workflow.
+
+A loop is different.
+
+It gives the AI a process to follow:
+
+- discover
+- plan
+- execute
+- verify
+- improve
+
+That is how AI starts becoming useful for research, content, coding, marketing, operations, and business workflows.
+
+But the human still matters.
+
+The goal is not to disappear from the process.
+
+The goal is to move your attention to the parts that need judgment:
+
+- quality
+- strategy
+- approvals
+- edge cases
+- what should not be automated
+
+Save this if you are learning how to turn AI from a tool you prompt into a system you can actually use.
+
+Carousel Slides
+
+Slide 1: Stop prompting once
+Prompting is asking AI for one answer.
+Looping is giving AI a repeatable workflow.
+
+Paste this:
+Do not just ask for output. Define the process the AI should follow.
+
+Slide 2: Build the loop
+Every useful loop needs stages.
+The simple version is discover, plan, execute, verify, improve.
+
+Paste this:
+Before you automate the task, write the steps the task should move through.
+
+Slide 3: Give agents jobs
+Agents work best when each one has one role.
+Research, build, write, review, or coordinate.
+
+Paste this:
+Split the workflow into specialist agents instead of asking one agent to do everything.
+
+Slide 4: Add verification
+Without verification, loops can create confident garbage.
+The check is part of the system.
+
+Paste this:
+Add a QA step that checks quality, accuracy, brand fit, and whether the output is usable.
+
+Slide 5: Use an orchestrator
+An orchestrator keeps the loop moving.
+It decides what runs, what waits, and what needs human review.
+
+Paste this:
+Create one agent that coordinates the workflow and hands off only the right decisions.
+
+Slide 6: Stay in control
+The point is not to remove humans.
+The point is to move humans to judgment.
+
+Paste this:
+Let AI handle repeatable work. Keep humans on strategy, approval, and exceptions.

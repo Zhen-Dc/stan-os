@@ -1,0 +1,49 @@
+Source URL: https://www.linkedin.com/posts/charlie-hills_youre-overpaying-5x-on-half-your-claude-activity-7487809224559886337-cfd9
+Source title: You're Overpaying 5x On Half Your Claude Activity
+Creator: Charlie Hills
+Source confidence: caption-and-user-provided-image-derived
+
+Verified facts used for drafting:
+- The source caption says users are overpaying 5x on half their Claude prompts.
+- The source caption says wrong model choice can burn limits 2x faster.
+- The caption lists Haiku 4.5 as 1x cost with 200K context for quick simple tasks.
+- The caption lists Sonnet 5 as 3x cost with 1M context for everyday work.
+- The caption lists Opus 5 as 5x cost with 1M context for complex reasoning and high-stakes work.
+- The caption lists Fable 5 as 10x cost with 1M context for hardest long-running agent work.
+- The image headline says: Which Claude Model To Use? Pick the model, then set how hard it should think.
+- The image shows a central effort dial with Low, Medium, High, Extra, and Max.
+- The image shows Claude Code commands: /model haiku, /model sonnet, /model opus, and /model fable.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+- Firecrawl capture was attempted first, but the local Firecrawl wrapper returned FIRECRAWL_CONFIG_MISSING.
+- General web fetch did not open the LinkedIn post directly.
+- Public search preview exposed the post caption/body, author, engagement counts, and CTA.
+- Stanley provided the attached image manually, so the package analyzes both caption and visual evidence.
+
+Source text or transcript:
+Source capture notes:
+
+Firecrawl was attempted first but local config was missing. General web fetch did not open the LinkedIn page directly. Public search preview exposed the caption/body and engagement context. Stanley then supplied the attached image manually, saved at source/source-image.png.
+
+Caption/body captured from public preview:
+
+You're overpaying 5x on half your Claude prompts.
+Pick wrong and you burn your limits 2x faster:
+
+Haiku 4.5: 1x cost, 200K context. Fastest and cheapest of the four. No effort dial, and it knows nothing after Feb 2025. Use it for summarising, reformatting, bulk jobs where depth doesn't matter.
+
+Sonnet 5: 3x cost, 1M context. Best value of the four. Spends your limits the slowest. The hardest 10% still needs a bigger model. Use it for everyday drafting, rewrites, turning notes into a plan.
+
+Opus 5: 5x cost, 1M context. Anthropic says start here if you're unsure. Slower, and it burns your limits much faster. Use it for strategy, contracts, multi-step analysis, anything where being wrong is expensive.
+
+Fable 5: 10x cost, 1M context. Plans, builds and tests its own work. Twice the price of Opus for the same quality. Use it for long agentic builds you leave running.
+
+Every model except Haiku has an effort dial: Low, Medium, High, Extra, Max. High is the default and the sweet spot. Medium is the cost step-down. Low is for bulk, classification and quick lookups. Extra is for long agentic runs over 30 minutes. Max is the trap because Anthropic describes it as significant cost for relatively small quality gains.
+
+The post says the cheapest real upgrade is the dial, not the model: raising it costs nothing. It gives Claude Code commands: /model opus and /model sonnet, and advises starting with Opus 5 on High, then moving the dial before moving the model.
+
+Image analysis:
+
+The supplied image is a dark-blue Claude model decision map titled "Which Claude Model To Use?" with the subhead "Pick the model, then set how hard it should think." It has four model cards around a central effort dial. Haiku 4.5 is labeled fastest/near-frontier, 1x cost, 200K context, quick/simple tasks, with example prompts for summarizing, reformatting, subject lines, and translation. Sonnet 5 is labeled speed plus intelligence, 3x cost, 1M context, everyday work, with prompts for LinkedIn drafts, rewrites, meeting notes, and thread summaries. Opus 5 is labeled my default, 5x cost, 1M context, complex reasoning, with prompts for launch pressure tests, contract risk analysis, financial models, and go-to-market comparisons. Fable 5 is labeled long-running agent work, 10x cost, 1M context, hardest long-running work, with prompts for end-to-end feature builds, research projects, codebase refactors, and project planning. The center graphic shows Low, Medium, High, Extra, and Max effort levels. The bottom strip shows Claude Code commands for each model.

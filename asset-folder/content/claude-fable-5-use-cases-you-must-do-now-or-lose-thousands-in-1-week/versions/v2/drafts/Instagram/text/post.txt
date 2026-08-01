@@ -1,0 +1,23 @@
+Slide 1: Stop wasting your strongest AI model on tiny prompts.
+Use Fable 5 when the work has a brief, tools, checkpoints, and a finish line.
+
+Slide 2: Use case 1 - clone one paid tool
+Study a workflow you already understand, like the Whisper Flow-style dictation demo, then build a private local version.
+
+Slide 3: Use case 2 - audit Claude Code
+Read old sessions, group repeated work, and decide what should become a skill, automation, fix, or no change.
+
+Slide 4: Use case 3 - build an agentic OS
+Put reports, dashboards, tasks, skills, and automations into one visual layer.
+
+Slide 5: Use case 4 - review serious code
+Use separate reviewers, remove duplicates, and keep evidence, severity, file locations, and fix priority.
+
+Slide 6: Use case 5 - build from a PRD
+Write the goal, screens, constraints, success criteria, and stop conditions before the build starts.
+
+Slide 7: Plan before Fable 5
+Use cheaper models to research and shape the brief. Spend Fable 5 after the job is clear.
+
+Slide 8: Save the filter
+Tiny prompt = cheaper model. Clear system brief = strongest model.

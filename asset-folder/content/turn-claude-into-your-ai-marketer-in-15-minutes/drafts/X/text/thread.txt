@@ -1,0 +1,30 @@
+1/5
+AI marketing is moving from prompts to loops.
+
+The demo is not just "Claude writes ads."
+
+It is Claude coordinating the marketing workflow around research, planning, production, distribution, and optimization.
+
+2/5
+The research layer crawls TikTok, Instagram, and YouTube for live trends.
+
+That matters because random content generation is usually the weak part.
+
+Better signal first. Better creative second.
+
+3/5
+The planning layer turns those signals into a content calendar with hooks and scripts.
+
+This is where the agent stops being a toy and starts behaving like an operating process.
+
+4/5
+The production layer renders 100 ads across five formats.
+
+Then distribution connects to Meta Ads through MCP so the workflow can actually launch, not just prepare files.
+
+5/5
+The optimization layer reads performance, scales winners, and ships matching static creatives.
+
+That is the 2026 AI marketing stack:
+
+research -> planning -> production -> distribution -> optimization.

@@ -1,0 +1,5 @@
+Do not install random things in Claude.
+
+Install workflows.
+
+For marketing teams, that means research, campaign briefs, content drafts, ad variations, reporting, follow-up, and QA.

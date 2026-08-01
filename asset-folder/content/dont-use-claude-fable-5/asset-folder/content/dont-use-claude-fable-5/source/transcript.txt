@@ -1,0 +1,10 @@
+This package was repurposed from a Firecrawl-captured Substack article, not a video transcript.
+
+Source title: Fable 5.
+Creator: Ruben Hassid / How to AI
+Published date from source: July 8, 2026
+Source URL: https://ruben.substack.com/p/dont-use-claude-fable-5
+Source confidence: firecrawl-derived public article text
+
+Use source/firecrawl.md as the full captured article body.
+Use source/source-brief.md as the drafting brief.

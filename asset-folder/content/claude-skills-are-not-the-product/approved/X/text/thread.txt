@@ -1,0 +1,38 @@
+Post 1
+Stop retyping AI instructions.
+
+If a task repeats every week, it should become a workflow, not another prompt.
+
+That is the point of a useful Claude Skill.
+
+Post 2
+A Claude Skill is not magic.
+
+It is a saved process: input, role, rules, voice, output, QA, and approval.
+
+The command is only the way you start it.
+
+Post 3
+Downloaded Skills feel generic when they do not know your audience, offer, proof, constraints, or handoff.
+
+Use them for inspiration.
+Save your own rules for execution.
+
+Post 4
+The command is only the front door.
+
+The system behind it is what saves time: source capture, drafting, image generation, QA, and handoff.
+
+Post 5
+Before you build a Skill, map the task.
+
+What starts it?
+What does it read?
+What does it create?
+What must it check?
+When should it stop?
+
+Post 6
+If your team keeps typing the same prompt, the problem is not prompting.
+
+The process is waiting to be systemized.

@@ -1,0 +1,15 @@
+Create a LinkedIn educational animated GIF titled "Stop wasting elite model calls."
+
+Primary output: linkedin-animation.gif.
+Fallback poster: linkedin-diagram.png.
+
+Animate 5 highlighted frames:
+1. Clone software you already pay for.
+2. Audit how you use Claude Code.
+3. Build an agentic OS.
+4. Review the codebase.
+5. Build from a PRD.
+
+Bottom rule: "Plan with cheaper models. Spend the best model on execution."
+
+Use a polished cream-grid educational layout with numbered rows, one highlighted row per frame, Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png, and readable source-derived copy only. Avoid fake metrics, logos, or claims.

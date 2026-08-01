@@ -1,0 +1,1 @@
+AI saves time when it becomes a workflow, not another tab. A practical Claude Skill library turns repeated setup into slash-command workflows for daily tasks.

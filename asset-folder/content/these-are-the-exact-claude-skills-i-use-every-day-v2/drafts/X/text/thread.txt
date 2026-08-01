@@ -1,0 +1,11 @@
+1/ AI saves time when it becomes a workflow, not another tab. A practical Claude Skill library turns repeated setup into slash-command workflows for daily tasks.
+
+2/ The prompt is not the asset. The repeatable process is. People keep rebuilding context, tone, file instructions, output format, and examples in every new Claude chat.
+
+3/ Do not ask AI to guess your workflow. Give it the source, the rules, and the definition of done.
+
+4/ The safest automation has a human review gate before anything reaches a client, customer, or audience.
+
+5/ If a task happens every week, has clear inputs, and ends in a predictable output, it is a good AI workflow candidate.
+
+6/ Install or build narrow Skills for repeat jobs, trigger them with short commands, and refine the Skill from real runs. The win is not magic. It is repeatable operating leverage.

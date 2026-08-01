@@ -1,0 +1,18 @@
+Source URL: https://www.linkedin.com/feed/update/urn:li:activity:7477290928815169536/
+Source title: 14 Claude Skills to Download and Use
+Creator: Anisha Jain
+Published date: visible as 5d on public LinkedIn preview captured 2026-07-04
+Duration: not applicable
+Source confidence: public-post-derived
+
+Verified facts used for drafting:
+- The source post explains Claude Skills as reusable slash-command workflows.
+- The source says a Skill stores the long instructions, voice, rules, and structure a user would otherwise type manually.
+- The source gives a setup flow for downloading skills, uploading them into Claude, and running a slash command.
+- The source includes examples such as LinkedIn hooks, meeting notes, spreadsheet styling, and rewriting AI text.
+- The source also explains that users can build their own Skill by using a skill creator workflow, answering questions, reviewing the Skill markdown, and uploading it.
+
+Caveats:
+- The public page included comments and recommended feed content. Only the main post mechanics and visible metadata were used.
+- This package does not copy the source creator's post. It recreates the strategy for Stanley's AI automation and AIOS positioning.
+- Do not claim Stanley created, downloaded, tested, or owns the source creator's 14 skills.

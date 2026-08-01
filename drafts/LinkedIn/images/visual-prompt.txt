@@ -1,0 +1,1 @@
+**LinkedIn Diagram Prompt:** A clean educational diagram showing a process flow titled 'Secure AI Workflows'. Must illustrate the three steps: 1) Use Enterprise Tool (Preferred), 2) Anonymize Input Data, and 3) Review Company Policy/NDA. Use professional icons (shield, lock). Minimalist style. Dimensions: 1200x1200.

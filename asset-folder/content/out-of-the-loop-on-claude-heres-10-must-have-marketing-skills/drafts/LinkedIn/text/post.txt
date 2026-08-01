@@ -1,0 +1,66 @@
+
+Out of the loop on Claude for marketing?
+
+Here are 10 practical Sonnet 5 Skills for Meta and Google Ads.
+
+Sonnet 5 is one of the cheaper Claude models.
+
+But cheap does not mean weak.
+
+For performance marketers, the useful move is simple:
+
+Give Sonnet live ad data and make it return a ranked fix list.
+
+Not vague advice.
+Not "try better creatives."
+Not a 900-word audit nobody uses.
+
+A plain decision:
+
+Scale.
+Pause.
+Test.
+Rebuild.
+
+Meta Ads Skills:
+
+-> /tracking-audit
+Find Pixel and CAPI gaps quietly losing events.
+
+-> /kpi-map
+Catch campaigns optimizing for the wrong objective.
+
+-> /campaign-structure-audit
+Find adsets stuck in the learning phase.
+
+-> /adset-analysis
+Give every adset a scale, hold, or kill call.
+
+-> /creative-fatigue
+Flag dying ads before CPMs jump.
+
+Google Ads Skills:
+
+-> /wasted-spend-audit
+Find zero-conversion spend to cut today.
+
+-> /search-audit
+Catch match-type and RSA leaks costing rank.
+
+-> /shopping-audit
+Find dead products dragging ROAS down.
+
+-> /pmax-audit
+Grade every asset group from A to F.
+
+-> /keyword-opportunities
+Find proven search terms you never added.
+
+This is how I would use Sonnet:
+
+One account.
+One audit Skill.
+One ranked fix list.
+One next action.
+
+Comment SONNET if you want the 10-Skill marketing audit pack.

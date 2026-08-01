@@ -1,0 +1,17 @@
+
+Out of the loop on Claude for marketing?
+
+Sonnet 5 is cheap enough for everyday use, but still strong enough to help performance marketers audit Meta and Google Ads.
+
+The workflow is simple:
+
+1. Feed it live ad data.
+2. Run one focused audit Skill.
+3. Ask for the evidence.
+4. Get a ranked fix list.
+5. Decide: scale, pause, test, or rebuild.
+
+The pack has 10 Skills:
+5 for Meta Ads and 5 for Google Ads.
+
+Comment SONNET if you want the checklist.

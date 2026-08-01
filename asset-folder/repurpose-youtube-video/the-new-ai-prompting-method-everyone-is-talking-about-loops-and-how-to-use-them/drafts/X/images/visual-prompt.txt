@@ -1,0 +1,55 @@
+Use case: productivity-visual
+Asset type: X quote graphics, PNG
+
+Create six simple bold quote cards for X.
+
+Shared visual style:
+- 1080x1080 square 1:1 PNG.
+- White background.
+- Black outer frame.
+- Bold condensed uppercase typography.
+- Centered quote block with lots of white space.
+- No avatar, no logos, no fake UI, no watermark.
+- Text must be large, clean, and readable.
+- Each quote must be a lesson or fact from the source video about AI loops, not unrelated motivational text.
+
+Images:
+
+1. `x-quote-01.png`
+Quote:
+THE NEXT LEVEL
+IS NOT A BETTER PROMPT.
+IT IS A LOOP.
+
+2. `x-quote-02.png`
+Quote:
+PROMPTING ASKS ONCE.
+LOOPING BUILDS
+THE WORKFLOW.
+
+3. `x-quote-03.png`
+Quote:
+AI LOOPS FAIL
+WITHOUT A
+QA GATE.
+
+4. `x-quote-04.png`
+Quote:
+GIVE EVERY AGENT
+ONE JOB.
+THEN VERIFY THE WORK.
+
+5. `x-quote-05.png`
+Quote:
+THE ORCHESTRATOR
+KEEPS THE SYSTEM
+MOVING.
+
+6. `x-quote-06.png`
+Quote:
+DO NOT REMOVE
+THE HUMAN.
+MOVE THEM TO JUDGMENT.
+
+Compatibility copy:
+- Also save `x-quote.png` as a copy of `x-quote-01.png` for older preview links.

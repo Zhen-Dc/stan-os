@@ -1,0 +1,1 @@
+AI saves time when it becomes a workflow, not another tab. Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.

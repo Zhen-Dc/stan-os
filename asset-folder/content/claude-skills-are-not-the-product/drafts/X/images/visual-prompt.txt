@@ -1,0 +1,6 @@
+Create six X tweet-style images about Claude Skills and reusable workflows.
+
+Each card must stand alone as its own complete tweet, but the image must not show structural labels such as LESSON, WORKFLOW, TIP, SYSTEM, CHECKLIST, or INSTRUCTION. Do not add any footer text explaining the card format. It should look like a normal tweet screenshot.
+
+Use a plain 920x458 tweet screenshot-style canvas with Stanley's real avatar, name, verified badge, and @stanleyai. Keep each post short, clear, and source-derived.
+No fake engagement numbers. No timestamp. No decorative frame.

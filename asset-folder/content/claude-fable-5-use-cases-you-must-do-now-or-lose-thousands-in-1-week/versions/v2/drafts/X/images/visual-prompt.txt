@@ -1,0 +1,9 @@
+Create six X quote cards from the source lessons:
+1. "Stop wasting your strongest AI model on tiny prompts."
+2. "Use case 1: clone one paid workflow locally."
+3. "Use case 2: audit Claude Code history for skills, automations, and fixes."
+4. "Use case 3: build an agentic OS for repeated work."
+5. "Use case 4: review serious code with evidence and fix priority."
+6. "Use case 5: build custom software from a PRD."
+
+Use plain white 920x458 tweet screenshot style. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep text readable and avoid fake metrics or logos.

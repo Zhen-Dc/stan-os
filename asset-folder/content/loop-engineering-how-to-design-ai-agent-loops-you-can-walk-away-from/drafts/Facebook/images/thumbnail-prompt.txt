@@ -1,0 +1,17 @@
+Create the intro/thumbnail image for a Facebook educational post about learning AI workflow design.
+
+Headline: "Turn AI Prompts Into Repeatable Workflows"
+
+Accent text: "Workflows" in rust/orange.
+
+Badge text: "LEARN AI SYSTEMS"
+
+Subhead: "A beginner-friendly way to understand goal, action, feedback, and stop conditions."
+
+Creator row: "Stanley • @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png if available.
+
+Footer cue: "SAVE THIS" with a small arrow.
+
+Visual style: 1080x1350, cream/off-white graph-paper background, editorial educational poster, oversized black/dark navy headline, one rust/orange accent word, compact top badge, simple laptop/workflow icon, creator pill near lower-left, generous padding, readable at phone size.
+
+Do not copy the reference images exactly. Use the same intro-card structure and pattern for Stanley's brand.

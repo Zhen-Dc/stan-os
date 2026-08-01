@@ -1,0 +1,3 @@
+**Source Material:** Article by Ruben Hassid on personal AI data privacy.
+**Core Lesson:** The primary risk of using personal AI is data leakage, violating NDAs and GDPR. Never paste unmasked client or company-sensitive information into a personal account.
+**Actionable Advice (Thread):** 1/6 Stop collecting prompts. Start finishing things with AI safely. 2/6 Personal accounts train on your chats by default. This is the single biggest compliance risk. 3/6 The fix? Always anonymize data and check your company's approved workflow first. 4/6 Ask yourself: "Would this text be safe to show in a company-wide channel?" If not, do NOT paste it. #AICompliance #DataSecurity #FutureofWork

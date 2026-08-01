@@ -1,0 +1,61 @@
+If you already knew all 26 hacks, unfollow me.
+
+Almost nobody makes it past Claude hack 8:
+
+(#3 is me deleting my own past advice):
+
+1. Use the Claude Desktop app. The browser is the demo. The app is where Cowork lives.
+
+2. Use Cowork, not the chatbot. If you're typing into a chat box, you're using it like it's 2025.
+
+3. Forget .md files & folders. Folders leak old outputs into your context, and nobody on Earth maintains those files weekly.
+
+4. Skills and Projects. That's the entire system now. A skill is a capability you teach once. A project is a place you go back to.
+
+5. Delete your about-me file. Rebuild it as a skill so it follows you into every single chat.
+✦ Don't know how to build one? Take mine:
+✦ Go to how-to-ai.guide. Subscribe for free.
+✦ Don't pay anything. Open my welcome email.
+✦ Hit the automatic reply button inside.
+✦ Open the Notion link. Go to "Claude skills".
+✦ Download the library. Upload it in Customize.
+
+6. Turn every setting off. Empty your global instructions. Leave Connectors on. That's it.
+
+7. Projects remember between chats. And you can share one with your entire team in two clicks.
+
+8. Here's where most people quit reading. The longer your chat, the dumber it gets. Anthropic's own engineers said it out loud.
+
+9. So stop typing "no, I meant…". Click "Restart the conversation from here" on an earlier message. 
+
+10. A token is roughly one word. Every word you send & receive is money. Message 30 costs you 31 times message 1.
+
+11. Point Fable 5 at your single hardest problem. Two turns. Then switch models. Turns are the most expensive habit you have.
+
+12. Opus 5 High for everything else. High, not Max.
+
+13. Don't give Claude steps. Give it the goal & get out of the way. Steps drag it down to old Claude.
+
+14. Don't paste logins, passwords, or keys. Ever.
+
+15. Skills fire themselves. You don't prompt them. You type /command.
+
+16. It will sound 100% sure when it's dead wrong.
+
+17. Don't trust agreement either. Claude is a sycophant. Pleasing you and being right are two different jobs.
+
+18. Use Research mode (the "+" in the chat box). Almost nobody knows it's in there. Give it something genuinely hard.
+
+19. Add "use AskUserQuestion" to your prompt. Claude interviews you before it answers. It prompts itself better than you ever will.
+
+20. Talk, don't type. Cowork reads 100,000 words in 15 secs, then waits for you at 60 words per minute. You speak at 150.
+
+21. Ask for five very different versions. Then pick one. That part is taste, and taste is the part it can't do for you.
+
+22. Make it audit its own answer before you trust a single line.
+
+23. Feed it too much context and it goes in circles. Same answers every time, zero creativity. Keep the context in the project and the chat clean.
+
+24. The first draft is yours to fix, not to ship. Always.
+
+25. The only rule that matters: outsource the thinking, never the understanding. | 309 comments on LinkedIn

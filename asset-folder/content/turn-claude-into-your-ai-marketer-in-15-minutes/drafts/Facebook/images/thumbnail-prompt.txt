@@ -1,0 +1,10 @@
+Create the intro/thumbnail image for a Facebook course-interest post about "learning AI marketing workflows."
+
+Headline: "Learn The AI Marketing Stack"
+Badge text: "BEGINNER MAP"
+Subhead: "Research, plan, create, launch, and optimize with an agentic workflow."
+Creator row: "Stanley - @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png when available.
+
+Visual style: warm off-white background, simple AI workflow motif, laptop/dashboard shapes without fake logos, oversized readable headline, rust/orange accent on "AI", generous padding, beginner-friendly and professional.
+
+Do not promise income. Do not include luxury imagery. Keep all text away from canvas edges.

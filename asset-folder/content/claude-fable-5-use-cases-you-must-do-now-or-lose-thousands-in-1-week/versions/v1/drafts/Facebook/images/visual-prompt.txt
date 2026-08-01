@@ -1,0 +1,4 @@
+Create a Facebook course-interest graphic for AI learners.
+Main text: "Turn Model Hype Into Building Practice"
+Show five beginner-friendly project cards: clone a tool, audit workflow, agentic OS, code review, PRD build.
+Use generous padding, readable text, and no luxury or unrealistic income claims. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep text readable and avoid fake metrics or logos.

@@ -1,0 +1,32 @@
+
+Comment AGENT.
+
+Most brands do not have a video ad problem.
+
+They have a broken production loop.
+
+Research sits in one place.
+Scripts sit in another.
+Visuals sit in another.
+Editing is manual.
+Publishing is separate.
+Performance data rarely changes the next creative fast enough.
+
+The Claude + Higgsfield AI agent fixes the handoffs.
+
+The system runs the loop:
+
+1. Research competitor ads and active creatives.
+2. Break winning ads down scene by scene.
+3. Write an original script in the brand voice.
+4. Create image prompts, scene prompts, and motion prompts.
+5. Generate and animate the scenes.
+6. Edit the ad with captions, transitions, pacing, and sound.
+7. Send it for approval before publishing.
+8. Collect performance data.
+9. Build new variations from the winners.
+
+The point is not one AI-generated ad.
+The point is a system that keeps improving the next ad.
+
+Comment AGENT if you want to see how I would build this for your business.

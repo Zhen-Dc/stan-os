@@ -1,0 +1,19 @@
+Source URL: https://www.linkedin.com/posts/ruben-hassid_these-are-the-exact-claude-skills-i-use-every-share-7485625380931043328-0wRm/
+Source title: These Are The Exact Claude Skills I Use Every Day V2
+Creator: Ruben Hassid
+Source confidence: caption-derived
+
+Verified facts used for drafting:
+- Firecrawl was attempted first and returned FIRECRAWL_CONFIG_MISSING.
+- Docker Desktop/self-hosted Firecrawl was not available.
+- The public caption preview contains enough source material to drive the repurpose.
+- Caption evidence says the post offers 27 Claude Skills and a 5-minute setup.
+- Caption evidence includes example Skills: /grill-me, /humanizer, /fact-checker, /prompt-master, and /linkedin-hook.
+- The attached image was visible only as blocked/public preview image evidence, so it was used for visual-context awareness only and not as an essential factual source.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Firecrawl capture was attempted first but local config was missing. The public caption preview contains enough source material for this repurpose: 27 Claude Skills, 5-minute setup, slash-command Skill examples, token/header detail, and install/library framing. The attached image was not fully captured, so it is not used for essential factual claims.

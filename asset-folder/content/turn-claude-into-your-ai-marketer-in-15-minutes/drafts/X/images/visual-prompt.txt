@@ -1,0 +1,18 @@
+Create six clean tweet screenshot-style PNG options for X.
+
+Canvas: 920x458.
+
+Creator row: Stanley avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png, bold name "Stanley", blue verified badge beside the name, gray @stanleyai handle.
+
+Tweet options:
+
+1. "AI marketing is moving from prompts to loops. The workflow matters more than the wording."
+2. "Claude becomes powerful when it can research, plan, produce, launch, and optimize inside one workflow."
+3. "The five layers of agentic marketing: research, planning, production, distribution, optimization."
+4. "Random content is the weak version of AI marketing. The stronger version starts with live trend research."
+5. "Rendering 100 ads is useful. Knowing which trend, hook, format, and winner to act on is the real system."
+6. "The next marketing stack is not another dashboard. It is an agentic loop with human approval points."
+
+Visual style: plain white, content-tight, large black tweet text, generous paragraph spacing, no decorative frame, no action row, no fake engagement metrics.
+
+Output names: x-quote-01.png through x-quote-06.png, plus x-quote.png copied from option 1.

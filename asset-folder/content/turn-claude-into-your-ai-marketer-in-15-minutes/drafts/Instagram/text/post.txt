@@ -1,0 +1,33 @@
+Slide 1 - Cover
+Claude can run your marketing loop
+
+Slide 2 - The old stack
+Research lived in one tool.
+Planning lived in another.
+Creative production lived somewhere else.
+Launch and reporting became another handoff.
+
+Slide 3 - The new loop
+The walkthrough shows one agentic workflow:
+research -> planning -> production -> distribution -> optimization.
+
+Slide 4 - Research
+The agent crawls TikTok, Instagram, and YouTube for live trends.
+The goal is not random content.
+The goal is better signal.
+
+Slide 5 - Planning
+Those signals become a content calendar with hooks and scripts.
+This is where strategy enters the workflow.
+
+Slide 6 - Production
+The demo renders 100 ads across five formats.
+That turns one campaign idea into a real testing batch.
+
+Slide 7 - Distribution
+Claude connects to Meta Ads through MCP.
+Now the workflow can move from asset creation to campaign launch.
+
+Slide 8 - Optimization
+The loop reads performance, scales winners, and ships matching static creatives.
+That is the difference between an AI tool and an AI marketing system.

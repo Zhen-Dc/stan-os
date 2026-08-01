@@ -1,0 +1,7 @@
+Create the intro/thumbnail image for an X post/thread about loop engineering.
+
+Tweet text: "A prompt gives AI an instruction.\n\nA loop gives AI a workflow.\n\nThat is the difference."
+
+Visual style: plain white 920x458 tweet screenshot-style canvas. Keep the image tight to the tweet content with no extra top or bottom margin. Near the top-left, place Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png, the bold name "Stanley", a small blue verified badge immediately after the name, and the gray @stanleyai handle on one horizontal creator row. Put large black tweet text underneath with generous paragraph spacing.
+
+Do not include a slide-count pill, border, cream grid, action row, timestamp, prompt box, fake engagement numbers, or decorative carousel frame.

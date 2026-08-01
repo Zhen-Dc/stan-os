@@ -1,0 +1,13 @@
+Comment SKILL.
+
+
+The useful lesson here is the workflow behind the tool:
+
+1. People save long prompts but still describe their Skills too vaguely, so the automation does not fire reliably.
+2. Turn the working prompt into a narrow Skill, write the description as the exact job, then test whether Claude triggers it correctly.
+3. Public search preview says the post explains that Claude reads the 2-line Skill description when deciding whether a Skill fires, and gives the contrast: a vague writing Skill vs a LinkedIn-hook task Skill.
+
+That is how AI becomes useful in real work.
+
+Not as a random prompt.
+As a repeatable system with context, output, review, and handoff.

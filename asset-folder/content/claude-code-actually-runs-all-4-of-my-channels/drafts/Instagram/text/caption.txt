@@ -1,0 +1,37 @@
+
+Claude Code can run all 4 content channels when the system around it is clear.
+
+The source system is built around 350k+ across socials and 30+ posts a week.
+
+The workflow:
+
+1. Validate every idea before production.
+X shows what is trending. Reddit shows what people care about. Instagram shows what the audience saves.
+
+2. Turn the winner into one brief.
+One idea. One angle. One outcome. One operator standard.
+
+3. Route the brief by channel.
+LinkedIn gets infographics.
+Instagram gets reels.
+YouTube gets long-form.
+Substack gets newsletters.
+
+4. Give each tool one job.
+Hermes scores ideas.
+Claude Code builds graphics.
+Higgsfield fills B-roll.
+HyperFrames edits video.
+GPT Image 2 builds thumbnails.
+Apify pulls performance data.
+Notion stores the system.
+
+5. Let data choose the next idea.
+Reach, saves, shares, and comments feed the next cycle.
+
+The lesson is simple:
+
+The tools do not create the content alone.
+They make the content workflow repeatable.
+
+Comment CHANNELS if you want the 4-channel content operating system checklist.

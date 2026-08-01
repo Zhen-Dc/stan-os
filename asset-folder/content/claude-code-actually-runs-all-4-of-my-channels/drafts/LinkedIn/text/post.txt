@@ -1,0 +1,74 @@
+
+Claude Code can run more than one content channel.
+
+But only when the workflow is built like an operating system.
+
+The source system behind 350k+ across socials is useful because it is not one magic prompt.
+
+It is a chain:
+
+Step 1: Every idea gets pre-validated.
+
+Ideas come from three places:
+- X shows what is trending now.
+- Reddit shows what people care about.
+- Instagram shows what the audience saves.
+
+Hermes scores and ranks them.
+Only pre-validated ideas get made.
+
+Step 2: One brief, one operator.
+
+The winning idea becomes a tight brief:
+one idea, one angle, one outcome.
+
+Claude Code becomes the operator hub from there.
+One standard, every channel.
+
+Step 3: LinkedIn becomes infographics.
+
+A strategist agent finds the angle.
+Claude Code builds the graphic in HTML.
+A cold QA agent scores the output.
+Notion stores and logs the final asset.
+
+Step 4: Instagram becomes reels.
+
+Claude drafts the hooks.
+The creator records the camera piece.
+Higgsfield adds the B-roll.
+ManyChat handles the DM follow-up.
+
+Step 5: YouTube becomes long-form.
+
+Screen and camera get recorded.
+HyperFrames handles the edit.
+GPT Image 2 builds the thumbnail.
+YouTube publishes the video.
+
+Step 6: Substack becomes the newsletter.
+
+Agent Browser researches and drafts.
+Voice skills keep the writing consistent.
+Claude writes the subject line.
+Substack ships it.
+
+Step 7: Notion holds everything.
+
+Assets.
+Queues.
+Metrics.
+SOPs.
+Playbooks.
+
+Step 8: The data picks what is next.
+
+Apify pulls reach, saves, shares, and comments.
+The numbers choose the next idea.
+
+That is how one system can support 30+ posts a week across 4 channels.
+
+Claude runs the process.
+The operator still makes the calls.
+
+Comment CHANNELS if you want the 4-channel content operating system checklist.

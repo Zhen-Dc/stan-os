@@ -1,0 +1,1 @@
+Render an 8-slide Claude onboarding carousel. Slide 1 is a cover; slides 2-8 are dense varied teaching slides.

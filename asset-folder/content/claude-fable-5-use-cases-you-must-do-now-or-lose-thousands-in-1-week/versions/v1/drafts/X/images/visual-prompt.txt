@@ -1,0 +1,8 @@
+Create six X quote cards from the source lessons:
+1. "Do not spend your best model calls on vague prompts."
+2. "Clone useful software when local, private, and custom is better."
+3. "Audit past sessions to find skills, automations, and fixes."
+4. "An agentic OS is repeated work turned into a visible system."
+5. "Code review improves when findings are deduped, ranked, and prioritized."
+6. "A PRD turns long-horizon AI builds into executable work."
+Use plain white 920x458 tweet screenshot style. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep text readable and avoid fake metrics or logos.

@@ -1,0 +1,1 @@
+Create the Instagram cover from cover-prompt.json. Use huge title, Claude badge, exact Stanley Chima profile pill, and chima-stanley-chuku username.

@@ -1,0 +1,16 @@
+Most people don't realize how insane Claude is when it comes to creating video ads.
+I could literally send one prompt, and this Claude AI agent could produce 10 complete video ad variations.
+First, it analyzes your product, brand voice, target audience, and existing brand assets.
+Then it searches paid-ad libraries and social platforms for your competitors' best-performing content.
+It downloads those ads, breaks them down scene by scene, and identifies the hooks, the offers, and all the visuals, and angles driving their performance.
+But it doesn't copy them.
+It uses those insights to write original scripts specifically for your brand.
+Then it generates the image prompts, creates every scene, and animates those images into video clips.
+After that, its built-in AI video editor takes over.
+It combines the clips, removes dead space, adds captions, synchronizes sound effects, and exports each finished video.
+Once you approve the ads, the agent publishes them across your social channels and paid-ad platforms.
+Then it monitors the results for the next few days.
+It reports which hooks stopped the scroll, which ads generated clicks, and which creatives produced customers.
+Finally, it documents what worked, creates new variations of the winners, and starts the process again.
+That means more ads, faster testing, and less money wasted on content that doesn't convert.
+If you want an AI agent that runs your entire video-ad process, comment "ADS" and I'll show you how it works.

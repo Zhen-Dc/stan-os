@@ -1,0 +1,53 @@
+Use case: productivity-visual
+Asset type: Instagram educational carousel, PNG raster cards
+
+Create six structured tweet-style carousel slides about AI loops.
+
+Shared layout:
+- 1080x1350 PNG.
+- Warm cream grid background.
+- Top-right creator pill with Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg`.
+- Creator text: "STANLEY" and "@stanleyai".
+- Small blue verified badge beside the creator name with clear spacing.
+- Left-aligned numbered step title inside a rounded colored pill.
+- Short body paragraph.
+- Simple visual block: rows, code window, or 3-step flow.
+- Bottom "PASTE THIS" action card with generous padding.
+- Small slide count and "SWIPE" footer.
+
+Slides:
+1. Stop prompting once
+Body: Prompting is asking AI for one answer. Looping is giving AI a repeatable workflow.
+Visual block: Prompt -> Output -> Start over.
+Paste/action: Do not just ask for output. Define the process the AI should follow.
+
+2. Build the loop
+Body: Every useful loop needs stages: discover, plan, execute, verify, improve.
+Visual block: Discover / Plan / Execute / Verify / Improve.
+Paste/action: Before you automate the task, write the steps the task should move through.
+
+3. Give agents jobs
+Body: Agents work best when each one has one role: research, build, write, review, or coordinate.
+Visual block: Research agent / Builder agent / Review agent.
+Paste/action: Split the workflow into specialist agents instead of asking one agent to do everything.
+
+4. Add verification
+Body: Without verification, loops can create confident garbage. The check is part of the system.
+Visual block: Output -> QA Gate -> Approved.
+Paste/action: Add a QA step that checks quality, accuracy, brand fit, and usability.
+
+5. Use an orchestrator
+Body: An orchestrator keeps the loop moving. It decides what runs, what waits, and what needs human review.
+Visual block: Orchestrator -> Agents -> Review.
+Paste/action: Create one agent that coordinates the workflow and hands off only the right decisions.
+
+6. Stay in control
+Body: The point is not to remove humans. The point is to move humans to judgment.
+Visual block: AI handles repeatable work / Human handles judgment.
+Paste/action: Let AI handle repeatable work. Keep humans on strategy, approval, and exceptions.
+
+Constraints:
+- Keep the look simple, clean, and text-first.
+- Do not use fake platform buttons.
+- Do not let labels overlap containers.
+- Do not use a generated lookalike avatar.

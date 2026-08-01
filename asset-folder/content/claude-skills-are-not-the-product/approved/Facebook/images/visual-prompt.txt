@@ -1,0 +1,5 @@
+Create a Facebook course-interest graphic for beginners learning AI skills.
+
+Lesson: Do not only collect prompts. Learn to package repeated work into reusable AI workflows.
+Visual: prompt -> skill -> workflow -> approval.
+Use generous padding and readable text. No unrealistic income claims.

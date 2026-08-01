@@ -1,0 +1,35 @@
+Slide 1: Stop collecting prompts
+A Claude Skill library is a command system. One slash command should carry the setup you keep repeating.
+COVER: A practical Claude Skill library turns repeated setup into slash-command workflows for daily tasks.
+
+Slide 2: The real leak is setup
+Most people do not lose time writing the answer. They lose time rebuilding the instructions.
+SETUP_LEAK: Every new chat makes you repeat the role, source file, writing voice, examples, output format, and review rules.
+
+Slide 3: A Skill is a shortcut
+Think of each Skill like a saved operating shortcut, not a magic prompt.
+SKILL_ANATOMY: The command names the job. The header tells Claude when to use it. The full Skill holds the instructions.
+
+Slide 4: Start with boring Skills
+The most useful Skills are the ones that remove daily friction.
+COMMAND_MENU: Build commands for tasks you already repeat: ask better questions, humanize drafts, verify claims, clean messy ideas, write hooks.
+
+Slide 5: Five commands to copy
+Start with commands that remove the setup you repeat before every serious Claude task.
+COMMAND_STACK: Use /grill-me before building, /humanizer before publishing, /fact-checker before claims, /prompt-master before execution, and /linkedin-hook before the post.
+
+Slide 6: Install is not the strategy
+Downloading 27 Skills is useful. Knowing which ones matter is better.
+INSTALL_FILTER: Install the library, test the daily commands, delete what you do not use, then build custom Skills from your repeated work.
+
+Slide 7: Build from real runs
+Your own Skill library should come from the work you actually do.
+REAL_RUN_EXTRACT: Run the job manually once, capture the working steps, add examples, write the trigger, then test it on a live task.
+
+Slide 8: Why headers matter
+A Skill header is the short description Claude scans before it loads the full instructions.
+TOKEN_SCAN: Header = when to use it, input expected, and output created. Claude scans this first, then loads the full Skill only when the task matches.
+
+Slide 9: Comment SKILLS
+Comment SKILLS if you want the checklist for building your first command library.
+CTA: Comment SKILLS. I will send the checklist for choosing the first Claude Skills to install, build, or delete.

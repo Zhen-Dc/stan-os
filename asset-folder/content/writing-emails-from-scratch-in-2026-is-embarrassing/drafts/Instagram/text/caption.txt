@@ -1,0 +1,11 @@
+Comment EMAIL.
+
+Do not ask AI to write emails from an empty inbox thread.
+
+Give it the context behind the thread: the meeting notes, the sender, the topic, the timeframe, and the action the reply should take.
+
+The safe workflow is simple: connect Gmail and meeting notes, draft inside Claude, save to Gmail as a draft, then review before sending.
+
+Data beats design: the source workflow claims the loop takes 2 minutes and warns to start read-only before giving write access.
+
+Save this before you automate your inbox.

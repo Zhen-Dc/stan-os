@@ -1,0 +1,32 @@
+
+Comment MODEL.
+
+You do not need Opus or Fable for every Claude task.
+
+That is how simple prompts quietly eat the same limits you wanted to save for serious work.
+
+Use this routing rule before you run the next prompt:
+
+1. Haiku for cheap bulk.
+Use it for summaries, reformatting, classification, tagging, and cleanup.
+
+2. Sonnet for everyday work.
+Use it for drafts, rewrites, meeting notes, plans, and normal analysis.
+
+3. Opus for expensive mistakes.
+Use it when the wrong answer can cost money, trust, or strategy.
+
+4. Fable for long builds.
+Use it when the job needs planning, tools, checkpoints, files, and testing.
+
+Then move the effort dial before you move the model.
+
+The checkable numbers:
+Haiku is 1x.
+Sonnet is 3x.
+Opus is 5x.
+Fable is 10x.
+
+Wrong routing can turn simple prompts into premium-limit burn.
+
+Comment MODEL if you want the Claude model-routing checklist.

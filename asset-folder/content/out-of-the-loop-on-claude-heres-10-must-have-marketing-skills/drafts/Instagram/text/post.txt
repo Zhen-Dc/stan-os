@@ -1,0 +1,35 @@
+Slide 1: 10 ad audit Skills
+Sonnet 5 can read ad data, rank account problems, and turn Meta or Google audits into clear next moves.
+COVER: Sonnet 5 can read ad data, rank account problems, and turn Meta or Google audits into clear next moves.
+
+Slide 2: Cheap does not mean weak
+Sonnet 5 is cheap enough to use often and smart enough for marketing audits.
+STAKES: Ad accounts leak money through tracking gaps, wrong objectives, tired creatives, wasted spend, and missed search terms.
+
+Slide 3: Let Sonnet read the account
+The job is not another generic marketing tip. It is a ranked fix list from live ad data.
+PIPELINE: Feed the account data into a focused audit Skill. Sonnet should return the issue, the evidence, the priority, and the next action.
+
+Slide 4: Use 5 Meta audits
+Meta Ads needs Skills that catch broken tracking and bad campaign decisions before budget disappears.
+AUDIT_GRID: Full set: /tracking-audit, /kpi-map, /campaign-structure-audit, /adset-analysis, and /creative-fatigue.
+
+Slide 5: Use 5 Google audits
+Google Ads needs a different map because the leaks hide in spend, search terms, shopping products, and PMax assets.
+COMMAND_STACK: Use /wasted-spend-audit, /search-audit, /shopping-audit, /pmax-audit, and /keyword-opportunities.
+
+Slide 6: The output is a verdict
+A useful audit should end in a decision, not a paragraph.
+REAL_RUN_EXTRACT: Each account section should produce one plain verdict: scale what is working, pause what is leaking, test what is uncertain, or rebuild what is structurally broken.
+
+Slide 7: Make the prompt specific
+Do not ask Claude to audit everything at once.
+ONE_JOB: Run one Skill at a time: tracking, objectives, structure, adset verdicts, creative fatigue, wasted spend, search leaks, shopping, PMax, or keywords.
+
+Slide 8: Receipt: 10 commands
+The pack is concrete: 5 audit commands for Meta Ads and 5 audit commands for Google Ads.
+RECEIPTS: The check is simple: each command has a clear platform, a specific leak to find, and a decision it should help you make.
+
+Slide 9: Comment SONNET
+Comment SONNET if you want the 10-Skill marketing audit pack for Meta and Google Ads.
+CTA: Comment SONNET. I will send the checklist for turning Sonnet 5 into a practical Meta and Google Ads audit assistant.

@@ -1,0 +1,23 @@
+Slide 1: Claude For Marketing Teams.
+This is how I would set up Claude for a marketing team: one workspace for research, briefs, content, ads, analytics, follow-up, and QA.
+
+Slide 2: Do Not Install Random Tools
+A Claude stack only works when every install has a marketing job attached to it.
+
+Slide 3: Install By Marketing Function
+Start with the repeated marketing work, then decide what Claude should handle.
+
+Slide 4: Give Claude A Real Role
+The prompt should define the marketing function, input, output, and review rule.
+
+Slide 5: Build The Stack Around Output
+The stack should help the team ship campaign assets, not only chat about ideas.
+
+Slide 6: AI Does The Prep
+Human judgment still decides what should represent the company.
+
+Slide 7: Where Companies Can Use It
+A Claude marketing stack should focus on one bottleneck at a time.
+
+Slide 8: Install The Repeat
+If the same marketing task happens every week, turn it into a Claude workflow.

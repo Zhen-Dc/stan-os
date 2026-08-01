@@ -1,0 +1,12 @@
+Create a LinkedIn educational animated GIF for an AI automation services brand.
+
+Main title: "Prompt -> Skill -> Operating System"
+Structure: 5 steps with concise annotations:
+1. Repeated task
+2. Clear input
+3. Rules and voice
+4. QA and approval
+5. Reusable workflow
+
+Animate by highlighting one step per frame.
+Use Stanley's real avatar. Keep text readable on mobile. No fake logos, no fake metrics, no generated lookalike.

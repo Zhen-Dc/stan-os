@@ -1,0 +1,8 @@
+Create the intro/thumbnail image for a LinkedIn post about Claude Skills as reusable business workflows.
+
+Headline: "Stop saving prompts. Start saving workflows."
+Badge text: "AI WORKFLOW"
+Subhead: "A Claude Skill is useful only when the process behind it is clear."
+Creator row: "Stanley - @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Visual style: cream graph-paper background, oversized dark headline, one rust/orange accent line, compact badge, creator row, clean professional educational layout.
+Output format: PNG and animated GIF.

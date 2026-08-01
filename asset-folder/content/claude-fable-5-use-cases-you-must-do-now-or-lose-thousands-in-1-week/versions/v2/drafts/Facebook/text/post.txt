@@ -1,0 +1,23 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+The useful lesson from this Fable 5 video is simple: use the strongest model when the work has a clear brief, tools, checkpoints, and a finish line.
+
+The five projects from the video:
+
+1. Clone one paid workflow locally
+The example is a Whisper Flow-style dictation tool. Study the workflow, write the brief, then build a private version you can run locally.
+
+2. Audit your Claude Code history
+Look at old sessions and find repeated work. Some patterns become skills, some become automations, some become fixes, and some should be left alone.
+
+3. Build an agentic OS
+Put reports, dashboards, tasks, skills, and automations into one visual layer so repeated work is easier to run.
+
+4. Review a serious codebase
+Use separate reviewers, remove duplicate findings, and keep evidence, severity, file locations, and fix priority.
+
+5. Build custom software from a PRD
+Write the goal, screens, constraints, success criteria, and stop conditions before the model starts coding.
+
+Use cheaper models for tiny prompts and early planning.
+Use Fable 5 when the job is scoped, long, and expensive to get wrong.

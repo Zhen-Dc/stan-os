@@ -1,0 +1,12 @@
+
+Most people try to save time with AI by asking for random outputs.
+
+This package turns the source into a simple workflow you can actually apply:
+
+1. Spot the repeated task.
+2. Give AI the right context.
+3. Let it create the first pass.
+4. Add a human review gate.
+5. Save the process so it can run again.
+
+Save this if you want AI to remove repeated work instead of adding more tabs to your day.

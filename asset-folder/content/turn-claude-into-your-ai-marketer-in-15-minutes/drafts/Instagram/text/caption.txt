@@ -1,0 +1,19 @@
+AI marketing is not about one better prompt.
+
+It is about building the loop:
+
+Research.
+Planning.
+Production.
+Distribution.
+Optimization.
+
+This walkthrough shows Claude connected to a content factory workflow that can
+find trends, plan hooks, render ad variations, connect to Meta Ads, launch, read
+performance, and scale winners.
+
+The source demo says it ran on 15,000 credits and around 3 hours of compute.
+
+Save this if you are mapping your 2026 AI marketing stack.
+
+Comment "loop" if you want a simple version for a small team.

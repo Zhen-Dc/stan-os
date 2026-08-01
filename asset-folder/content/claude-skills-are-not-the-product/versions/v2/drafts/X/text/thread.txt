@@ -1,0 +1,33 @@
+1/ Claude Skills are not the product.
+
+The real asset is the repeatable workflow behind the command.
+
+2/ A prompt says:
+"Write this for me."
+
+A Skill says:
+"Here is how this task should be done every time."
+
+3/ A useful Skill should know:
+
+- input
+- role
+- rules
+- voice
+- output
+- QA
+- approval
+
+That is a workflow, not a saved sentence.
+
+4/ This is why downloaded Skills often feel generic.
+
+They were not built around your audience, offer, proof, constraints, or handoff.
+
+5/ The shortcut is not "/command."
+
+The shortcut is building the process once so you do not rebuild the thinking every week.
+
+6/ If your team keeps typing the same AI instructions, that is not a prompt problem.
+
+It is an operations problem waiting to be systemized.

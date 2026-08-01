@@ -1,0 +1,10 @@
+
+Create platform visuals for "Claude Skills One-Line Prompt System".
+
+Core idea: Claude Skills turn repeated long instructions into reusable one-line workflows.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Instagram carousel cover with a strong title, source subtext, and compact what-this-teaches modules. It must not leave the lower half empty.

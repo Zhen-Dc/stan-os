@@ -1,0 +1,1 @@
+Create seven standalone X cards. Each should read like a normal tweet, not a carousel sequence.

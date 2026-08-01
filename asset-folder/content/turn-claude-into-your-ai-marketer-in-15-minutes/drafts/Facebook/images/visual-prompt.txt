@@ -1,0 +1,20 @@
+Create a beginner-friendly Facebook course-interest graphic for people learning AI marketing and automation skills.
+
+Main text: "Build the AI marketing loop"
+
+Supporting text:
+"Research -> Plan -> Create -> Launch -> Optimize"
+
+Visual block:
+Five connected cards showing the workflow:
+1. Trend research
+2. Hooks and scripts
+3. Ad variations
+4. Meta Ads via MCP
+5. Performance feedback
+
+Visual style: warm but professional, simple AI workflow illustration, laptop/dashboard motif, confidence-building, readable text, generous padding inside every text block.
+
+Avoid luxury imagery and unrealistic income promises.
+
+Do not let text touch or clip against the bottom of containers or the canvas.

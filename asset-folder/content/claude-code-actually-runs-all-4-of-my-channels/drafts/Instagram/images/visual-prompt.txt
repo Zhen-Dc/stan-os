@@ -1,0 +1,10 @@
+
+Create platform visuals for "Claude Code Actually Runs All 4 Of My Channels".
+
+Core idea: Claude Code becomes a content operating system when one validated idea becomes one brief and then routes into LinkedIn, Instagram, YouTube, and Substack.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Instagram 9-slide 3:4 carousel at 1080x1440. Slide 1 is the hook with a bold claim plus a real number. Slide 2 is the stakes. Slides 3-7 are value slides with one idea per slide and a diagram based on that slide. Slide 8 is receipts/proof. Slide 9 is one keyword CTA. Every slide must look structurally different from the others.

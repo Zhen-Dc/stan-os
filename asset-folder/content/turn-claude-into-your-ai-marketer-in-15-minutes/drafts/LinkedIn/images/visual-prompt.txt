@@ -1,0 +1,16 @@
+Create a LinkedIn educational diagram image for an AI automation services brand.
+
+Main title: "The 5-Layer Agentic Marketing Stack"
+
+Structure:
+1. Research: crawl TikTok, Instagram, and YouTube for live trends.
+2. Planning: turn signals into hooks, scripts, and a content calendar.
+3. Production: render 100 ads across five formats.
+4. Distribution: connect to Meta Ads through MCP and launch campaigns.
+5. Optimization: read performance, scale winners, and ship matching static creatives.
+
+Visual style: polished whiteboard diagram, arrows from left to right, small UI sketches, concise annotations, black text with blue and green accents, professional educational feel. Include Stanley's profile photo as a small creator avatar when available and add a small blue verified badge next to the name.
+
+Output format: PNG.
+
+Do not include fake company logos. Keep text legible and avoid distorted words.

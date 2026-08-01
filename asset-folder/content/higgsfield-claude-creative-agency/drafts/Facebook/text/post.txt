@@ -1,0 +1,18 @@
+
+If you are learning AI, start here:
+
+Do not chase every new tool.
+
+Study how one useful workflow is built.
+
+This source shows a practical pattern:
+
+- Creative teams lose time moving between idea boards, prompts, asset generation, research docs, spreadsheets, and manual follow-up.
+- Connect Claude to Higgsfield through MCP or CLI, then use Claude Code, research docs, trackers, creative variations, skills, and scheduled routines.
+- The walkthrough shows brand creation, marketing studio, image-to-ad generation, research documents, a Google Sheet tracker, variations, reverse-engineered skills, and routines.
+
+That is the skill worth learning. You are not just learning how to prompt. You are learning how to turn a repeated task into a system.
+
+Start with one task you already do every week. Write the steps. Let AI help with the draft. Then review the result before using it.
+
+That is how AI becomes useful for work, content, and business.

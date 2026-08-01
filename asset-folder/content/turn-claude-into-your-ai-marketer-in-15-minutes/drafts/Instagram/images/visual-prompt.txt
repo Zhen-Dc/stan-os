@@ -1,0 +1,21 @@
+Create an 8-slide educational Instagram carousel with a clean structured tweet-style layout.
+
+Topic: "The 5-layer agentic marketing stack."
+
+Slide 1 is the cover:
+"Claude Can Run Your Marketing Loop"
+
+Supporting slides:
+2. The old stack: disconnected research, planning, production, launch, and reporting tools.
+3. The new loop: research -> planning -> production -> distribution -> optimization.
+4. Research: crawl TikTok, Instagram, and YouTube for live trends.
+5. Planning: turn trend signals into hooks, scripts, and a content calendar.
+6. Production: render 100 ads across five formats.
+7. Distribution: connect to Meta Ads through MCP and launch campaigns.
+8. Optimization: read performance, scale winners, and ship matching static creatives.
+
+Visual style: warm cream grid background, top-right creator pill, Stanley's circular profile photo, @stanleyai handle, small blue verified badge placed beside the creator name with clear spacing, rounded colored title pill, simple workflow diagrams, action box near the bottom, and small swipe footer.
+
+Output format: PNG slides at 1080x1350.
+
+Keep each slide uncluttered, text-first, and readable. Do not include fake platform buttons or tiny dashboard text.

@@ -1,0 +1,27 @@
+Claude will gaslight you, until you install this skill.
+
+It's called The LLM Council.
+
+You ask a question. 5 advisors attack it from different angles. Then they peer-review each other before giving you the verdict.
+
+How it works:
+
+1. You ask a real decision question.
+2. 5 advisors attack it from different angles.
+3. They grade each other's work anonymously.
+4. Chairman synthesises one verdict and the next step.
+
+Install in 4 steps:
+
+1. Download the skill → https://lnkd.in/eM89acTy
+2. Open Customise skills in Claude
+3. Upload the SKILL.md file
+4. Type /llm-council
+
+One Claude tells you you're right.
+
+Five Claudes show you where you're wrong.
+
+Get more free AI guides here → charliehills.substack.com
+
+Repost ♻️ to help someone in your network. | 163 comments on LinkedIn

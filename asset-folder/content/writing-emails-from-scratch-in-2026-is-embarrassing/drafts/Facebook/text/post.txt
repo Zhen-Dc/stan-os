@@ -1,0 +1,25 @@
+
+If Claude writes emails without meeting context, it is guessing.
+
+A better AI email workflow connects:
+
+- the Gmail thread
+- the meeting transcript or notes
+- the sender
+- the topic
+- the timeframe
+- the reply goal
+
+Then Claude can draft from the conversation that actually happened.
+
+The safest version:
+
+1. Connect Gmail and meeting notes.
+2. Start with read-only access.
+3. Ask Claude to draft a short reply.
+4. Save it as a Gmail draft.
+5. Review before sending.
+
+The point is not removing judgment.
+
+The point is removing copy-paste and blank-page work while keeping context and review.

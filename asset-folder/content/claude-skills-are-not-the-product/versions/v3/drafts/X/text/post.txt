@@ -1,0 +1,5 @@
+Stop retyping the same AI instructions.
+
+If a task repeats every week, it should become a workflow, not another prompt.
+
+A useful Claude Skill stores the source, rules, output format, QA checks, and approval point so the work can run the same way next time.

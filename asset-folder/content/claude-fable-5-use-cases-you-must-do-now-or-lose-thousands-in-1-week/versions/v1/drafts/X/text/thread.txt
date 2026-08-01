@@ -1,0 +1,33 @@
+1/ Stop using your strongest model on work a cheaper model can do.
+
+The video is really a filter for when Fable 5 is worth spending.
+
+2/ Use case 1:
+Clone software you already pay for.
+
+The source uses a Whisper Flow-style local clone: research the architecture, scope the build, then execute privately on your machine.
+
+3/ Use case 2:
+Audit your Claude Code sessions.
+
+Scan the history. Cluster repeated patterns. Decide what becomes a skill, automation, fix, or no-action habit.
+
+4/ Use case 3:
+Build an agentic OS.
+
+Not another folder of prompts. A visual system for reports, dashboards, tasks, skills, and automations.
+
+5/ Use case 4:
+Review a codebase.
+
+The demo used parallel reviewers, then deduped raw findings into prioritized issues with severity.
+
+6/ Use case 5:
+Build from a PRD.
+
+Long-horizon software needs requirements, constraints, and a target before the model starts writing code.
+
+7/ The rule:
+
+Use cheaper models for research and planning.
+Use the strongest model when autonomy actually matters.

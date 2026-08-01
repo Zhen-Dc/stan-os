@@ -1,0 +1,10 @@
+Create the intro/thumbnail image for a LinkedIn post about "Claude as an AI marketing operator."
+
+Headline: "AI Marketing Is Becoming A Loop"
+Badge text: "2026 STACK"
+Subhead: "Research, planning, production, distribution, and optimization inside one workflow."
+Creator row: "Stanley - @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png when available.
+
+Visual style: off-white paper/grid background, oversized editorial headline, one rust/orange accent word on "Loop", compact badge near the top, creator pill near the lower-left, minimal workflow arrows, lots of whitespace, crisp readable typography.
+
+Do not include fake logos, fake dashboards, or unsupported revenue claims. Keep all text legible.

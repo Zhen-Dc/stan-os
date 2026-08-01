@@ -1,0 +1,11 @@
+1/ Claude Code is most useful when it runs the workflow, not when it is asked to make one random post.
+
+2/ One validated idea should become one brief before it becomes four channel assets.
+
+3/ LinkedIn, Instagram, YouTube, and Substack should not get the same copied post. They should get different outputs from the same source idea.
+
+4/ The tool stack only works when each tool owns one job.
+
+5/ Notion is the base layer. Apify closes the loop. Claude Code routes the work.
+
+6/ The real unlock is not 30 posts a week. It is the feedback loop that decides what deserves to be made next.

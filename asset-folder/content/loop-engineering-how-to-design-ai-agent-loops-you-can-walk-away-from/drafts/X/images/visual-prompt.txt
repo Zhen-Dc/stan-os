@@ -1,0 +1,25 @@
+Create six tweet screenshot-style images for X about loop engineering.
+
+Canvas: 920x458, matching the accepted content-tight X tweet aspect ratio.
+
+Visual style for all: plain white 920x458 tweet screenshot-style canvas. Keep the image tight to the tweet content with no extra top or bottom margin. Near the top-left, place Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png, the bold name "Stanley", a small blue verified badge immediately after the name, and the gray @stanleyai handle on one horizontal creator row. Put large black tweet text underneath with generous paragraph spacing.
+
+Do not include a slide-count pill, border, cream grid, action row, timestamp, prompt box, fake engagement numbers, or decorative carousel frame.
+
+Create these tweet options:
+
+1. "A prompt gives AI an instruction.\n\nA loop gives AI a workflow.\n\nThat is the difference."
+2. "The next AI skill is not writing bigger prompts.\n\nIt is designing the loop the agent can follow."
+3. "Autonomy only works when the boundaries are clear.\n\nNo boundary, no reliable agent."
+4. "A useful AI agent needs 4 things:\n\nContext. Actions. Feedback. Stop condition."
+5. "If the task repeats, map the loop before you write the prompt.\n\nThe workflow matters more than the wording."
+6. "The real unlock is bounded autonomy.\n\nNot unlimited freedom.\n\nA loop that knows when to stop."
+
+Output filenames to generate later:
+- x-quote-01.png
+- x-quote-02.png
+- x-quote-03.png
+- x-quote-04.png
+- x-quote-05.png
+- x-quote-06.png
+- x-quote.png as a copy of x-quote-01.png

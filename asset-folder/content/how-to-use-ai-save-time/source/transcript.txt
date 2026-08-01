@@ -1,0 +1,17 @@
+Source URL: rough-draft://how-to-use-ai-save-time
+Source title: How To Use AI To Save Time
+Creator: Stanley rough draft
+Source confidence: rough-draft-derived
+
+Verified facts used for drafting:
+- The rough draft focused on using Claude as a marketing team.
+- It listed ideation, role assignment, and execution as the workflow.
+- It promised faster production and better consistency, not fake revenue.
+- The safe angle is AI as a repeatable content operations system.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Existing partial draft: The Power of an AI Marketing Team. Workflow: ideation, role assignment, execution. Result: faster production, higher consistency, more time for strategy.

@@ -1,0 +1,28 @@
+Most people think the breakthrough is:
+
+"Claude Code can build a website."
+
+That is not the real breakthrough.
+
+The real breakthrough is that once your context, design rules, brand assets, and review process are clear, the AI stops guessing.
+
+It starts building inside a system.
+
+That is the difference between a random AI demo and something you can actually ship.
+
+Optional thread:
+
+1. AI website building does not start with code.
+It starts with setup.
+
+2. A CLAUDE.md file gives the AI the rules before every session.
+That means less re-explaining and fewer random outputs.
+
+3. A design skill gives the AI taste boundaries.
+Without that, the frontend can work technically and still feel cheap.
+
+4. Brand assets keep the output consistent.
+Logo, colors, profile photo, examples, and references matter.
+
+5. The first draft is not the final product.
+Review is where the operator creates the quality.

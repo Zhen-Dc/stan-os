@@ -1,0 +1,35 @@
+Slide 1: 2-minute email system
+Use Claude with Gmail and meeting context so replies come from what was actually discussed, not from a blank page.
+COVER: A faster email workflow connects Claude to Gmail and meeting context before drafting, then saves the result as a reviewed Gmail draft.
+
+Slide 2: The missing piece is memory
+Most AI email drafts sound generic because they only see the thread, not the conversation behind it.
+SETUP_LEAK: A client email usually connects to a call, a decision, a promise, or a next step. If Claude cannot see that context, it has to guess.
+
+Slide 3: Capture the real call
+Before you automate the reply, capture what people actually said.
+BUILD_LOOP: Keep Granola or another meeting-note system open for Zoom, Teams, or Meet calls. The transcript becomes the memory Claude can use later.
+
+Slide 4: Connect the right context
+Gmail gives the thread. Granola gives the meeting memory. Claude needs both.
+INSTALL_FILTER: Connect Gmail and Granola inside Claude desktop, then start with read-only access so Claude can learn the workflow before it can change anything.
+
+Slide 5: Point Claude precisely
+The sender, topic, timeframe, and reply goal are what stop the draft from guessing.
+COMMAND_MENU: Tell Claude who sent the email, what topic it relates to, which meeting window to search, and what the reply should do.
+
+Slide 6: Use this prompt shell
+The prompt should route Claude to the right inbox thread and the right meeting notes.
+COMMAND_STACK: Pull [sender]'s email about [topic]. Search meeting notes for [topic] in [timeframe]. Draft a short warm reply that [confirms / answers / declines].
+
+Slide 7: Save as draft, not send
+The best first automation is a reviewed draft, not an unsupervised send.
+REAL_RUN_EXTRACT: Claude prepares the Gmail draft. You open Gmail, check facts, fix tone if needed, and send only after review.
+
+Slide 8: Receipt: 2 minutes
+The source workflow claims the loop takes 2 minutes because Claude stays inside the connected workflow.
+TOKEN_SCAN: Checkable source details: Granola captures calls, Claude connects Gmail plus Granola, the prompt names sender/topic/timeframe, and the result lands as a Gmail draft.
+
+Slide 9: Comment EMAIL
+Comment EMAIL if you want the checklist for building a safer AI email-reply workflow.
+CTA: Comment EMAIL. I will send the checklist for connecting inbox context, meeting notes, and reviewed drafts safely.

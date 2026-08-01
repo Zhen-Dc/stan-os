@@ -1,0 +1,36 @@
+
+Most people do not run out of Claude because the work is too advanced.
+
+They run out because the wrong model is doing the wrong job.
+
+Charlie Hills made the useful point clearly:
+
+You can overpay 5x on simple Claude prompts and burn limits 2x faster just by picking the wrong model or effort level.
+
+The practical model map:
+
+1. Haiku 4.5
+Use it for summaries, formatting, classification, and bulk tasks where depth does not matter.
+
+2. Sonnet 5
+Use it as the daily default for drafting, rewrites, notes-to-plan work, and normal thinking.
+
+3. Opus 5
+Use it when being wrong is expensive: strategy, contracts, multi-step analysis, and judgment-heavy work.
+
+4. Fable 5
+Use it for long agentic builds you can leave running, where the model plans, builds, and tests.
+
+The missed lever is the effort dial.
+
+High is the sweet spot.
+Medium is the cost step-down.
+Low is for quick bulk work.
+Extra is for long agentic runs.
+Max is usually the trap.
+
+The cheapest upgrade is not always changing the model.
+
+Sometimes it is moving the dial before you move the model.
+
+Comment MODEL if you want the Claude model-routing checklist.

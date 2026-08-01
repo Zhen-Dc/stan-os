@@ -1,0 +1,31 @@
+Slide 1: Faceless YouTube is not faceless work
+A channel only looks automatic when the hidden production line is clear.
+COVER: A faceless YouTube workflow can be broken into source collection, scripting, asset creation, editing, QA, and publishing handoff.
+
+Slide 2: The channel is the product line
+One video is content. A repeatable channel is operations.
+PIPELINE: The workflow has to move from idea to script to assets to edit to publish without restarting every time.
+
+Slide 3: Build the right way
+The weak version makes one person guess every step. The right version gives each stage a clear job.
+COMPARISON: Treat the channel like a production system with inputs, stage rules, review points, and a publishing handoff.
+
+Slide 4: Why most systems break
+When the source is weak, the script guesses. When the script guesses, the output feels cheap.
+FIX: Replace vague automation with a content brief: topic, audience, angle, proof, visual direction, and the final platform format.
+
+Slide 5: Run the video in stages
+A faceless video system needs a clean production path, not a magic prompt.
+FLOW: Move one stage at a time: collect the source, write the script, prepare visuals, assemble the edit, then review before publishing.
+
+Slide 6: Save the production kit
+The assets should not sit in a random folder after each video.
+PROGRESS: Keep reusable pieces together: source notes, script draft, image prompts, voice files, edit rules, caption files, thumbnail copy, and QA notes.
+
+Slide 7: Automation still needs judgment
+AI can do a lot of the production work, but humans still choose what is worth publishing.
+RATIO: Let AI handle the repeatable production work. Keep human judgment on angle, quality, taste, and final approval.
+
+Slide 8: Save this channel rule
+If every upload needs the same kind of work, stop treating it like a fresh project.
+SAVE THIS: A faceless YouTube channel is easier to scale when every video passes through the same production chain.

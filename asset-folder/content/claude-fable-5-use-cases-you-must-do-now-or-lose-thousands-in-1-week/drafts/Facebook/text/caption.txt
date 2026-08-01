@@ -1,0 +1,6 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+Use Fable 5 for scoped work: local software clones, Claude Code audits, agentic OS builds, code review, and PRD-backed software.
+
+Tiny prompt = cheaper model.
+Clear system brief = strongest model.

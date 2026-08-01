@@ -1,0 +1,10 @@
+
+Create platform visuals for "Higgsfield Just Turned Claude Into a Creative Agency".
+
+Core idea: The video shows Claude connected to Higgsfield so creative ideation, image generation, video generation, research, tracking, and routines can become an automated content system.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Instagram 8-slide structured carousel. Slide 1 is a clean intro. Slides 2-8 must be dense, standalone, information-rich, and visually varied. Do not leave large empty lower space. Do not repeat the same BOTTOM LINE panel on most slides. Use module labels only when they describe the content.

@@ -1,0 +1,22 @@
+You have 20 unread messages.
+
+Sorry, that was not part of the post. I just needed your attention because this is exactly how people feel when AI starts sounding too technical.
+
+Claude is not hard to introduce.
+
+The mistake is starting with features.
+
+Start with one task:
+
+"I want [task] for [result]. Ask me questions first, then create the plan."
+
+Then make the tool practical:
+
+- use voice instead of typing everything
+- upload files into a Claude Project
+- save repeated prompts as Skills
+- connect email or calendar only when the user understands the permission
+
+One useful result beats a full AI lecture.
+
+Save this for the person who keeps saying they are behind on AI.

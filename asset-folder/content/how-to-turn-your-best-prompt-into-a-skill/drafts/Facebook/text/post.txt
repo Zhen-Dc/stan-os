@@ -1,0 +1,22 @@
+
+If you keep reusing the same AI prompt, turn it into a Skill.
+
+Do not only save the wording.
+
+Save the full system:
+
+- the repeated task
+- the trigger phrase
+- the source material it should read
+- the rules and examples
+- the output format
+- the file path or handoff
+- the QA gate before use
+
+The important detail is the short Skill description.
+
+That description tells Claude when the Skill should fire.
+
+If it is vague, you go back to manual prompting.
+
+If it is narrow, Claude has a much better chance of using the right workflow at the right time.

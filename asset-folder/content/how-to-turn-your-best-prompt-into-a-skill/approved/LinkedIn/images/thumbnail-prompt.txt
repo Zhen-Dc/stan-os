@@ -1,0 +1,10 @@
+
+Create platform visuals for "How To Turn Your Best Prompt Into A Skill".
+
+Core idea: A useful Claude Skill starts from a repeated prompt or chat, then uses a short task-based description so Claude knows when to run it.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+LinkedIn intro thumbnail about the main workflow lesson.

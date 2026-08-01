@@ -1,0 +1,5 @@
+Create a clean 920x458 X image.
+
+Tweet text: "Tiny prompt = cheaper model. Clear system brief = strongest model."
+
+White tweet screenshot style with Stanley avatar, name, verified badge, and @stanleyai. No engagement numbers or action row. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png. Keep text readable and avoid fake metrics or logos.

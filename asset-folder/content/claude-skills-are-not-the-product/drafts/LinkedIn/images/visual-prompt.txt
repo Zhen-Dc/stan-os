@@ -1,0 +1,13 @@
+Create a LinkedIn educational animated GIF for an AI automation services brand.
+
+Main title: "Stop Retyping AI Instructions"
+Standalone lesson: if a task repeats, the asset is the workflow, not the prompt.
+Structure: 5 labeled steps with concise annotations:
+1. TRIGGER - name the repeated task
+2. SOURCE - define the material the Skill reads
+3. RULES - store voice, constraints, and examples
+4. QA GATE - check claims, ownership, formatting, and readiness
+5. HANDOFF - save the finished assets where review or publishing expects them
+
+Animate by highlighting one step per frame.
+Use Stanley's real avatar. Keep text readable on mobile. No fake logos, no fake metrics, no generated lookalike.

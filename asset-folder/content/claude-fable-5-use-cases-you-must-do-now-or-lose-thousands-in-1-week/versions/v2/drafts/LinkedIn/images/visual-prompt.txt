@@ -1,0 +1,15 @@
+Create a LinkedIn educational animated GIF titled "Stop wasting your strongest AI model on tiny prompts."
+
+Primary output: linkedin-animation.gif.
+Fallback poster: linkedin-diagram.png.
+
+Animate 5 highlighted frames that match the LinkedIn post:
+1. Clone one paid workflow locally.
+2. Audit your Claude Code history.
+3. Build an agentic OS.
+4. Review a serious codebase.
+5. Build custom software from a PRD.
+
+Bottom rule: "Tiny prompt = cheaper model. Clear brief = strongest model."
+
+Use a polished cream-grid educational layout with numbered rows, one highlighted row per frame, Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png, and readable source-derived copy only. Use plain wording such as "strongest AI model." Avoid fake metrics, logos, or unsupported claims.

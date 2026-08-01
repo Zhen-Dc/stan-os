@@ -1,0 +1,43 @@
+
+You do not need five separate people to create one video ad anymore.
+
+You need a system that connects the work.
+
+A start-to-finish ad system for brands that need more winning creatives without building a bigger team.
+
+I built a Claude AI agent for the full video-ad loop:
+
+1. It researches the market.
+It checks social platforms and ad libraries for competitor creatives, hooks, angles, pacing, offers, and visual patterns.
+
+2. It breaks ads down scene by scene.
+Not just "this ad is good."
+
+It identifies what happens in the first seconds, what visual stops the scroll, what angle carries the message, and what CTA closes the ad.
+
+3. It writes an original script.
+The script uses proven patterns, but it is adapted to the brand voice, offer, product, and audience.
+
+4. It creates the production kit.
+Image prompts.
+Scene prompts.
+Animation prompts.
+Caption direction.
+Edit notes.
+
+5. It edits the video.
+The agent combines generated clips, removes dead space, adds captions, adds transitions, syncs sound effects to the beat, and exports a review-ready ad.
+
+6. It waits for approval.
+The system sends the finished video for review before publishing.
+
+7. It learns from performance.
+After the ad runs, it collects the data, reports what worked, documents what failed, and creates new variations from the winners.
+
+That is the part most businesses are missing.
+
+Not another random AI video.
+
+A repeatable ad machine with research, production, editing, approval, publishing, and learning in one loop.
+
+Comment AGENT if you want to see how I would build this for your business.

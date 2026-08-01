@@ -1,0 +1,20 @@
+Visual QA check
+
+Checked on: 2026-06-27
+
+Brand profile source:
+AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg
+
+Regeneration basis:
+Source is metadata-derived from the YouTube title, description notes, chapter structure, and saved repurposing angle. Transcript extraction was blocked, so these assets should not be treated as transcript-quoted content.
+
+Confirmed:
+- LinkedIn: drafts/LinkedIn/images/linkedin-diagram.png was opened and checked for readable text and unclipped diagram cards.
+- Instagram: drafts/Instagram/images/instagram-slide-01.png, instagram-slide-03.png, and instagram-slide-06.png were opened and checked after regenerating all six slides.
+- Instagram: the creator pill uses Stanley's real profile picture, and the verified badge sits beside the name.
+- X: drafts/X/images/x-quote.png was opened and checked for centered text and clean spacing.
+- Facebook: drafts/Facebook/images/facebook-course-card.png was opened and checked for generous padding and unclipped text.
+- Facebook and LinkedIn: creator rows use Stanley's real profile picture from the brand assets folder, not a generated lookalike.
+
+Note:
+approved/ and published/ remain empty until the user approves platforms for publishing.

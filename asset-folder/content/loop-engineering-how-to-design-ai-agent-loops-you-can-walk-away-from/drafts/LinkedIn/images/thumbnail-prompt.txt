@@ -1,0 +1,17 @@
+Create the intro/thumbnail image for a LinkedIn educational post about loop engineering.
+
+Headline: "Design AI Loops That Keep Working"
+
+Accent text: "Loops" in rust/orange.
+
+Badge text: "AI WORKFLOW SYSTEM"
+
+Subhead: "The practical shift from one-off prompts to repeatable agent workflows."
+
+Creator row: "Stanley • @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png if available.
+
+Footer cue: "01 / 01" on the left.
+
+Visual style: cream/off-white graph-paper background, editorial poster layout, oversized dark navy headline, one rust/orange accent word, compact rounded badge near the top, small simple workflow icon, creator pill near the lower-left, lots of whitespace, crisp readable typography.
+
+Do not copy the reference images exactly. Use the same structure and pattern for Stanley's brand. Keep all text legible and avoid distorted letters.

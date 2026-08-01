@@ -1,0 +1,31 @@
+Slide 1: One line should trigger a workflow
+The point of a Skill is not a shorter prompt. It is a saved process.
+COVER: Claude Skills turn repeated long instructions into reusable one-line workflows.
+
+Slide 2: Prompt vs Skill
+A prompt asks for one answer. A Skill carries the way the job should be done.
+COMPARISON: Save the recurring instruction, examples, file paths, QA rules, and handoff steps inside the Skill.
+
+Slide 3: Stop retyping the same brief
+If the instruction repeats, it should live in the Skill.
+PIPELINE: A good Skill stores the task rules, source needs, examples, output format, mistakes to avoid, and review checklist.
+
+Slide 4: Build the Skill in order
+Do not start with the one-line prompt. Start with the repeated task.
+FLOW: Map the repeated job, write the rules, add examples, define output, then add the one-line trigger.
+
+Slide 5: Why one-liners fail
+A short prompt without stored context is just a guess with fewer words.
+FIX: The Skill needs context: audience, tone, examples, constraints, source files, approval rules, and output folder.
+
+Slide 6: What the Skill stores
+Useful Skills carry the pieces you do not want to explain again.
+PROGRESS: Save voice rules, file paths, examples, templates, constraints, QA checks, and final handoff instructions.
+
+Slide 7: Automation still needs approval
+A Skill can speed up the work, but review keeps it usable.
+RATIO: Let the Skill handle repeatable drafting. Keep human judgment on accuracy, taste, and readiness.
+
+Slide 8: Save this Skill rule
+If you explain it more than twice, turn it into a Skill.
+SAVE THIS: One-line prompts become powerful when they trigger a complete saved workflow.

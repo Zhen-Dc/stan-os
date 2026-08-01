@@ -1,0 +1,36 @@
+Claude Fable 5 should not be used like a normal chatbot.
+
+That is the expensive mistake.
+
+The smart move is simple:
+
+Do not use the most powerful model for every turn.
+Use it like a senior strategist.
+
+Think of it like hiring an expensive senior lawyer.
+
+You do not pay that person to rewrite every paragraph.
+You pay them to define the strategy, spot the risks, and create the plan.
+Then a cheaper assistant can execute from that plan.
+
+That is how AI teams should use Claude Fable 5:
+
+1. Use it for the hard thinking.
+2. Give it the full context.
+3. Ask it to clarify the task first.
+4. Make it produce the strategy, workflow, or decision rules.
+5. Move execution to a cheaper/faster model.
+6. Track usage before the team burns credits.
+
+The point is not "use better AI."
+
+The point is:
+
+Build model routing into your workflow.
+
+If a task needs judgment, ambiguity handling, research direction, or strategy, use the strongest model.
+
+If a task is drafting, formatting, summarizing, resizing, rewriting, or filling a known template, use the cheaper model.
+
+Premium AI should be the architect.
+Your workflow should decide when it enters the room.

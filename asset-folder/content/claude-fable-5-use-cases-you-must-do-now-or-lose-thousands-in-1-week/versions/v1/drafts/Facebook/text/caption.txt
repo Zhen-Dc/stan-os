@@ -1,0 +1,5 @@
+New AI models are exciting, but the real skill is knowing what to build with them.
+
+This video breaks it into five practice projects: clone a tool, audit your workflow, build an agentic OS, review code, and execute from a PRD.
+
+Pick one. Keep it small. Learn the process.

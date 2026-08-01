@@ -1,0 +1,10 @@
+
+Create platform visuals for "You're Overpaying 5x On Half Your Claude Activity".
+
+Core idea: Claude cost control comes from choosing the right model and then setting the effort dial for the task.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Instagram carousel cover with a huge title of at most six words, one brief summary subtext, creator pill, page count, and swipe cue. Do not add teaching cards, chip rows, prompt boxes, or what-this-teaches modules to the cover.

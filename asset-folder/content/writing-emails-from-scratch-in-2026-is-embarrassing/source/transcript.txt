@@ -1,0 +1,22 @@
+Source URL: https://www.linkedin.com/posts/ruben-hassid_writing-emails-from-scratch-in-2026-is-embarrassing-share-7487247808459296768-LzV6/
+Source title: Writing Emails From Scratch In 2026 Is Embarrassing
+Creator: Ruben Hassid
+Source confidence: caption-derived
+
+Verified facts used for drafting:
+- The public LinkedIn preview contains enough caption/body material to drive the repurpose.
+- The post hook says writing emails from scratch in 2026 is embarrassing.
+- Caption evidence claims the workflow only takes 2 minutes.
+- Caption evidence says Granola silently transcribes Zoom, Teams, and Meet calls without a meeting bot.
+- Caption evidence says Claude desktop can connect Gmail plus Granola so it can read inbox and meeting transcripts together.
+- Caption evidence gives this prompt shell: pull the sender's email about a topic, search Granola for meetings on that topic in a timeframe, and draft a short warm reply that confirms, answers, or declines.
+- Caption evidence says Claude can save the result as a Gmail draft for review.
+- Caption evidence warns not to grant write access on day one and recommends read-only first.
+- The attached image was visible only as a public preview image reference, so it was used for visual-context awareness only and not as an essential factual source.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Public LinkedIn preview captured the full caption/body workflow: Granola call capture, Claude desktop Gmail + Granola connectors, sender/topic/timeframe prompt routing, save-as-draft Gmail handoff, and read-only-first safety warning. The attached image was not fully captured, so no essential factual claims were taken from the image.

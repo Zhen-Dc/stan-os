@@ -1,0 +1,31 @@
+Slide 1: Edit video with plain English
+Natural-language editing works best when the command maps to a real timeline action.
+COVER: Claude connected to DaVinci Resolve turns manual video editing commands into natural-language automation.
+
+Slide 2: Commands beat menu hunting
+The useful part is turning repeated editor actions into instructions the system can execute.
+PIPELINE: Name the edit, point to the clip or timeline area, run the action, then review the result like a normal editor.
+
+Slide 3: Build an edit command
+Treat each command like a small reusable editing move.
+FLOW: Start with the clip, state the operation, give the rule, run it, then review the timeline before exporting.
+
+Slide 4: Where it goes wrong
+Natural language is not magic if the instruction is vague.
+FIX: Give the timeline target, the edit action, timing rules, and what the finished version should look like.
+
+Slide 5: Use the agent correctly
+Do not ask the agent to invent taste. Ask it to remove repeatable timeline friction.
+COMPARISON: Use it for specific repeatable actions: trims, markers, rough assemblies, captions, exports, and cleanup.
+
+Slide 6: AI helps the edit. You approve it.
+Editors should use automation to reduce clicking, not to surrender taste.
+RATIO: Let AI handle repetitive operations. Keep human judgment on pacing, emotion, story, and final cut.
+
+Slide 7: Keep a command library
+The value grows when useful editing instructions are saved.
+PROGRESS: Save your best trim, caption, rough cut, export, cleanup, and packaging commands so the next project starts faster.
+
+Slide 8: Save this edit rule
+If you repeat an edit action every week, turn it into a command.
+SAVE THIS: The best editing agents are built from small clear commands that can be reviewed quickly.

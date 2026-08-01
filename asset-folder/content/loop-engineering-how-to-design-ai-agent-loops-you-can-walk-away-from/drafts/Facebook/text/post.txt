@@ -1,0 +1,54 @@
+Most people are trying to fix AI workflows with longer prompts.
+
+That is the wrong layer.
+
+If the task is bigger than one response, the AI does not only need better wording.
+
+It needs a loop.
+
+A prompt tells AI what to do once.
+
+A loop tells AI how to keep moving through a process:
+
+1. Understand the goal
+2. Use the right context
+3. Take the next action
+4. Check the result
+5. Decide whether to continue, revise, or stop
+
+That is loop engineering.
+
+It is useful for coding, research, content creation, operations, automations, and any repeated task where the AI needs to work through steps instead of giving one answer.
+
+The key is not giving AI unlimited freedom.
+
+The key is bounded autonomy.
+
+Give it a clear lane.
+Give it a checklist.
+Give it feedback checks.
+Give it a stopping point.
+
+For example, a content workflow should not just say:
+
+"Rewrite this article."
+
+It should follow a process:
+
+Save the original.
+Extract the facts.
+Rewrite in the right voice.
+Check for false ownership claims.
+Create metadata.
+Wait for approval.
+Repurpose the approved version.
+
+That is how AI becomes a workflow assistant instead of just a chatbot.
+
+If you want to use AI for real work, start with one repeated task.
+
+Ask:
+
+"What loop should this AI follow, what should it check, and when should it stop?"
+
+Then write the prompt.

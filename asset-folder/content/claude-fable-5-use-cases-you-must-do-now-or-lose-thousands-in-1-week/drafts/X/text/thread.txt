@@ -1,0 +1,33 @@
+1/ Stop wasting your strongest AI model on tiny prompts.
+
+The Fable 5 video is really a filter: use the strongest model only when the work is scoped, long, and expensive to get wrong.
+
+2/ Use case 1:
+Clone one paid workflow locally.
+
+The demo uses a Whisper Flow-style dictation tool. Study the workflow, write the brief, then build a private local version.
+
+3/ Use case 2:
+Audit your Claude Code history.
+
+Read old sessions. Find repeated work. Decide what becomes a skill, automation, fix, or no change.
+
+4/ Use case 3:
+Build an agentic OS.
+
+Put reports, dashboards, tasks, skills, and automations into one visual layer so the work is easier to run.
+
+5/ Use case 4:
+Review a serious codebase.
+
+Use separate reviewers, remove duplicates, then keep evidence, severity, file locations, and fix priority.
+
+6/ Use case 5:
+Build custom software from a PRD.
+
+Write the goal, screens, constraints, success criteria, and stop conditions before the model starts coding.
+
+7/ The rule:
+
+Tiny prompt = cheaper model.
+Clear system brief = strongest model.

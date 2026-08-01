@@ -1,0 +1,10 @@
+
+Create platform visuals for "These Are The Exact Claude Skills I Use Every Day V2".
+
+Core idea: A practical Claude Skill library turns repeated setup into slash-command workflows for daily tasks.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+Facebook course-interest graphic with practical learning steps.

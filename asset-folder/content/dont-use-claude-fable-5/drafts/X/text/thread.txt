@@ -1,0 +1,40 @@
+1/ Claude Fable 5 is expensive when you use it like a normal chatbot.
+
+The mistake is not access.
+The mistake is using premium reasoning for every tiny turn.
+
+2/ Think of it like hiring a senior lawyer.
+
+You do not pay the senior lawyer to rewrite every paragraph.
+You pay them to define the strategy.
+
+3/ Same with Claude Fable 5.
+
+Use it for:
+- unclear goals
+- high-stakes decisions
+- research direction
+- workflow design
+- first-pass strategy
+
+4/ Do not use it for every:
+- rewrite
+- summary
+- formatting task
+- template fill
+- small draft
+
+That is where the cost leaks.
+
+5/ A better workflow:
+
+Ask the strongest model to clarify the task, create the plan, and define the rules.
+
+Then switch execution to a cheaper/faster model.
+
+6/ The real skill is not just prompting.
+
+It is model routing.
+
+Premium AI should be the architect.
+Cheaper AI should handle the repeated execution.

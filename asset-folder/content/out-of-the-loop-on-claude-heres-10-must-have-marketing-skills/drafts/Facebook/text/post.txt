@@ -1,0 +1,37 @@
+
+If you run Meta or Google Ads, Sonnet 5 is useful for one practical reason:
+
+It can turn account data into a ranked fix list.
+
+That matters because most ad accounts do not need another generic marketing opinion.
+
+They need decisions:
+
+- scale this
+- pause this
+- test this
+- rebuild this
+
+The 10 Skills from the source split the work cleanly:
+
+Meta Ads:
+
+1. /tracking-audit
+2. /kpi-map
+3. /campaign-structure-audit
+4. /adset-analysis
+5. /creative-fatigue
+
+Google Ads:
+
+6. /wasted-spend-audit
+7. /search-audit
+8. /shopping-audit
+9. /pmax-audit
+10. /keyword-opportunities
+
+The key is not asking Claude to "audit my ads."
+
+The key is running one focused Skill against one leak type, then asking for the evidence, priority, verdict, and next action.
+
+That is how Sonnet becomes an ad-account assistant instead of another chat window.

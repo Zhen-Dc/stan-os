@@ -1,0 +1,17 @@
+Source URL: https://www.linkedin.com/feed/update/urn:li:activity:7477338173711441920/
+Source title: Claude Connected To DaVinci Resolve
+Creator: Alessio Bertozzi
+Source confidence: source-brief-derived
+
+Verified facts used for drafting:
+- Local source brief lists creator: Alessio Bertozzi.
+- Local source brief topic: Claude connected to DaVinci Resolve turns manual video editing commands into natural-language automation.
+- The public preview was recorded in AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md.
+- The package recreates the strategy for Stanley's AI automation positioning.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source brief from AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md. Creator: Alessio Bertozzi. Topic: Claude connected to DaVinci Resolve turns manual video editing commands into natural-language automation.. Useful pattern: The local reference says the post shows manual pain, a natural-language command, and an immediate practical outcome.

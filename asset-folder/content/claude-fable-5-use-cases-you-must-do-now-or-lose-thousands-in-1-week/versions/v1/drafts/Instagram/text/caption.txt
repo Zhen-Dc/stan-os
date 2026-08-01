@@ -1,0 +1,20 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+This method works better:
+
+Use the best model when the work needs long execution, tools, planning depth, and clear success criteria.
+
+The 5 projects:
+
+-> clone useful software locally
+-> audit your Claude Code workflow
+-> build an agentic OS
+-> review and debug a real codebase
+-> execute custom software from a PRD
+
+The operating rule:
+
+Plan with cheaper models.
+Spend the strongest model on execution.
+
+Save this before your next big build.

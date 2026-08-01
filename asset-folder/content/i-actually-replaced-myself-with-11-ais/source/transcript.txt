@@ -1,0 +1,41 @@
+Source URL: https://www.linkedin.com/posts/charlie-hills_i-actually-replaced-myself-with-11-ais-activity-7484547615334805505-Yu-g
+Source title: I Actually Replaced Myself With 11 Tools
+Creator: Charlie Hills
+Source confidence: caption-and-org-chart-image-derived
+
+Verified facts used for drafting:
+- The source hook says: I actually replaced myself with 11 AIs.
+- The source proof says the org chart is behind 350k+ across socials.
+- The caption says every post used to be the creator for two years.
+- The caption says the creator was the bottleneck.
+- Hermes is Head of Operations and scores every idea.
+- Reddit, X, and Instagram are Head of Research and find what people want to read.
+- Claude is Head of Content and writes posts and scripts in the creator's voice.
+- Claude Code is Head of Design and builds graphics in HTML.
+- GPT Image 2 is Head of Illustration and makes images on demand.
+- HyperFrames is Head of Post-Production and cuts/renders reels with captions and overlays.
+- Higgsfield is Head of Cinematography and creates B-roll footage.
+- Buffer is Head of Distribution and schedules posts.
+- ManyChat is Head of Community and handles comments and DMs.
+- Apify is Head of Analytics and pulls numbers on what landed.
+- Notion is Head of Memory and stores ideas, assets, numbers, and the content calendar.
+- The image title says: Your New AI Content Team.
+- The image subtitle says the exec team never sleeps, never eats, and only hallucinates occasionally.
+- The image places Charlie Hills as CEO who sets direction and signs it all off.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source capture notes:
+
+The LinkedIn capture saved the caption, metadata, and one feedshare org-chart image under asset-folder/content/_captures/charlie-hills-i-actually-replaced-myself-with-11-ais/source/.
+
+Caption analysis:
+
+The caption opens with "I (actually) replaced myself with 11 AIs" and frames the post as the exact org chart behind 350k+ across socials. It says that for two years every post was the creator, and the creator was the bottleneck. It then assigns roles to each AI/tool: Hermes, Reddit/X/Instagram, Claude, Claude Code, GPT Image 2, HyperFrames, Higgsfield, Buffer, ManyChat, Apify, and Notion. The public lesson is that the creator keeps the final yes while AI runs the repeated departments.
+
+Image analysis:
+
+The captured image is an org chart titled "Your New AI Content Team" with the subtitle "The exec team that never sleeps, never eats, and only hallucinates occasionally." Charlie Hills sits in the CEO box and signs everything off. Around him are eleven role cards: Head of Operations Hermes, Head of Research Reddit/X/Instagram, Head of Content Claude, Head of Design Claude Code, Head of Illustration GPT Image 2, Head of Post-Production HyperFrames, Head of Cinematography Higgsfield, Head of Distribution Buffer, Head of Community ManyChat, Head of Analytics Apify, and Head of Memory Notion. This image is directly aligned with the caption and should drive the carousel structure.

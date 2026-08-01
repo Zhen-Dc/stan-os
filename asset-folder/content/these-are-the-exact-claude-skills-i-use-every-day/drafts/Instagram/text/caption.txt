@@ -1,0 +1,9 @@
+Comment SKILLS.
+
+A Claude Skill should save the setup you keep rebuilding.
+
+The useful library is not 27 random prompts. It is a set of commands for repeated jobs: ask me questions, humanize this draft, fact-check claims, clean my brain dump, write the hook.
+
+Data beats design: the checkable detail here is the workflow itself. Upload once. Trigger with a short command. Improve from real runs.
+
+Save this before you build another long prompt from scratch.

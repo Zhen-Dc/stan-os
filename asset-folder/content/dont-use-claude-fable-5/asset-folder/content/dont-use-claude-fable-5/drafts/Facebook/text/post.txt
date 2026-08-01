@@ -1,0 +1,34 @@
+Claude Fable 5 is not the model I would use for every small task.
+
+That is not how I would teach AI workflows.
+
+The strongest model is usually the most expensive model.
+
+So you should not use it for every small task.
+
+Think of it like hiring a senior expert.
+
+You do not bring the senior expert in to format documents all day.
+You bring them in to understand the problem, ask better questions, build the plan, and set the rules.
+
+Then a cheaper assistant can execute.
+
+That is how beginners should learn AI:
+
+Use the strongest model for:
+- strategy
+- research direction
+- complex thinking
+- workflow design
+- decision rules
+
+Use cheaper models for:
+- summaries
+- formatting
+- simple drafts
+- rewriting
+- filling templates
+
+The real skill is knowing when to switch.
+
+That is what separates someone who "uses AI" from someone who can build an AI workflow.

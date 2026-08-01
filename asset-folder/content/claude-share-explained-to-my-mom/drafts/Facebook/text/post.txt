@@ -1,0 +1,25 @@
+You do not need to understand every AI term before you use Claude.
+
+Start with one task.
+
+If someone is new, do not begin with "models", "tokens", "integrations", or "agents".
+
+Give them this simple prompt:
+
+"I want [task] for [result]. Ask me questions first, then create the plan."
+
+Then show them the practical parts:
+
+They can talk instead of typing everything.
+They can upload a messy file into a Claude Project.
+They can ask for an Excel table, checklist, summary, or plan.
+They can save repeated instructions as Skills.
+They can connect email or calendar only when they understand the permission.
+
+That is the beginner path.
+
+One task.
+One result.
+One small win.
+
+That is how confidence starts.

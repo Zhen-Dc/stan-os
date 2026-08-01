@@ -1,0 +1,35 @@
+
+Writing emails from scratch is not the real problem.
+
+Writing them without context is.
+
+The stronger workflow is simple:
+
+1. Capture meeting context.
+Use Granola or meeting notes so the actual call does not disappear after Zoom, Teams, or Meet ends.
+
+2. Connect the inbox and the notes.
+Claude should see the Gmail thread and the meeting context together.
+
+3. Point Claude to the right place.
+Name the sender, topic, timeframe, and reply goal.
+
+Prompt shell:
+
+Pull [sender]'s email about [topic].
+Search meeting notes for [topic] in [timeframe].
+Draft a short warm reply that [confirms / answers / declines].
+
+4. Save as draft.
+Let Claude prepare the Gmail draft.
+You review it before sending.
+
+5. Start read-only.
+Do not give write access on day one.
+Watch how the system behaves first.
+
+The win is not "AI wrote an email."
+
+The win is that the reply uses the conversation that already happened.
+
+Comment EMAIL if you want the checklist for building this safely.

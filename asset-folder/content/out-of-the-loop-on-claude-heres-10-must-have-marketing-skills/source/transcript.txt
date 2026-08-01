@@ -1,0 +1,65 @@
+Source URL: https://www.linkedin.com/posts/mickaelaubard_out-of-the-loop-on-claude-heres-10-must-have-activity-7487812971096825858-lifR
+Source title: Out Of The Loop On Claude? 10 Must-Have Marketing Skills For Sonnet 5
+Creator: Mickael Aubard
+Source confidence: caption-and-captured-image-derived
+
+Verified facts used for drafting:
+- The caption hook says: Out of the loop on Claude? Here are 10 must-have marketing skills for Sonnet 5.
+- The caption says Sonnet 5 is one of the cheapest Claude models and is useful for marketing.
+- The caption says Sonnet 5 reads live ad data and hands back a ranked fix list.
+- The caption says the output tells users whether to scale, pause, test, or rebuild.
+- The caption lists five Meta Ads Skills: /tracking-audit, /kpi-map, /campaign-structure-audit, /adset-analysis, and /creative-fatigue.
+- The caption lists five Google Ads Skills: /wasted-spend-audit, /search-audit, /shopping-audit, /pmax-audit, and /keyword-opportunities.
+- The captured image title says 10 Skills For Performance Marketers and shows Claude Sonnet 5.
+- The captured image shows a terminal-style table with the same Meta Ads and Google Ads command list.
+- The captured image footer says comment AUDIT, but the caption CTA says comment SONNET; this package follows the caption CTA because the caption contains the full repurpose structure.
+- Unrelated saved feedshare/profile images, including people-only images such as the African ladies image, are rejected source assets for this project.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source capture notes:
+
+Firecrawl was attempted first and returned FIRECRAWL_CONFIG_MISSING. A direct LinkedIn public guest capture then succeeded and saved the full caption plus the correct feedshare image into asset-folder/content/_captures/mickaelaubard-out-of-the-loop-on-claude-heres-10-must-have/source/.
+
+Accepted image evidence:
+
+The correct captured feedshare image is a dark Claude Code terminal-style graphic headed "claude-code -- ads-audit". It says "Here's the full list of your 10 ad audit skills", shows the model as Sonnet 5, and lists five Meta Ads commands plus five Google Ads commands. The center title says "10 SKILLS FOR PERFORMANCE MARKETERS" with a "CLAUDE SONNET 5" badge. The visible footer asks for a comment keyword AUDIT.
+
+Rejected image evidence:
+
+Any unrelated saved images that do not match the caption topic, including people-only/profile-style images such as the African ladies image, should be ignored and not used as source evidence.
+
+Caption/body captured:
+
+Out of the loop on Claude? Here's 10 must-have marketing skills for Sonnet 5.
+
+Sonnet 5 is one of the cheapest Claude models out there.
+
+But cheap doesn't mean bad, just the opposite.
+
+Its new level of intelligence makes it great for marketing.
+
+That's why the source creator built these Skills for Meta and Google Ads.
+
+Sonnet 5 reads live ad data and hands back a ranked fix list.
+
+It tells you plainly whether to scale, pause, test, or rebuild.
+
+Meta Ads:
+-> /tracking-audit, the Pixel and CAPI gaps quietly losing your events
+-> /kpi-map, the campaigns optimizing for the wrong objective
+-> /campaign-structure-audit, the adsets stuck in the learning phase
+-> /adset-analysis, a scale, hold or kill call on every adset
+-> /creative-fatigue, the dying ads flagged before CPMs jump
+
+Google Ads:
+-> /wasted-spend-audit, the zero-conversion spend to cut today
+-> /search-audit, the match-type and RSA leaks costing you rank
+-> /shopping-audit, the dead products holding your ROAS down
+-> /pmax-audit, an A to F grade on every asset group
+-> /keyword-opportunities, the proven search terms you never added
+
+The caption gives away the Skills and asks readers to be connected and comment "SONNET".

@@ -1,0 +1,40 @@
+Most people do not need another explanation of Claude.
+
+They need one useful result.
+
+That is the whole onboarding problem.
+
+When a non-technical person asks, "What is Claude?", do not start with models, tokens, projects, MCPs, skills, context windows, and all the things builders like to talk about.
+
+Start here:
+
+What do you want finished?
+
+Then give them this first prompt:
+
+"I want [task] for [result]. Ask me questions first, then create the plan."
+
+That one line does a lot.
+
+It removes the blank prompt problem.
+It makes Claude collect context.
+It turns a vague request into a real workflow.
+
+After that, the rest becomes easier:
+
+Use voice if typing slows them down.
+Upload the messy file into a Claude Project.
+Ask for the output they actually need.
+Save repeated instructions as a skill.
+Connect email or calendar only when they understand the permission.
+
+This is how I would introduce Claude to a founder, teammate, parent, client, or creator who feels behind.
+
+Do not sell the tool first.
+Give them one small win.
+
+The confidence comes after.
+
+If you are trying to bring AI into your team, do not start with a feature tour.
+
+Start with the task they already hate doing.

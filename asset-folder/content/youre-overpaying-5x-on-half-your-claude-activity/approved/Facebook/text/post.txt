@@ -1,0 +1,25 @@
+
+Claude gets expensive when every job uses the same model.
+
+That is the real lesson from this post.
+
+If the task is simple, do not spend premium limits on it.
+
+Use the ladder:
+
+1. Haiku for cheap bulk work.
+2. Sonnet for everyday drafting and planning.
+3. Opus for work where mistakes are expensive.
+4. Fable for long agentic builds that need planning, tools, and testing.
+
+Then check the effort dial:
+
+Low for quick bulk.
+Medium for a cheaper step-down.
+High as the sweet spot.
+Extra for long agentic runs.
+Max only when the gain is worth the cost.
+
+This is how you stop burning Claude limits on work that never needed the bigger model.
+
+Comment MODEL if you want the checklist.

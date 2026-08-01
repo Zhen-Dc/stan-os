@@ -1,0 +1,7 @@
+Create a LinkedIn intro thumbnail.
+
+Headline: "Stop wasting your strongest AI model on tiny prompts."
+Badge text: "AI WORKFLOW"
+Subhead: "Use Fable 5 when the work has a brief, tools, checkpoints, and a finish line. Tiny prompts can use cheaper models."
+
+Style: cream grid background, oversized headline, rust accent on "tiny prompts", creator row for Stanley @stanleyai, clean educational layout. Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png. Keep text readable and avoid fake metrics or logos.

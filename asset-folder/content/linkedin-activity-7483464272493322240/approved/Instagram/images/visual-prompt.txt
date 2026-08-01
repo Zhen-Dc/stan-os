@@ -1,0 +1,1 @@
+Render an 8-slide carousel about automating ad creative strategy with Claude skills. Slide 1 is a cover; slides 2-8 are dense varied teaching slides.

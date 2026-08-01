@@ -1,0 +1,31 @@
+Slide 1: Claude Code Wow Moments
+Claude Code becomes powerful when it can inspect a project, choose tools, run edits, and verify the result.
+COVER: Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.
+
+Slide 2: Claude Code Wow Moments
+The wow moment is not only coding. It is watching an agent turn a messy task into a finished file.
+PIPELINE: Give Claude Code the outcome. It can read the folder, understand the files, choose commands, run them, and place the output where it belongs.
+
+Slide 3: Claude Code Wow Moments
+It can work across files instead of only answering inside a chat box.
+FIX: Use it for code changes, ffmpeg edits, file cleanup, small automations, docs, build checks, and repeatable local workflows.
+
+Slide 4: Claude Code Wow Moments
+A good prompt gives it the result, the folder, and the standard for done.
+FLOW: Outcome first. Then source files. Then constraints. Then verification. That is how Claude Code knows when the task is finished.
+
+Slide 5: Claude Code Wow Moments
+Most tools wait for exact instructions. Claude Code can help figure out the path.
+COMPARISON: Claude Code can inspect context, explain the plan, run the edit, and adjust when the first attempt is wrong.
+
+Slide 6: Claude Code Wow Moments
+The strongest use cases combine code, files, and media tools.
+PROGRESS: Claude Code can draft scripts, edit code, run CLIs, inspect outputs, create docs, package assets, and leave a clean handoff.
+
+Slide 7: Claude Code Wow Moments
+The agent can move fast, but the human still owns the taste and approval.
+RATIO: Let Claude Code handle inspection, command running, formatting, and verification. Keep human judgment for direction, quality, and final approval.
+
+Slide 8: Claude Code Wow Moments
+The real unlock is giving Claude Code work that ends in a file, not just an answer.
+SAVE THIS: Use Claude Code when the task has files, tools, commands, edits, checks, and a final artifact.

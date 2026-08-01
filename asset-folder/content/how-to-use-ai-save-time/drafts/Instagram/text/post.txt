@@ -1,0 +1,31 @@
+Slide 1: Use AI like a team
+The time saving comes from assigning roles, not asking one chat to do everything.
+COVER: One chat is useful. A role-based workflow is repeatable.
+
+Slide 2: Split the work
+A role-based AI team makes the same content job easier to repeat.
+PIPELINE: One role researches, one finds the angle, one drafts, one edits, one plans visuals, and one checks the final handoff.
+
+Slide 3: Chat vs team system
+One chat creates an answer. A team system creates a repeatable content process.
+COMPARISON: Assign each stage a role so the output moves through a clear chain.
+
+Slide 4: AI speed still needs taste
+Let AI move the draft forward. Keep human judgment on the final message.
+RATIO: AI can run the roles. You still decide if the final post is clear, useful, and worth publishing.
+
+Slide 5: Build the AI team
+Start with the job, then assign the roles.
+FLOW: Give the researcher the source, the strategist the angle, the writer the draft, the editor the tone, and QA the checklist.
+
+Slide 6: What to keep
+The system gets better when the reusable parts are saved.
+PROGRESS: Keep role prompts, brand voice, source notes, caption formats, visual rules, and approval criteria.
+
+Slide 7: Why random prompts waste time
+The tool is fast, but restarting the process every time is slow.
+FIX: Save the roles, inputs, outputs, examples, review rules, and final folder path.
+
+Slide 8: Save this team rule
+If the work has stages, do not use one prompt. Use roles.
+SAVE THIS: A practical AI team is just a repeatable workflow with named responsibilities.

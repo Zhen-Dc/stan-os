@@ -1,0 +1,35 @@
+Slide 1:
+Explain Claude To Anyone.
+This is how I explain Claude to beginners: start with one real task, then let it ask the questions.
+
+Slide 2:
+Do Not Explain The Model
+A beginner does not need model theory. They need one job Claude can finish.
+Weak start: Claude is an AI assistant with projects, skills, models, and integrations.
+Better start: Tell Claude the task you want done and the result you need.
+
+Slide 3:
+Use This First Prompt
+I want [task] for [result]. Ask me questions first, then create the plan.
+This removes the blank prompt problem and makes Claude ask for missing context.
+
+Slide 4:
+Let Them Talk To It
+Typing long instructions is a hidden blocker.
+Speak the messy instruction. Let voice input clean the path. Then review the result.
+
+Slide 5:
+Give Claude A Workspace
+Upload the file. Ask for a useful output. Save the result where the person can find it again.
+
+Slide 6:
+Turn Repeated Prompts Into Skills
+If the same instruction works again and again, turn it into a reusable command.
+
+Slide 7:
+Connect Only What You Trust
+Email, calendar, and notes should be permission-based. If the user cannot explain what Claude can access, pause the integration.
+
+Slide 8:
+The 10 Minute Claude Setup
+Pick one task. Use the first prompt. Talk instead of typing. Upload files. Save repeated prompts. Connect accounts carefully.

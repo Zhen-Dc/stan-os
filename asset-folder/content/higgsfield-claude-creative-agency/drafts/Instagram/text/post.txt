@@ -1,0 +1,31 @@
+Slide 1: Claude as a creative agency
+The useful idea is connecting tools into one creative operating workflow.
+COVER: The useful idea is connecting tools into one creative operating workflow.
+
+Slide 2: The real lesson
+Manual creative production breaks when ideas, prompts, assets, and tracking live in separate places.
+WORKFLOW: This source is useful because it turns a repeated problem into a process: Claude can coordinate research, generation, tracking, variations, and routines when the connectors are in place.
+
+Slide 3: What the system needs
+The useful idea is connecting tools into one creative operating workflow.
+CHECKLIST: Every useful AI workflow needs a clear source, rules, output format, review step, and handoff.
+
+Slide 4: Why the old way breaks
+Manual creative production breaks when ideas, prompts, assets, and tracking live in separate places.
+TIPS: The weak version asks AI to guess. The strong version gives it the source, context, limits, and a clear definition of done.
+
+Slide 5: Build it in order
+Claude can coordinate research, generation, tracking, variations, and routines when the connectors are in place.
+INSTRUCTION: Use this order: capture the source, give the rules, create the first pass, review it, then save the handoff. The source demonstrates a full creative pipeline, not a single prompt trick.
+
+Slide 6: What to save
+The source demonstrates a full creative pipeline, not a single prompt trick.
+TECH STACK: Save the parts that make the result repeatable: source notes, prompts, examples, draft files, visual assets, QA notes, and approved outputs.
+
+Slide 7: Where humans still matter
+AI should speed up the first pass, not remove judgment from the process.
+QA GATE: Check source accuracy, tone, ownership claims, missing context, visual readability, and whether the output is ready to use.
+
+Slide 8: Save this rule
+If the task repeats, do not only save the prompt. Save the workflow.
+SAVE THIS: Use this source as a pattern: map the repeated work, give AI context, review the output, and keep the system. The useful idea is connecting tools into one creative operating workflow.

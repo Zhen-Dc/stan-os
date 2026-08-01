@@ -1,0 +1,41 @@
+If you're out of the loop on Claude, here's 10 skills for performance marketers.
+
+Even if half your feed is probably switching to GPT-5.6.
+
+These 10 skills are essential for your weekly stack.
+
+Why?
+
+Each handles a weekly Meta or Google Ads job like a senior performance marketer.
+
+Simple slash commands activate each skill.
+
+Feed it your live ad data, product page or customer reviews.
+
+Then Claude returns the finished audit, script, concept list or verdict.
+
+But, the best part is each skill only takes minutes to complete its task.
+
+Here's the full list:
+
+Meta Ads:
+→ /creative-fatigue, the dying ads caught before CPMs spike
+→ /comment-mine, the objections buried in your ad comments
+→ /url-to-40-ads, one product URL into 40 ad concepts
+→ /ugc-script, shot-listed UGC scripts from real reviews
+→ /competitor-teardown, the angles you're not running yet
+
+Google Ads:
+→ /wasted-spend-audit, the zero-conversion spend to cut
+→ /search-terms-mine, the negatives + terms you never added
+→ /pmax-audit, an A-to-F grade per asset group
+→ /rsa-variants, 15 fresh headlines from your best search ad
+→ /report-verdict, scale, pause, test or rebuild calls from your weekly export
+
+I'm giving away all 10 skills right now!
+
+Want access?
+1. Make sure we're connected
+2. Comment "SKILLS" below
+
+I'll send it over. | 218 comments on LinkedIn

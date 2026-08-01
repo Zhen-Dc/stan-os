@@ -1,0 +1,6 @@
+Create a Facebook course-interest graphic for AI learners.
+
+Main text: "Tiny Prompt Or Clear System Brief?"
+Show five source-derived project cards: clone one paid workflow locally, audit Claude Code history, build an agentic OS, review serious code, and build from a PRD.
+
+Use generous padding, readable text, and no luxury or unrealistic income claims. Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Avoid vague terms like "model hype" unless the image explains the filter clearly.

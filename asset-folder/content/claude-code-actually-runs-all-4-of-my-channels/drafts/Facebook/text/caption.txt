@@ -1,0 +1,23 @@
+
+Claude Code can run more than one content channel if the workflow is built properly.
+
+The source system uses one validated idea, one brief, one operator, and four output lanes:
+
+1. LinkedIn for infographics.
+2. Instagram for reels.
+3. YouTube for long-form.
+4. Substack for newsletters.
+
+The important part is the loop:
+
+Hermes ranks the ideas.
+Claude Code routes the work.
+Notion stores the assets and metrics.
+Apify pulls performance data.
+
+That is how the system supports 30+ posts a week across 4 channels.
+
+The tools do not replace the operator.
+They help the operator ship more without rebuilding the process every day.
+
+Comment CHANNELS if you want the checklist.

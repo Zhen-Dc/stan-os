@@ -1,0 +1,21 @@
+I bet this will blow your mind.
+
+Sorry for the dramatic hook, but Claude Code doing real workspace work still feels unreal when you see what it can actually handle.
+
+
+Claude Code is not just useful because it can write code.
+
+The awesome part is that it can work inside the project:
+
+1. Inspect files and folders.
+2. Understand what already exists.
+3. Choose the right tool or command.
+4. Edit code, docs, or media outputs.
+5. Verify that the final artifact exists.
+
+That is why it feels different from a normal chatbot.
+
+It does not only give an answer.
+It can help move the work forward.
+
+Save this if you want AI systems that actually work outside a demo.

@@ -1,0 +1,36 @@
+Did you know 5 Claude agents can run your paid media for you?
+
+It's actually really simple.
+
+Each one has a different role to manage paid media.
+
+You run them all from a single Claude Code project. 
+
+But each agent works in its own context window, so each agent puts full effort into their single task.
+
+Letting them communicate with eachother to manage your ad accounts in the best way possible.
+
+Here's the full list of agents.
+
+1/ Media Buyer.
+Owns campaign structure, bids and pacing, so you know where to move budget instead of guessing.
+
+2/ Google Ads Specialist.
+Runs a daily wasted-spend audit, so you stop paying for search terms that never convert.
+
+3/ Meta Ads Specialist.
+Watches audience overlap and creative fatigue, so you catch adsets burning budget against each other.
+
+4/ Creative Strategist.
+Pulls your top ads and drafts new variants, so you start the week with briefs, not a blank page.
+
+5/ Performance Analyst.
+Turns ROAS, CPA and top movers into a plain-English Monday digest, so the client update writes itself.
+
+Why it works: separate context windows so they never get confused, sharper prompts because each one only does its own job, and they run in parallel.
+
+Want the 5 agent prompts plus setup?
+1. Make sure we're connected
+2. Comment "TEAM" below
+
+I'll send you the link. | 93 comments on LinkedIn

@@ -1,0 +1,51 @@
+Claude is not useful in marketing because you installed 24 random things.
+
+It becomes useful when the stack is built around the work your team repeats every week.
+
+For most marketing teams, the repeated work looks like this:
+
+Research competitors.
+Find audience pain points.
+Build campaign briefs.
+Write posts, emails, scripts, and ad variations.
+Summarize performance.
+Prepare follow-up.
+Check claims before anything goes live.
+
+That is where Claude should sit.
+
+Not as a toy.
+Not as a prompt folder.
+Not as another tab someone opens when they are stuck.
+
+As a marketing workflow layer.
+
+The setup I would build for an app company, SaaS team, agency, or creator-led business:
+
+1. Research workspace
+Claude reads competitors, customer questions, product notes, offers, and past campaign assets.
+
+2. Campaign brief role
+Claude turns the research into a buyer, promise, offer angle, channel plan, and CTA.
+
+3. Content production role
+Claude creates posts, scripts, emails, landing page sections, and ad variations from the approved brief.
+
+4. Reporting role
+Claude turns metrics into a plain-language update: what changed, what worked, and what to test next.
+
+5. Follow-up role
+Claude prepares DM replies, lead notes, call prep, and CRM next steps.
+
+6. QA role
+Claude checks claims, proof, brand fit, and offer clarity before the human approves.
+
+The goal is not to replace the marketing team.
+
+The goal is to remove the repeated manual work that slows the team down.
+
+If your company is using Claude but every campaign still starts from scratch, you do not have a stack yet.
+
+You have a chat box.
+
+The stack starts when one marketing task becomes a repeatable workflow.

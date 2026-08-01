@@ -1,0 +1,1 @@
+**Facebook Card Prompt:** A visually appealing card (1080x1350) with a headline: "Is Your AI Workflow Compliant? Beginner's Guide to Data Safety." The image should feel like part of an online course module. Include sections for 'The Risk', 'The Solution', and a large, encouraging CTA at the bottom: 'Start building compliant workflows today.' Use soft colors and generous padding.

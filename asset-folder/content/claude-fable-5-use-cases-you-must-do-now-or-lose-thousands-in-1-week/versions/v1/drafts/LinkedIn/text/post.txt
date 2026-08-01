@@ -1,0 +1,41 @@
+Stop wasting your strongest AI model on tasks a cheaper model can do.
+
+This video is basically a filter for when to use Fable 5.
+
+Not for another tiny prompt.
+Not for rewriting a caption.
+Not for something you can finish in one reply.
+
+Use it when the work needs planning, tools, memory, and long autonomous execution.
+
+The 5 use cases from the video:
+
+-> Clone software you already pay for
+The demo uses a Whisper Flow-style tool: research how it works, design a local architecture, then build a private version that runs on your own machine.
+
+-> Audit your Claude Code workflow
+Have the model scan previous sessions, cluster patterns, and decide what should become a skill, automation, fix, or no-action habit.
+
+-> Build an agentic OS
+Turn your repeated work into a visual system: reports, dashboards, tasks, skills, automations, and one-click workflows.
+
+-> Review a serious codebase
+The source demo used parallel reviewers, 45 raw findings, and 24 deduped issues with severity and fix priority.
+
+-> Build custom software from a PRD
+The source points to a browser Three.js game as the proof: requirements first, then long autonomous execution.
+
+The part most people miss:
+
+The best workflow is not "give the best model a vague idea."
+
+It is:
+
+1. use a cheaper model for research
+2. write the architecture and success criteria
+3. turn it into a clean goal or PRD
+4. hand the expensive model the execution
+
+That is the difference between playing with AI and building an operating system around it.
+
+If you had one week with your strongest model, what would you point it at first?

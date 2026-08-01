@@ -1,0 +1,17 @@
+Claude Skills are useful, but the Skill itself is not the real asset.
+
+The real asset is the workflow behind it.
+
+If a business keeps typing the same instructions into AI every week, the issue is not that they need a better prompt. The issue is that the process has not been turned into a system.
+
+A proper Skill should define the input, the rules, the voice, the output format, the quality checks, and the approval point.
+
+That is what makes AI consistent.
+
+For content, that could mean a Skill that knows the audience, the brand tone, the offer, the proof points, and the claims to avoid.
+
+For operations, it could mean a Skill that turns raw notes into a weekly report, prepares client handoff files, or repurposes one source into multiple platform drafts.
+
+The slash command is only the front door.
+
+The system behind it is what saves time.

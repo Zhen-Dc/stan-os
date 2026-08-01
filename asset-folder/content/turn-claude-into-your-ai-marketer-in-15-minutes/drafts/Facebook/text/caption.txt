@@ -1,0 +1,11 @@
+The real AI skill is not just prompting.
+
+It is learning how to build a workflow that can research, plan, create, launch,
+and improve content.
+
+This 15-minute walkthrough shows that kind of stack using Claude, Higgsfield AI,
+and MCP.
+
+Save this if you are learning AI content creation, AI UGC, or automation.
+
+Comment "AI stack" if you want the beginner map.

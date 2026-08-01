@@ -1,0 +1,1 @@
+AI saves time when it becomes a workflow, not another tab. A useful Claude Skill starts from a repeated prompt or chat, then uses a short task-based description so Claude knows when to run it.

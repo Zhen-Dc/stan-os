@@ -1,0 +1,1 @@
+AI saves time when it becomes a workflow, not another tab. A faster email workflow connects Claude to Gmail and meeting context before drafting, then saves the result as a reviewed Gmail draft.

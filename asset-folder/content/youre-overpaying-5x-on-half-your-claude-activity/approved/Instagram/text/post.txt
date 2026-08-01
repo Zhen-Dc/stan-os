@@ -1,0 +1,35 @@
+Slide 1: Stop wasting Claude
+Half your prompts may cost 5x more when the wrong model or effort level does the job.
+COVER: The useful move is model routing: choose the right model, then set how hard it should think.
+
+Slide 2: The real leak
+Simple Claude jobs do not need your strongest model.
+SETUP_LEAK: Summaries, formatting, classification, quick lookups, and bulk cleanup can quietly burn premium limits when they run on Opus or Fable by default.
+
+Slide 3: Use Haiku for bulk
+Haiku is the cheap lane for work where depth does not matter.
+INSTALL_FILTER: Route summarising, reformatting, classification, tagging, and repeated cleanup to the lowest-cost lane first.
+
+Slide 4: Make Sonnet default
+Sonnet is the everyday workhorse when you need useful output without burning limits fast.
+COMMAND_MENU: Use it for drafting, rewrites, turning notes into plans, normal analysis, and most day-to-day Claude sessions.
+
+Slide 5: Save Opus for risk
+Opus earns its cost when a wrong answer is expensive.
+DECISION_TREE: Move up when the task involves strategy, contracts, multi-step reasoning, high-stakes analysis, or judgment you cannot afford to redo.
+
+Slide 6: Fable is for long builds
+Fable should be reserved for agentic work that plans, builds, and tests.
+BUILD_LOOP: Use it when the job runs long, has checkpoints, uses tools, creates files, and needs the model to keep improving its own work.
+
+Slide 7: The dial saves limits too
+Before upgrading the model, set how hard Claude should think.
+TOKEN_SCAN: Low handles quick bulk. Medium is the cost step-down. High is the sweet spot. Extra fits long agentic runs. Max is usually expensive for small gains.
+
+Slide 8: Receipt: 1x to 10x
+The model map gives a simple cost ladder: Haiku 1x, Sonnet 3x, Opus 5x, Fable 10x.
+RECEIPTS: The checkable rule is not to always choose the cheapest model. It is to keep cheap work cheap and reserve premium models for work where quality changes the outcome.
+
+Slide 9: Comment MODEL
+Comment MODEL if you want the checklist for choosing Claude models and effort levels before you start a task.
+CTA: Comment MODEL. I will send the Claude routing checklist: model choice, effort dial, task risk, and when to move up.

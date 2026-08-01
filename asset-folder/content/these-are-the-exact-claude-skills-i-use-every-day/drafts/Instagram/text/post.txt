@@ -1,0 +1,35 @@
+Slide 1: 27 Skills in 5 minutes
+A Claude Skill is a saved slash command. Upload it once, then let Claude remember the repeated setup.
+COVER: A practical Claude Skill library turns repeated setup into slash-command workflows for daily tasks.
+
+Slide 2: Stop rebuilding context
+The pain is not prompting. The pain is re-explaining the same setup every chat.
+STAKES: No more repeating who you are, which file to read first, what tone to use, or what output format you expect.
+
+Slide 3: Skill equals command
+A Skill behaves like a command that fires when the task matches.
+ROUTING: You type one short command. Claude reads the Skill header, matches the task, then pulls the full instructions only when needed.
+
+Slide 4: Use daily Skills first
+The best library starts with the work you already do repeatedly.
+ONE_JOB: Start with practical Skills: interview me first, humanize this, fact-check claims, clean my brain dump, write the hook.
+
+Slide 5: Five worth copying
+The post names five Skills that solve common daily bottlenecks.
+SAVE THIS: Use /grill-me before building, /humanizer before publishing, /fact-checker before claims, /prompt-master before execution, and /linkedin-hook before the post.
+
+Slide 6: Install once
+The setup is short because the library is already packaged.
+FLOW: Subscribe, open the welcome email, use the library link, download the Skills folder, then upload the files in Claude Settings.
+
+Slide 7: Build your own too
+Do not stop at downloading someone else's library.
+BUILD_LOOP: Pick a repeated task, run it once, save the process, add examples, add what to ignore, then test the Skill on a real job.
+
+Slide 8: The token detail matters
+The useful technical detail: Claude reads the short Skill header first.
+RECEIPTS: That is why installing a full library can still be practical. The Skill does not need to dump every instruction into context until it is relevant.
+
+Slide 9: Comment SKILLS
+Comment SKILLS if you want the checklist for choosing which Claude Skills to install or build first.
+CTA: Comment SKILLS. I will send the checklist for turning repeated Claude tasks into a useful Skill library.

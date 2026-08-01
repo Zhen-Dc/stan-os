@@ -1,0 +1,13 @@
+Create a beginner-friendly Facebook course-interest graphic for people learning AI skills.
+
+Aspect ratio: 1080x1350.
+
+Main text: "Turn AI Prompts Into Repeatable Workflows"
+
+Supporting text: "Goal -> Action -> Feedback -> Stop Condition"
+
+Visual style: warm but professional, simple AI workflow illustration with a laptop/dashboard motif, clear loop arrows, readable text, generous padding inside every text block.
+
+Make the viewer feel: "I can learn this and apply it to my work."
+
+Avoid luxury imagery, fake income promises, tiny text, fake logos, and clipped text.

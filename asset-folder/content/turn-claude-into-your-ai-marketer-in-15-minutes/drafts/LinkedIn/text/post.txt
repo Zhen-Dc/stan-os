@@ -1,0 +1,48 @@
+Stop treating AI marketing like a prompt.
+
+The real shift is the loop.
+
+This 15-minute walkthrough shows Claude acting more like an AI marketing
+operator than a writing assistant:
+
+1. Crawl TikTok, Instagram, and YouTube for live trends.
+2. Turn those signals into a content calendar with hooks and scripts.
+3. Render 100 ads across five formats.
+4. Connect to Meta Ads through MCP.
+5. Launch campaigns, read performance, scale winners, and ship matching static
+   creatives.
+
+That is the useful part.
+
+Not "make me an ad."
+
+It is research -> planning -> production -> distribution -> optimization inside
+one workflow.
+
+The source demo says the full run used 15,000 credits and around 3 hours of
+compute. It compares that with a traditional agency path that could cost $100k+
+and take two to four weeks.
+
+The lesson for founders, agencies, and operators:
+
+Your 2026 marketing stack should not just generate assets.
+
+It should connect the decisions before and after the asset:
+
+- What trend is worth reacting to?
+- What hook should we test?
+- Which format should we render?
+- Where should it launch?
+- What signal decides the next creative?
+
+That is where AI automation starts becoming an operating system instead of
+another content tool.
+
+If you want to build this safely, map the five layers first:
+
+Research. Planning. Production. Distribution. Optimization.
+
+Then decide where the human approval points belong.
+
+Comment "stack" if you want a simple version of this workflow mapped for a
+small team.

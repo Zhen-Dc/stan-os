@@ -1,0 +1,11 @@
+Stop using your best model like a caption rewriter.
+
+The source video gives a better filter:
+
+-> clone a paid tool locally
+-> audit old Claude Code sessions
+-> turn routines into skills/automations
+-> review a real codebase
+-> execute a PRD-backed software build
+
+Plan first. Burn the strongest model second.

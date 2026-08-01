@@ -1,0 +1,55 @@
+Slide 1: 11 tools that took my Job
+A creator can stop being the bottleneck by turning repeated content work into a tool org chart with one human approval seat.
+COVER: A content creator can become the CEO of a role-based content tool stack.
+
+Slide 2: First, name the bottleneck
+For a few years, every post needed one person to think, research, write, design, edit, ship, reply, measure, and remember.
+STAKES: That is why creators stall. The content work is not one job. It is an entire department pretending to be one person.
+
+Slide 3: Hermes runs operations
+Head of Operations. Hermes scores every idea and picks the winner before production starts.
+FLOW: Input: raw content ideas. Process: score, rank, reject weak options. Output: one winner that deserves production time.
+
+Slide 4: Reddit, X, IG research
+Head of Research. These platforms show what people already discuss, share, argue with, and save.
+PIPELINE: Reddit shows pain. X shows trends. Instagram shows what the audience saves. Together, they stop the creator from guessing demand.
+
+Slide 5: Claude writes content
+Head of Content. Claude turns rough ideas into posts, scripts, hooks, and captions in the right voice.
+COMPARISON: Give Claude the winner, angle, voice, proof, and channel. It creates the first usable draft so the creator edits instead of starts.
+
+Slide 6: Claude Code designs
+Head of Design. Claude Code builds graphics and infographics as real HTML instead of static mockups.
+PROGRESS: It can turn a content angle into layout, typography, modules, image assets, and an exportable graphic.
+
+Slide 7: GPT Image 2 illustrates
+Head of Illustration. GPT Image 2 creates visuals when the post needs an image, scene, or concept shot.
+FIX: Use it for the visual asset, not the whole strategy. The brief still needs subject, style, constraints, and review.
+
+Slide 8: HyperFrames edits reels
+Head of Post-Production. HyperFrames cuts, captions, renders, and packages short-form video assets.
+FLOW: Input: script, clips, overlays, captions. Process: assemble, time, render. Output: a reel that is ready for review.
+
+Slide 9: Higgsfield shoots B-roll
+Head of Cinematography. Higgsfield creates the footage you did not film but still need for the story.
+PIPELINE: Use the script to decide the visual beats, then generate B-roll that matches the hook, context, and transition points.
+
+Slide 10: Buffer ships on schedule
+Head of Distribution. Buffer queues posts and keeps the calendar moving after the content is approved.
+PROGRESS: It takes approved assets, assigns platform timing, keeps the queue visible, and reduces missed publishing windows.
+
+Slide 11: ManyChat handles replies
+Head of Community. ManyChat turns comments into useful DM follow-up without manual copy-paste.
+FIX: Use it for guide delivery, keyword replies, basic follow-up, and audience handoff while keeping real conversations human.
+
+Slide 12: Apify reads the numbers
+Head of Analytics. Apify pulls reach, saves, comments, and other signals so the team knows what worked.
+SAVE THIS: The output is not a vanity report. It tells the next content cycle which idea, hook, format, or channel deserves another run.
+
+Slide 13: Notion remembers it all
+Head of Memory. Notion stores every idea, asset, metric, calendar item, SOP, and lesson from the system.
+RATIO: Let AI create and update the work log. Keep human judgment on what gets saved, reused, or retired.
+
+Slide 14: Comment TEAM
+Comment TEAM if you want the content tool org chart.
+SAVE THIS: One ask. One keyword. Use the chart to map which content department each tool should own.

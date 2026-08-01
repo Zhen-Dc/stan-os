@@ -1,0 +1,17 @@
+Source URL: https://www.linkedin.com/feed/update/urn:li:activity:7475487918111850497/
+Source title: Claude Stack Plugins Skills And MCPs
+Creator: Charlie Hills
+Source confidence: source-brief-derived
+
+Verified facts used for drafting:
+- Local source brief lists creator: Charlie Hills.
+- Local source brief topic: A useful AI stack is a chain of tools, skills, plugins, MCPs, QA, and publishing surfaces.
+- The public preview was recorded in AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md.
+- The package recreates the strategy for Stanley's AI automation positioning.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source brief from AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md. Creator: Charlie Hills. Topic: A useful AI stack is a chain of tools, skills, plugins, MCPs, QA, and publishing surfaces.. Useful pattern: The local reference says the post builds authority by showing the full operating stack.

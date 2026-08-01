@@ -1,0 +1,45 @@
+Source URL: pasted-script://claude-ai-video-ad-agent
+Source title: Claude AI Video Ad Agent
+Creator: chima-stanley-chukwu
+Source confidence: pasted-script-derived
+
+Verified facts used for drafting:
+- The user supplied the source as a pasted script.
+- The script says the agent researches social platforms and paid-ad libraries including Google Ads Library, TikTok, Instagram, and Facebook.
+- The script says the agent analyzes competitor content scene by scene to identify hooks, angles, and visuals.
+- The script says the agent writes original scripts adapted to brand voice.
+- The script says the agent creates image prompts, generates scenes, and animates images into clips.
+- The script says the agent edits clips by removing dead space, adding captions, transitions, sound effects, and exporting the finished video.
+- The script says the system sends the video for approval before publishing.
+- The script says the system collects performance data, reports what worked, documents what failed, creates new variations from winners, and repeats.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Pasted source script:
+
+You don't have to spend hours scripting and editing video ads manually anymore.
+I just built a Claude AI agent that handles the entire process for you.
+
+The Agent researches social platforms and paid-ad libraries like google ads library, tiktok, instagram and facebook.
+It finds and downloads your competitors' top-performing content.
+It analyzes them scene by scene, and identifies the hooks, the angles and visuals that are already getting attention.
+
+Next, it writes an original script using those proven angles, adapted to your brand voice.
+From that script, it creates every image prompt, generates the scenes, and animates those images into video clips.
+
+But this is where it gets crazy.
+The agent has an AI video editor built in.
+It combines the generated clips, removes dead space, adds captions, transitions, and even sync sound effects to every beat, before exporting the finished video.
+
+Then it sends it to you for approval.
+Once you approve it, the agent publishes it across your social channels and paid-ad platforms.
+A few days later, it collects the performance data.
+It reports what worked, documents what failed, and creates new variations based only on the winning ads.
+Then it repeats the entire process.
+
+So instead of hiring separate researchers, scriptwriters, content creators, and media buyers, you have one AI agent creating and improving your video ads from start to finish without breaking the bank.
+
+If you want this system built for your business, comment "AGENT" and I'll show you how it works.

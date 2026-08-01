@@ -1,0 +1,19 @@
+Source URL: https://www.linkedin.com/posts/ruben-hassid_how-to-turn-your-best-prompt-into-a-skill-share-7485608282469011457-iH3H/
+Source title: How To Turn Your Best Prompt Into A Skill
+Creator: Ruben Hassid
+Source confidence: source-brief-derived
+
+Verified facts used for drafting:
+- Local source brief lists creator: Ruben Hassid.
+- Local source brief topic: A useful Claude Skill starts from a repeated prompt or chat, then uses a short task-based description so Claude knows when to run it.
+- The public preview was recorded in AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md.
+- The package recreates the strategy for Stanley's AI automation positioning.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+- Firecrawl capture was attempted first, but the local Firecrawl wrapper returned FIRECRAWL_CONFIG_MISSING and Docker Desktop was not running for the self-hosted API.
+- The package uses public search preview evidence plus existing local AIS-OS source-brief patterns, not a full scraped LinkedIn body.
+
+Source text or transcript:
+Source brief from AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md. Creator: Ruben Hassid. Topic: A useful Claude Skill starts from a repeated prompt or chat, then uses a short task-based description so Claude knows when to run it.. Useful pattern: Public search preview says the post explains that Claude reads the 2-line Skill description when deciding whether a Skill fires, and gives the contrast: a vague writing Skill vs a LinkedIn-hook task Skill.

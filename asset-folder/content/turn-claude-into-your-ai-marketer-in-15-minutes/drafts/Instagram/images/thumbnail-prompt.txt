@@ -1,0 +1,3 @@
+Use the same creative direction as slide-01-cover-prompt.txt.
+
+Output the cover as an Instagram carousel thumbnail at 1080x1350.

@@ -1,0 +1,30 @@
+
+Comment SKILLS.
+
+Stop saving prompts that still make you rebuild the same setup by hand.
+
+A useful Claude Skill library should work like a command system.
+
+One command should carry:
+
+1. The role Claude should play.
+2. The source file or context it should use.
+3. The examples it should copy.
+4. The tone and output format.
+5. The mistakes it should avoid.
+6. The review step before the result is trusted.
+
+That is the difference between a prompt vault and a workflow library.
+
+The best starting Skills are boring:
+
+/ask-first for better questions.
+/humanizer for cleaner drafts.
+/fact-checker for claims.
+/prompt-master for messy ideas.
+/linkedin-hook for stronger openings.
+
+The rule:
+If you repeat the same setup twice, it probably belongs in a Skill.
+
+Comment SKILLS if you want the checklist for building your first command library.

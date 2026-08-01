@@ -1,0 +1,17 @@
+Use case: productivity-visual
+Asset type: X quote graphic, PNG
+
+Create a simple text-first quote card.
+
+Quote:
+AI does not replace taste.
+It rewards the person
+who builds the system.
+
+Visual style:
+- White background.
+- Black outer frame.
+- Bold condensed uppercase typography.
+- Centered quote block with lots of white space.
+- No avatar, no fake UI, no logos, no clutter, no watermark.
+- PNG output.

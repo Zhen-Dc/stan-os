@@ -1,0 +1,35 @@
+Slide 1: 4 channels. 350k+ reach.
+Claude Code becomes useful when one validated idea can move through LinkedIn, Instagram, YouTube, and Substack without rebuilding the workflow.
+COVER: Claude Code can become the operator hub for a four-channel content system.
+
+Slide 2: The work breaks before the post
+Most content systems fail because they build too many weak ideas.
+STAKES: The source system validates ideas first, then sends only the winners into production.
+
+Slide 3: Pre-validate the idea
+One good content system starts before Claude writes anything.
+FLOW: Pull signals from X, Reddit, and Instagram. Score the idea in Hermes. Only build what passes the score.
+
+Slide 4: One brief. One operator.
+The winning idea needs a tight brief before it becomes four outputs.
+PIPELINE: One idea, one angle, one outcome. Claude Code uses that standard to route the work across every channel.
+
+Slide 5: Route by channel
+Each channel gets a different job, not the same asset resized.
+COMPARISON: LinkedIn gets infographics. Instagram gets reels. YouTube gets long-form. Substack gets the deeper write-up.
+
+Slide 6: Give every tool one job
+The source works because tools are not fighting for the same role.
+PROGRESS: Hermes ranks ideas. Claude Code builds graphics. Higgsfield fills B-roll. HyperFrames edits. GPT Image 2 makes thumbnails. Apify pulls performance.
+
+Slide 7: Notion is the base layer
+The channel system needs one place to remember what happened.
+FIX: Keep content queue, asset library, knowledge base, SOPs, playbooks, goals, and metrics in one source of truth.
+
+Slide 8: Receipt: 30+ posts weekly
+The proof is not the tool stack. It is the output cadence and feedback loop.
+SAVE THIS: The source claims 350k+ across socials and 30+ posts a week across four channels, with Apify pulling reach, saves, shares, and comments.
+
+Slide 9: Comment CHANNELS
+Comment CHANNELS if you want the 4-channel content operating system checklist.
+SAVE THIS: One ask. One keyword. The checklist should help you map idea validation, channel routing, storage, and analytics.

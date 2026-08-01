@@ -1,0 +1,36 @@
+Source URL: https://www.linkedin.com/posts/charlie-hills_claude-code-actually-runs-all-4-of-my-channels-activity-7484909992677036033-9G9i
+Source title: Claude Code Actually Runs All 4 Of My Channels
+Creator: Charlie Hills
+Source confidence: caption-and-captured-carousel-derived
+
+Verified facts used for drafting:
+- The source hook says Claude Code actually runs all four channels.
+- The source proof says the system is behind 350k+ across socials.
+- The source says the system ships 30+ posts a week across four channels.
+- Idea intake comes from X, Reddit, and Instagram.
+- Hermes scores and ranks ideas before production.
+- The winning idea becomes one brief: one idea, one angle, one outcome.
+- LinkedIn output is infographics built in HTML by Claude Code and checked by cold QA.
+- Instagram output is reels with Claude hooks, camera recording, Higgsfield B-roll, and ManyChat auto-DMs.
+- YouTube output is long-form with Tella recording, HyperFrames editing, GPT Image 2 thumbnails, and YouTube publishing.
+- Substack output uses Agent Browser research, voice skills, Claude subject lines, and Substack publishing.
+- Notion stores the content queue, library, knowledge base, SOPs, playbooks, goals, and metrics.
+- Apify pulls reach, saves, shares, and comments so the next idea is data-driven.
+- Captured feedshare images include a full workflow map plus supporting receipt images; unrelated images should not be used.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source capture notes:
+
+The LinkedIn capture saved the caption, metadata, and five feedshare images under asset-folder/content/_captures/charlie-hills-claude-code-actually-runs-all-4-of-my-channels/source/.
+
+Caption analysis:
+
+The source opens with "Claude Code (actually) runs all 4 of my channels" and frames the post as the exact system behind 350k+ across socials. The structure is step-by-step: pre-validate every idea, turn the winner into one brief and one operator standard, route the work to LinkedIn, Instagram, YouTube, and Substack, keep Notion as the source of truth, and let Apify data choose what gets made next. The caption ends by saying the tools do not create the content; they let the creator ship what they could not alone.
+
+Image analysis:
+
+The main feedshare image is a workflow map titled "How Claude and I run every channel." It shows idea intake from Reddit, X, and Instagram feeding Hermes for scoring, then one brief, then Claude Code as an operator hub. Four channel rows follow: LinkedIn infographics, Instagram reels, YouTube long-form, and Newsletter/Substack. The base layer is Notion with content queue, content library, knowledge base, SOPs and playbooks, goals and metrics. The bottom loop is Apify pulling reach, saves, shares, and comments so data picks the next idea. Supporting images include a PDF-style "100 Skills That Run Your Ads" receipt and a terminal-style "10 Skills For Performance Marketers" screen; these are secondary receipts, not the main concept image.

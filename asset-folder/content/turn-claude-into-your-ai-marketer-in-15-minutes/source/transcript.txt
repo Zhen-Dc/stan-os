@@ -1,0 +1,42 @@
+LinkedIn post and auto-caption transcript source:
+https://www.linkedin.com/posts/deykhan_this-video-is-the-best-15-minute-guide-on-activity-7464808299348267009-WNR3
+
+Source title:
+Turn Claude into Your AI Marketer in 15 Minutes
+
+Creator:
+Deykhan Ten
+
+Published:
+2026-05-25
+
+Duration:
+14 minutes 59 seconds
+
+Source confidence:
+Transcript-backed, but the LinkedIn auto-caption transcript is noisy and contains
+several speech-recognition errors. The clean public post description was used as
+the source of truth for names, tool labels, claims, and numbers.
+
+Verified source points used for drafts:
+
+- The guide shows how to turn Claude into an AI marketer.
+- The agentic marketing stack has five layers: research, planning, production,
+  distribution, and optimization.
+- The workflow can crawl TikTok, Instagram, and YouTube for live trends.
+- It can generate a content calendar with hooks and scripts.
+- It can render 100 ads across five formats inside one workflow.
+- It can connect to Meta Ads through MCP.
+- It can launch campaigns, read performance, scale winners, and ship matching
+  static creatives.
+- The demo used Higgsfield AI with Claude.
+- The public post says the demo runs on 15,000 credits and around 3 hours of
+  compute.
+- The public post compares that with a traditional agency estimate of $100k+
+  and two to four weeks for the same output.
+- The transcript frames the shift as strategy first: instead of random content,
+  use an engine that knows what to make and can run the workflow.
+
+Open caveat for approval:
+Before final publishing, review the video or a cleaned transcript if you want
+more exact wording from the walkthrough.

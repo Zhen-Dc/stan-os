@@ -1,0 +1,11 @@
+**Title:** AI Automation Safety Guide for Professionals
+**Angle:** Beginner-friendly, "What you need to know" guide.
+
+AI is incredible, but it's not magic—it's a powerful *tool* that requires guardrails. For professionals and students learning AI skills (especially those working remotely or in foreign markets), understanding data compliance isn't optional; it's the foundation of your workflow.
+
+✅ **The Simple Rules for Safe Use:**
+1.  **Check First:** Always verify if your company has an approved, paid-for enterprise tool. This is always safer than a personal account.
+2.  **Anonymize Before You Prompt:** Never use real client names, sensitive internal project codes, or unmasked emails in personal chats. Remove all identifiers first.
+3.  **Understand the Terms:** Know that your free/personal AI usage often contributes to model training. Understand the data lifecycle for *every* tool you use.
+
+AI skills should elevate work, not expose it. Master these basics to build a truly robust, compliant workflow.

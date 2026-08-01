@@ -1,0 +1,23 @@
+Slide 1: Stop Wasting Your Best Model
+Five Fable 5 builds that are worth real autonomous execution.
+
+Slide 2: Clone paid software
+The source starts with a Whisper Flow-style local clone: same workflow, more privacy, more control.
+
+Slide 3: Plan before build
+Do not hand the strongest model a vague idea. Hand it research, architecture, and success criteria.
+
+Slide 4: Audit Claude Code
+Scan old sessions. Cluster repeated work. Turn the winners into skills, automations, or fixes.
+
+Slide 5: Build an agentic OS
+Reports, dashboards, content metrics, tasks, skills, and automations in one visual layer.
+
+Slide 6: Review the code
+The source demo used parallel reviewers, then deduped findings into prioritized issues.
+
+Slide 7: Write the PRD
+Big builds need pillars, constraints, visual targets, and requirements before code starts.
+
+Slide 8: Use the model filter
+Use the best model where autonomy matters. Use planning work to protect expensive execution.

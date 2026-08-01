@@ -1,0 +1,6 @@
+Create a clean X tweet screenshot-style image.
+
+Tweet text: "The prompt is not the asset. The reusable workflow behind it is."
+Canvas: 920x458.
+Creator row: Stanley, verified badge, @stanleyai, Stanley's real avatar.
+Style: plain white, content-tight, no action row, no engagement numbers, no border.

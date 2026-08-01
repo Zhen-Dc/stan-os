@@ -1,0 +1,13 @@
+Comment SKILLS.
+
+
+The useful lesson here is the workflow behind the tool:
+
+1. People keep rebuilding context, tone, file instructions, output format, and examples in every new Claude chat.
+2. Install or build narrow Skills for repeat jobs, trigger them with short commands, and refine the Skill from real runs.
+3. Public preview evidence says the post offers 27 Claude Skills, mentions a 5-minute setup, and gives examples such as /grill-me, /humanizer, /fact-checker, /prompt-master, and /linkedin-hook.
+
+That is how AI becomes useful in real work.
+
+Not as a random prompt.
+As a repeatable system with context, output, review, and handoff.

@@ -1,0 +1,13 @@
+Comment EMAIL.
+
+
+The useful lesson here is the workflow behind the tool:
+
+1. People use AI to draft replies from the inbox thread alone, so the email misses what was actually said in meetings.
+2. Capture calls in Granola, connect Gmail plus Granola in Claude desktop, point Claude to the sender/topic/timeframe/reply goal, and save the reply as a draft for review.
+3. The public LinkedIn preview claims the workflow takes 2 minutes, includes a copy-paste prompt shell, and warns users to start with read-only access before granting write access.
+
+That is how AI becomes useful in real work.
+
+Not as a random prompt.
+As a repeatable system with context, output, review, and handoff.

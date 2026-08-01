@@ -1,0 +1,29 @@
+Comment SKILL.
+
+Your strongest prompt is probably not just a prompt anymore.
+
+It is a repeated workflow trying to become a Claude Skill.
+
+The mistake most people make:
+They save the wording, but they do not save the job.
+
+A real Skill needs the full operating loop:
+
+1. The repeated task.
+2. The trigger that tells Claude when to use it.
+3. The rules, examples, and source context.
+4. The output format.
+5. The QA gate before the result is used.
+
+The checkable detail:
+Claude reads the short Skill description when deciding whether a Skill should fire.
+
+So do not describe the Skill like a broad topic.
+Describe it like a narrow job.
+
+Bad: writing assistant.
+Better: write LinkedIn hooks from this brief.
+
+That small description decides whether the workflow runs at the right moment or stays buried.
+
+Comment SKILL if you want the checklist for turning one working prompt into a reusable Claude Skill.

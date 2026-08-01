@@ -1,0 +1,11 @@
+1/ AI saves time when it becomes a workflow, not another tab. A faster email workflow connects Claude to Gmail and meeting context before drafting, then saves the result as a reviewed Gmail draft.
+
+2/ The prompt is not the asset. The repeatable process is. People use AI to draft replies from the inbox thread alone, so the email misses what was actually said in meetings.
+
+3/ Do not ask AI to guess your workflow. Give it the source, the rules, and the definition of done.
+
+4/ The safest automation has a human review gate before anything reaches a client, customer, or audience.
+
+5/ If a task happens every week, has clear inputs, and ends in a predictable output, it is a good AI workflow candidate.
+
+6/ Capture calls in Granola, connect Gmail plus Granola in Claude desktop, point Claude to the sender/topic/timeframe/reply goal, and save the reply as a draft for review. The win is not magic. It is repeatable operating leverage.

@@ -1,0 +1,8 @@
+Create slide 1 cover for an Instagram carousel.
+
+Headline: "Stop wasting your strongest AI model on tiny prompts."
+Badge: "AI MODEL SYSTEMS"
+Subhead: "Use Fable 5 when the work has a brief, tools, checkpoints, and a finish line. Tiny prompts can use cheaper models."
+Footer: "01 / 08" and "SWIPE".
+
+Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep the intro clean and structured: no prompt box, no detailed teaching cards, no fake metrics, and no fake logos.

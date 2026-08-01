@@ -1,0 +1,54 @@
+Use case: productivity-visual
+Asset type: Instagram educational carousel, PNG raster cards
+
+Create six clean structured tweet-style carousel slides based on the video "Building Beautiful Websites with Claude Code Is Too Easy."
+
+Shared layout:
+- 1080x1350 PNG.
+- Warm cream grid background.
+- Top-right creator pill with Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg`.
+- Creator text: "STANLEY" and "@stanleyai".
+- Small blue verified badge placed beside the creator name with clear spacing, never overlapping it.
+- Left-aligned numbered step title inside a rounded colored pill.
+- Short body paragraph.
+- Simple visual block: rows, code window, or 3-step flow.
+- Bottom "PASTE THIS" action card with generous padding.
+- Small slide count and "SWIPE" footer.
+
+Slides:
+1. Start with the setup
+Body: AI website building does not start with a prompt. It starts with the system around the prompt.
+Visual block: Outcome / Rules / Quality bar.
+Paste/action: Before you ask Claude Code to build, define the outcome, the rules, and what good should look like.
+
+2. Create the context
+Body: Your CLAUDE.md file is the onboarding document the AI reads before the work starts.
+Visual block: Code window with Role, Voice, Design defaults, Output standards.
+Paste/action: Write your role, voice, design defaults, brand rules, and output standards once. Reuse them every session.
+
+3. Add design standards
+Body: A working website is not always a polished website. The AI needs taste boundaries.
+Visual block: Layout rules / Spacing / UI references.
+Paste/action: Give the AI layout rules, spacing preferences, examples, and frontend quality standards before it builds.
+
+4. Feed the brand
+Body: If the AI cannot see your brand assets, it will guess. That is how generic output happens.
+Visual block: Logo / Colors / Examples.
+Paste/action: Keep logo, colors, fonts, profile image, screenshots, and examples in one brand assets folder.
+
+5. Review like an operator
+Body: The first draft is not the win. The review loop is where quality shows up.
+Visual block: Build > Review > Refine.
+Paste/action: Check the layout, text, brand fit, responsiveness, and whether the website solves the real problem.
+
+6. Ship the system
+Body: The goal is not a one-time AI trick. The goal is a repeatable workflow you can use again.
+Visual block: Context > Build > Deploy.
+Paste/action: Turn the process into a reusable setup: context, design rules, brand assets, review, and deployment.
+
+Constraints:
+- Keep the look simple, clean, and text-first.
+- Do not use a black outer tweet-card frame for this carousel.
+- Do not use fake platform buttons.
+- Do not let labels overlap containers.
+- Do not use a generated lookalike avatar.

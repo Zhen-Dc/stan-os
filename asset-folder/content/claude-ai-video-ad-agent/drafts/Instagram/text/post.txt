@@ -1,0 +1,35 @@
+Slide 1: Claude+Higgsfield Ai Agent
+One Ai Agent | 7 Steps | 30+ Ads. A start-to-finish ad system for brands that need more winning creatives without building a bigger team.
+COVER: A Claude AI agent can connect the full video-ad loop from research to new winning variations.
+
+Slide 2: The old stack is expensive
+Video ads usually need separate researchers, scriptwriters, creators, editors, and media buyers.
+SETUP_LEAK: Every handoff adds delay: research, script, visuals, editing, and performance data stay separated.
+
+Slide 3: Research before writing
+The agent starts by studying what already gets attention in the market.
+INSTALL_FILTER: It checks social platforms and ad libraries, then looks for observable signals: repeated hooks, angles, visual patterns, pacing, offers, and formats.
+
+Slide 4: Break ads scene by scene
+The useful research is not a swipe file. It is a structured breakdown.
+COMMAND_MENU: Each ad becomes a map: hook, pain point, visual proof, offer, transition, caption style, sound cue, and CTA.
+
+Slide 5: Generate the creative kit
+Once the winning patterns are clear, the agent creates original assets for your brand.
+COMMAND_STACK: The kit includes script, scene prompts, motion prompts, captions, and edit notes.
+
+Slide 6: Edit inside the loop
+The built-in editor turns generated clips into a finished ad, not a pile of assets.
+REAL_RUN_EXTRACT: It combines clips, removes dead space, adds captions, transitions, beat sync, sound effects, and exports a review-ready video.
+
+Slide 7: Fast ads still need approval
+Speed is useless if the agent publishes something the brand would reject.
+BUILD_LOOP: The approval gate catches off-brand visuals, weak claims, wrong offers, and bad pacing before paid traffic touches the ad.
+
+Slide 8: Data feeds the next 10
+The first ad is only useful if the result changes the next variation.
+TOKEN_SCAN: Every result becomes instruction: winner, failure, hook, angle, audience, offer, next variation.
+
+Slide 9: Comment AGENT
+Comment AGENT if you want the checklist for building an AI video-ad agent for your business.
+CTA: Comment AGENT. I will show you how the system researches, creates, edits, publishes, learns, and repeats.

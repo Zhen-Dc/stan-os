@@ -1,0 +1,17 @@
+Source URL: https://www.linkedin.com/feed/update/urn:li:activity:7475786119289249792/
+Source title: Claude Code Wow Moments
+Creator: Steffi Kieffer
+Source confidence: source-brief-derived
+
+Verified facts used for drafting:
+- Local source brief lists creator: Steffi Kieffer.
+- Local source brief topic: Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.
+- The public preview was recorded in AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md.
+- The package recreates the strategy for Stanley's AI automation positioning.
+
+Caveats:
+- This package recreates the useful workflow lesson for Stanley's brand.
+- It does not claim Stanley created, tested, or owns the source creator's work.
+
+Source text or transcript:
+Source brief from AIS-OS/references/client-trust-ai-automation-linkedin-swipe.md. Creator: Steffi Kieffer. Topic: Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.. Useful pattern: The local reference says the post is a personal case study with Claude using ffmpeg and updating a website.

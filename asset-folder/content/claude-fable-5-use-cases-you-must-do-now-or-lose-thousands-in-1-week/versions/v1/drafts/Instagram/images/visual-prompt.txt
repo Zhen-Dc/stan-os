@@ -1,0 +1,30 @@
+Create an 8-slide Instagram carousel in the dense reference style.
+
+Slide 1 must be a clean intro cover:
+- cream grid background
+- dark badge
+- huge hook headline
+- one rust/orange accent line
+- short body/subhead
+- Stanley creator row near the lower-left
+- "01 / 08" and swipe cue
+
+Slides 2-8 must be information-rich teaching slides:
+- top-right Stanley creator pill
+- numbered circle that restarts at 1 after the cover
+- colored title pill
+- sharp body hook
+- structured upper visual block
+- lower module panel that changes based on the lesson
+- bottom slide count and swipe cue
+
+Use these lower modules:
+- Slide 2: TECH STACK for the local software clone workflow.
+- Slide 3: PROMPT with include-cards for architecture, criteria, constraints, and handoff.
+- Slide 4: TIPS plus a diagnosis prompt for auditing Claude Code sessions.
+- Slide 5: WORKFLOW cards for reports, skills, tasks, and metrics.
+- Slide 6: CHECKLIST plus PASS WHEN strip for code review/debugging.
+- Slide 7: ROUTINE rows plus PRD prompt for long-horizon builds.
+- Slide 8: USE THIS model filter with plan, execute, and check stages.
+
+Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png. Fill the canvas with useful information like the references, but keep all text readable and avoid clipping, overlap, fake metrics, fake logos, or unsupported claims.

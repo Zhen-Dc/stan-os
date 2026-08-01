@@ -1,0 +1,11 @@
+AI marketing is moving from prompts to loops.
+
+The useful stack:
+
+1. Research trends
+2. Plan hooks and scripts
+3. Render ad variants
+4. Launch through ads infrastructure
+5. Read performance and scale winners
+
+Claude becomes powerful when it can run the whole workflow, not just write the first draft.

@@ -1,0 +1,52 @@
+
+Stop collecting prompts.
+
+Build a command library.
+
+That is the real lesson behind Claude Skills.
+
+Most people think the win is having 27 clever prompts.
+
+It is not.
+
+The win is not rebuilding the same setup every time you open Claude.
+
+If you keep telling Claude:
+
+- who you are
+- what file to read
+- what tone to use
+- what examples to follow
+- what output format you want
+- what mistakes to avoid
+
+that is not a prompt problem.
+
+That is a workflow that should become a Skill.
+
+The best Skills are boring:
+
+/grill-me before you build
+/humanizer before you publish
+/fact-checker before you make a claim
+/prompt-master before you run a messy idea
+/linkedin-hook before you post
+
+One command. Same setup. Cleaner output.
+
+The technical detail matters too:
+
+Claude reads the short Skill header first.
+
+So the full Skill library does not need to flood every chat. The full instructions load when the task matches.
+
+This is how I would use the idea:
+
+1. Install the library.
+2. Test the daily commands.
+3. Delete what you do not use.
+4. Turn your own repeated tasks into custom Skills.
+
+A smaller Skill library you actually use is better than a giant prompt vault you keep forgetting.
+
+Comment SKILLS if you want the checklist for building your first command library.

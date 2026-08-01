@@ -1,0 +1,10 @@
+Claude Fable 5 should not answer every small question.
+
+Use it like a senior strategist:
+
+1. clarify the goal
+2. define the plan
+3. set the rules
+4. hand execution to a cheaper model
+
+The expensive mistake is using premium AI for every turn.

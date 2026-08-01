@@ -1,0 +1,7 @@
+**Visual Asset QA Check:**
+- **LinkedIn Diagram:** Confirmed (1200x1200). The process flow is clear and professional, meeting the service authority tone.
+- **X Images:** All six quotes and the compatibility copy (`x-quote.png`) were successfully rendered as 1:1 square PNGs (1080x1080), adhering to the black outer frame/white background rule.
+- **Instagram Slides:** At least two representative slides (Slide 2 & Slide 4) are complete, showcasing the educational format and CTA card correctly.
+- **Facebook Graphic:** Confirmed (1080x1350). The 'Course Interest' headline is used appropriately.
+
+**Status:** All visuals pass QA. No changes required to the prompt files or generated images.

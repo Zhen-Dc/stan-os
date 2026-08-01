@@ -1,0 +1,14 @@
+Create an 8-slide Instagram carousel.
+
+Slide 1: clean cover.
+Slides 2-8: dense structured teaching slides with varied modules:
+1. WORKFLOW
+2. CHECKLIST
+3. TIPS
+4. ROLES
+5. QA GATE
+6. AUTOMATION MAP
+7. SAVE THIS
+
+The core lesson: Claude Skills are useful when they package a repeatable process, not when they are treated as magic downloaded prompts.
+Use Stanley's real avatar. Keep text readable. Avoid generic prompt boxes on every slide.

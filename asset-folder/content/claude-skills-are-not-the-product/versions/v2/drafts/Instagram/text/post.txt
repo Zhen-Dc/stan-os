@@ -1,0 +1,27 @@
+Slide 1:
+Stop saving prompts.
+Start saving workflows.
+
+Slide 2:
+A prompt is one instruction.
+A Skill is a reusable process.
+
+Slide 3:
+If the task repeats, the instructions should not live in your memory.
+They should live in a system.
+
+Slide 4:
+A useful Skill needs clear input, role, rules, voice, output, QA, and approval.
+
+Slide 5:
+Generic Skills feel generic because they do not know your workflow.
+
+Slide 6:
+For content, the Skill should know your audience, offer, proof rules, tone, claims to avoid, and output folder.
+
+Slide 7:
+For business automation, the Skill should know the trigger, source data, decisions, handoff, and stop condition.
+
+Slide 8:
+The slash command is not the shortcut.
+The reusable process behind it is.

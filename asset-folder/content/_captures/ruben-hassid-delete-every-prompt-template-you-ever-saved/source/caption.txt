@@ -1,0 +1,43 @@
+Delete every prompt template you ever saved.
+
+You only need these 3 Claude Skills:
+
+1. /how-to SKILL
+☑ Your universal guide. A → Z on any task.
+Type "/how-to" + what you want.
+Claude asks the right questions to builds the plan.
+↳ Replaces every "how do I do this?" prompt.
+
+2. /about-me
+☑ Who you are. How you think. How you write:
+Open Claude. Run a 100-question interview.
+Or turn your old about-me .md into a Skill.
+↳ Now Claude sounds exactly like you.
+
+3. /skill-creator
+☑ The Skill that builds your other Skills.
+Type /skill-creator. Answer the questions. Save.
+Or say "make it a skill" in any long chat.
+↳ This is how you replace the next 500 prompts.
+
+5. Dictate, don't type
+☑ Use Wispr . ai (free). Voice is faster:
+You answer 100 questions in 90 minutes.
+Voice is also more honest than typing.
+↳ Vagueness won't survive Claude's follow-ups.
+
+5. Skills + Projects. Nothing else.
+☑ Forget folders, files & global instructions:
+Skill = a capability you can teach someone.
+Project = a specific context (a client, a campaign).
+↳ Turn everything OFF. No settings is the best one.
+
+I teach you how Claude works at how-to-ai.guide.
+
+Download my Skills library for free:
+
+Step 1: Subscribe for free at how-to-ai.guide
+Step 2: Open your welcome email.
+Step 3: Trace the link. Open the 'Skills' folder.
+Step 4: Access my entire Skills library.
+Step 5: Claude settings → Capabilities → Skills. | 184 comments on LinkedIn

@@ -1,0 +1,21 @@
+# Image QA: Writing Emails From Scratch In 2026 Is Embarrassing
+
+- PNG count: 21
+- GIF count: 1
+- LinkedIn GIF exists and has more than one frame.
+- Stanley real avatar path used: C:\Users\DELL\Master Project\Stan OS\AIS-OS\asset-folder\Brand_Assets\Stan Avatar.png
+- No generated lookalike avatar was used.
+- Instagram slide 1 uses a clean cover layout.
+- Cover title QA: PASS title="2-minute email system" words=3 lines=3 font_size=156 title_height_px=404 min_height_px=240.
+- Cover weight QA: PASS. The cover uses the approved heavy title renderer.
+- Instagram carousel QA: 9 slides at 1080x1440, 3:4 aspect ratio.
+- Instagram slide variety QA: slides 2-9 must use different visual structures and diagrams based on each slide's meaning.
+- Dynamic layout evidence: slides 2-9 use SETUP_LEAK, BUILD_LOOP, INSTALL_FILTER, COMMAND_MENU, COMMAND_STACK, REAL_RUN_EXTRACT, TOKEN_SCAN, and CTA.
+- Source-analysis QA: PASS. The package records caption/body analysis and notes that the attached image was not fully captured, so it was used only as visual-context evidence.
+- Public-copy QA: PASS. Drafts do not mention source/caption/repurpose language.
+- Safety QA: PASS. The public copy keeps read-only first, save-as-draft, and human review before sending.
+- Visual spot-check: PASS. Contact sheet inspected after regeneration; no fixed main-body structure across the carousel.
+- X cards must look like normal tweets with no structural labels or footers.
+- Contact sheet: preview/instagram-contact-sheet.png
+- LinkedIn GIF frame sheet: preview/linkedin-gif-frame-sheet.png
+- Known issues: automated render still requires human visual spot-check before approval.

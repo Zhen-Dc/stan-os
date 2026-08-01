@@ -1,0 +1,3 @@
+**Source Material:** Article by Ruben Hassid on personal AI data privacy.
+**Core Lesson:** Using personal accounts (ChatGPT/Claude) for work poses significant legal and compliance risks because chats are often used for model training, violating NDAs and GDPR rules.
+**Actionable Advice:** Always check the company's approved tool first. If not available, *anonymize all data* before using a personal account.

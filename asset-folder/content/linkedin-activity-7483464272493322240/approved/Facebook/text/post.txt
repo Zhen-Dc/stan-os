@@ -1,0 +1,22 @@
+A lot of people think AI for marketing means asking ChatGPT to "write a better ad."
+
+That is the weak version.
+
+The stronger version is building a workflow around a winning creative.
+
+For example:
+
+You give Claude the ad that worked.
+You give it the comments.
+You give it the performance notes.
+
+Then it helps you score the creative, understand the angle, mine customer language, create hooks, build UGC scripts, and prepare briefs for the next test batch.
+
+That is useful because marketing teams do not just need more copy.
+
+They need a faster way to turn what already worked into the next set of testable creatives.
+
+If you are learning AI skills, this is the direction to pay attention to:
+
+Do not only learn prompts.
+Learn how to turn a repeated business task into a repeatable AI workflow.

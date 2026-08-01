@@ -1,0 +1,11 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+Use Fable 5 when the job has a brief, tools, checkpoints, and a finish line:
+
+-> clone one paid workflow locally
+-> audit Claude Code history
+-> build an agentic OS
+-> review serious code
+-> build from a PRD
+
+Tiny prompt = cheaper model.

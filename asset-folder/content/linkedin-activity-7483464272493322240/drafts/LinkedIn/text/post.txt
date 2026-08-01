@@ -1,0 +1,50 @@
+Claude can turn one winning ad into a creative testing system.
+
+This is the part most app and SaaS marketing teams still do manually:
+
+They find one ad that works.
+Then the team has to score it.
+Tear down the angle.
+Read the comments.
+Write new hooks.
+Create UGC scripts.
+Build briefs.
+Adapt it for Meta and TikTok.
+Repeat the whole thing again next week.
+
+That workflow should not live inside one strategist's head.
+
+It should be a system.
+
+The structure is simple:
+
+1. Score the ad
+Find the weak lever before generating more variants.
+
+2. Tear down the angle
+Understand why the winner worked before copying the surface.
+
+3. Mine the comments
+Turn buyer language into a hook and script bank.
+
+4. Generate the batch
+Create hooks, UGC scripts, briefs, and test concepts from the same proven angle.
+
+5. Adapt for the channel
+Meta needs muted-viewing captions. TikTok may need sound-first creative. The system should know the difference.
+
+This is where AI automation becomes useful for marketing teams.
+
+Not "write me a viral ad."
+
+More like:
+
+"Here is the winning creative, the comments, and the numbers. Score it, extract the angle, mine the language, and prepare the next test batch."
+
+If your team repeats that every week, that is not just a prompt.
+
+That is a workflow worth automating.
+
+If you run ads for an app, SaaS product, or client account and your creative process still depends on manual teardown, send me the bottleneck.
+
+I will show you which part should be automated first.

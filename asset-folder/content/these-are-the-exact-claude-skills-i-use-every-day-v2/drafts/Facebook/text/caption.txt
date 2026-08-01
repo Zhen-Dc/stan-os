@@ -1,0 +1,21 @@
+
+Comment SKILLS.
+
+A useful Skill library is not a folder full of clever prompts.
+
+It is a command system for work you repeat.
+
+Start with the boring jobs:
+
+1. Ask better questions before building.
+2. Humanize rough drafts.
+3. Fact-check risky claims.
+4. Clean messy ideas.
+5. Write stronger hooks.
+
+Then save the setup inside the Skill:
+role, source file, examples, tone, output format, and review rules.
+
+If you repeat the same setup twice, turn it into a command.
+
+Comment SKILLS if you want the checklist.

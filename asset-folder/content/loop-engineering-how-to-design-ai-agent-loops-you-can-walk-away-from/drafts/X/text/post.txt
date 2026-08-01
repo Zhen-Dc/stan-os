@@ -1,0 +1,74 @@
+Stop writing bigger prompts for work that needs a system.
+
+The fix is not 700 more words.
+
+It is a loop.
+
+Thread:
+
+1/ A prompt gives AI an instruction.
+
+A loop gives AI an operating cycle:
+
+goal -> action -> feedback -> decision -> stop
+
+That is the difference between a chatbot response and an agent workflow.
+
+2/ Most people still use AI like this:
+
+Prompt.
+Wait.
+Correct.
+Prompt again.
+
+That works for simple tasks.
+
+It breaks down when the work needs research, tools, checks, files, approvals, or multiple passes.
+
+3/ Loop engineering is how you design the repeated process on purpose.
+
+The agent is not only producing output.
+
+It is checking state, using context, calling tools, reviewing results, and deciding what should happen next.
+
+4/ A good AI loop has:
+
+- a clear goal
+- useful context
+- allowed actions
+- feedback checks
+- stop conditions
+- saved artifacts
+
+Without these, "autonomy" becomes guessing at speed.
+
+5/ The real unlock is bounded autonomy.
+
+Not:
+"AI, do whatever."
+
+But:
+"Work inside this lane, check your output, save evidence, and stop when approval is needed."
+
+6/ Example:
+
+Instead of:
+"rewrite this article"
+
+Build the loop:
+
+fetch source -> save original -> extract facts -> rewrite -> check claims -> create metadata -> wait for approval -> repurpose
+
+That is the workflow.
+
+7/ The better AI question is not:
+
+"What prompt should I write?"
+
+It is:
+
+"What loop should this AI follow, what should it check, and when should it stop?"
+
+Map the loop first.
+
+Then write the prompt.

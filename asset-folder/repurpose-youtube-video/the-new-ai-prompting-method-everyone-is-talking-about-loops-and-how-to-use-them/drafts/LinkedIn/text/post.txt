@@ -1,0 +1,60 @@
+Most teams are still using AI like a search box.
+
+Ask once.
+Get an answer.
+Copy the result.
+Start over tomorrow.
+
+That is prompting.
+
+The stronger pattern is looping.
+
+A loop is when the AI moves through a repeatable workflow:
+
+1. Discover what matters.
+2. Plan the work.
+3. Execute the task.
+4. Verify the result.
+5. Iterate until the output is useful.
+
+That is a different way of thinking about automation.
+
+The value is no longer "Can AI answer this question?"
+
+The value becomes:
+
+"Can we design a process where AI does useful work, checks its own output, and hands the right parts back to a human?"
+
+That is why this matters for businesses.
+
+Most companies do not need another random chatbot.
+
+They need mapped workflows.
+They need clear verification rules.
+They need human approval points.
+They need agents that know their role.
+They need a system that can repeat the work without drifting.
+
+In the video, the example is an online store using three agents:
+
+- one to build a quiz
+- one to scout content opportunities
+- one to turn the research into marketing assets
+
+Then an orchestrator manages the weekly loop.
+
+That is the useful lesson.
+
+Automation is not just connecting tools.
+
+It is designing the loop around the work.
+
+When I look at a business process, this is the question I care about:
+
+Where can the system discover, plan, execute, verify, and improve without removing the human judgment that protects quality?
+
+That is where AI starts becoming operational leverage.
+
+If your team is still stuck at "write me a prompt," the next step is not more prompts.
+
+The next step is building loops.

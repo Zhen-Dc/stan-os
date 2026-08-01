@@ -1,0 +1,1 @@
+Claude Code is most useful when it runs the workflow, not when it is asked to make one random post.

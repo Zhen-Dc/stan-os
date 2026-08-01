@@ -1,0 +1,5 @@
+Create slide 1 cover for an Instagram carousel.
+Headline: "5 Projects Worth Your Best Model"
+Badge: "AI WORKFLOW"
+Subhead: "Stop spending elite model calls on tiny prompts."
+Footer: "01 / 08" and "SWIPE". Use source-derived copy only. Include Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png where a creator row appears. Keep text readable and avoid fake metrics or logos.

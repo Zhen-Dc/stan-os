@@ -1,0 +1,10 @@
+
+Create platform visuals for "Claude Code Wow Moments".
+
+Core idea: Claude Code can inspect files, use ffmpeg, and update a web output when the task is framed as an outcome.
+Visual text must come from the saved source brief or transcript.
+Use Stanley's real avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png.
+Use cream graph-paper background, dark text, one warm accent color, and readable phone-size text.
+Do not use fake logos, fake metrics, or fake client proof.
+
+X clean tweet screenshot thumbnail.

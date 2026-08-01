@@ -1,0 +1,9 @@
+Create a clean tweet screenshot-style image for X about the source lesson.
+
+Tweet text: "AI marketing is moving from prompts to loops. Claude becomes powerful when it can research, plan, produce, launch, and optimize inside one workflow."
+
+Visual style: plain white 920x458 canvas like a tweet screenshot. Place Stanley's avatar, the bold name "Stanley", a small blue verified badge immediately after the name, and the gray @stanleyai handle on one horizontal creator row near the top-left. Put large black tweet text underneath with generous paragraph spacing. Keep the image tight to the tweet content with no extra top or bottom margin.
+
+Output format: PNG.
+
+No slide-count pill, no border, no cream grid, no action row, no timestamp, no prompt box, no fake engagement numbers, no decorative carousel frame, and no clutter.

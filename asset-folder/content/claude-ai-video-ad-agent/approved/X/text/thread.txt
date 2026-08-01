@@ -1,0 +1,11 @@
+1/ Most businesses do not have a video ad problem. They have a broken handoff problem between research, script, assets, editing, publishing, and performance data.
+
+2/ An AI ad agent should not only create one video. It should learn from the ad after it runs.
+
+3/ Do not copy competitor ads. Extract the hook, angle, pacing, visual pattern, and CTA. Then build original creative for your brand.
+
+4/ The approval gate matters. Let the agent create and edit fast, but keep the brand decision human before publishing.
+
+5/ A winning ad system needs a loop: research, create, edit, approve, publish, measure, vary, repeat.
+
+6/ The real asset is not the first generated video. It is the system that documents what worked and makes the next variation smarter.

@@ -1,0 +1,11 @@
+Create slide 1, the cover image for an educational Instagram carousel about "Claude as an AI marketing loop."
+
+Headline: "Claude Can Run Your Marketing Loop"
+Badge text: "AI MARKETING STACK"
+Subhead: "Research, planning, production, distribution, and optimization in one workflow."
+Creator row: "Stanley - @stanleyai" with Stanley's brand avatar from AIS-OS/asset-folder/Brand_Assets/Stan Avatar.png when available.
+Footer cue: "01 / 08" on the left and "SWIPE" with a small arrow on the right.
+
+Visual style: cream graph-paper background, oversized dark headline, rust/orange accent on "Loop", compact rounded badge near the top, creator pill near the lower-left, lots of whitespace, crisp readable typography.
+
+Do not include steps or diagrams on the cover. Keep the cover focused on the main subject.

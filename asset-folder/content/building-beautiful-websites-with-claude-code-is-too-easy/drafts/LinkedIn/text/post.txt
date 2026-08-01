@@ -1,0 +1,41 @@
+The real lesson from "building websites with Claude Code" is not that AI removes skill.
+
+It is that AI rewards people who know how to set up the work.
+
+Most people see a tool like Claude Code and think:
+
+"Now I just need the right prompt."
+
+That is the weak version.
+
+The stronger version is:
+
+1. Define the outcome before the build starts.
+2. Give the AI context through a clear CLAUDE.md file.
+3. Add design standards so the frontend does not look generic.
+4. Keep brand assets in one place so the output feels consistent.
+5. Review, refine, and deploy instead of accepting the first draft.
+
+That is the same reason AI automation work cannot just be "connect a few tools."
+
+When I work through a process, the valuable part is not only finding what can be automated.
+
+It is understanding the rules, the exceptions, the brand standards, the handoff points, and the moments where human judgment still matters.
+
+Claude Code can make website execution faster.
+
+But the operator still has to build the system around it.
+
+That is where trust is created:
+
+Not from saying "AI can do everything."
+
+But from showing the process that makes the output usable.
+
+If your team is trying to use AI to build faster, start here:
+
+Before asking the tool to create, teach it what good should look like.
+
+That is the difference between random AI output and work you can actually ship.
+
+If you want, comment "setup" and I will share the checklist I would use before building with AI.

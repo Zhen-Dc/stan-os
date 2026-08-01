@@ -1,0 +1,29 @@
+
+Your best prompt is probably not a prompt anymore.
+
+It is a workflow trying to become a Skill.
+
+The part most people miss:
+
+Claude does not magically know when to run a Skill.
+
+It reads the short Skill description first.
+
+That means 2 lines can decide whether your saved workflow fires at the right moment or stays buried.
+
+Here is the practical version:
+
+1. Start with a prompt or chat that already worked.
+2. Extract the repeated task, not just the wording.
+3. Write the Skill description like a job trigger.
+4. Keep the rules, examples, tone, output format, file paths, and QA gate inside the Skill.
+5. Test it with a real task.
+6. Rewrite the description if Claude misses it or uses it too broadly.
+
+A vague Skill like "writing help" is hard to trust.
+
+A narrow Skill like "use when I ask for a LinkedIn hook from a source post" has a real chance of firing cleanly.
+
+That is the difference between saving a prompt and saving a system.
+
+Comment SKILL if you want the checklist I use to turn repeated prompts into reusable Claude Skills.

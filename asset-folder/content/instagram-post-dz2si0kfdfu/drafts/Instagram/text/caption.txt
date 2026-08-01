@@ -1,0 +1,23 @@
+You installed Claude wrong.
+
+Sorry, sharp hook. But most teams treat Claude like a place to dump prompts instead of a system for repeated marketing work.
+
+The useful setup is simple:
+
+- research workspace
+- campaign brief role
+- content production role
+- ad variation role
+- reporting role
+- follow-up role
+- QA role
+
+That is how Claude becomes useful for marketing teams.
+
+It should help the team move from research to campaign assets faster, without losing proof, brand clarity, or human approval.
+
+If your company uses Claude but your campaigns still start from scratch every week, save this.
+
+Then ask:
+
+Which marketing function should become a workflow first?

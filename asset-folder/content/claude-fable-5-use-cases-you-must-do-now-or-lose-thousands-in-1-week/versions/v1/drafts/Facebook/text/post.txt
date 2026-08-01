@@ -1,0 +1,28 @@
+Most beginners use new AI models like a magic text box.
+
+That is why the output feels random.
+
+This video gives a better way to practice:
+
+Pick projects where the AI has to plan, use tools, follow constraints, and keep working toward a finish line.
+
+Here are the five project types from the video:
+
+1. Clone a tool you understand
+The example is a Whisper Flow-style local clone. This teaches privacy, product thinking, local models, and debugging.
+
+2. Audit your AI workflow
+Look at your previous Claude Code sessions and find what should become a reusable skill, automation, or fix.
+
+3. Build an agentic OS
+Create a simple dashboard for reports, repeated tasks, skills, and automations.
+
+4. Review a real codebase
+Ask for findings, severity, evidence, and fix priority.
+
+5. Build from a PRD
+Before a big project, write the requirements, constraints, and success criteria.
+
+That is how you move from watching AI demos to actually building with AI.
+
+Start with one project. Keep the scope small. Document every step.

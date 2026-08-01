@@ -1,0 +1,6 @@
+**Instagram Slide 1 (Intro):** Title: "AI Safety: Your Professional Guide." Subtitle: "Don't let data leakage compromise your career or client trust. Swipe for the essential rules." Style: Warm cream, visually engaging, clean graphic design.
+**Instagram Slide 2:** Topic: "The Danger Zone (Personal AI)." Text focus: Default data training on chats; violation of company policy/NDAs. Use a red warning icon.
+**Instagram Slide 3:** Topic: "GDPR & PII." Visual element: A stylized map or flag to represent global compliance risks. Key message: Never paste unmasked personal identifiers (emails, IDs).
+**Instagram Slide 4:** Title: "The Fix - The Golden Rule." Text focus: Always ask the internal safety question. Use a large checklist icon and clear instructions.
+**Instagram Slide 5:** Topic: "Workflow over Tool." Message: True value comes from *how* you design the process, not just which tool you use. Reinforce the 'process-driven' message.
+**Instagram Slide 6 (CTA):** Text: "Build a Compliant AI Workflow Today." CTA: Link in bio to learn more about safe implementation strategies. Style: Bright and actionable.

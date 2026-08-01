@@ -1,0 +1,31 @@
+Stop treating AI agents like one-message assistants.
+
+That is why the work keeps drifting.
+
+If the task needs research, tools, files, checks, approvals, or multiple passes, a better prompt is not enough.
+
+You need a loop.
+
+A prompt says:
+"Do this."
+
+A loop says:
+"Do this, check the result, decide what is next, and stop when the condition is met."
+
+That is loop engineering.
+
+The simple version:
+
+Goal.
+Context.
+Action.
+Feedback.
+Stop condition.
+
+Once those pieces are clear, AI becomes easier to trust because it is not running wild. It is working inside a defined process.
+
+Swipe through the carousel for the breakdown.
+
+Save this if you are building AI workflows.
+
+Comment "loop" if you want more practical agent workflow breakdowns.

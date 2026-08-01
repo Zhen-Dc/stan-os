@@ -1,0 +1,11 @@
+1/ Sonnet 5 is not just a cheaper Claude model. For marketers, it can be the audit operator that turns ad data into a ranked fix list.
+
+2/ Do not ask Claude to audit everything. Run one focused Skill: tracking, objectives, structure, adsets, creative fatigue, spend, search, shopping, PMax, or keywords.
+
+3/ A useful ad audit should end in a verdict: scale, pause, test, or rebuild.
+
+4/ The real value is not the Skill name. It is forcing the model to return evidence, priority, and the next action.
+
+5/ Meta Ads leaks and Google Ads leaks are different. Split the audit system instead of using one generic prompt.
+
+6/ Cheap model does not mean cheap output when the task is scoped properly.

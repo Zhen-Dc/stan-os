@@ -1,0 +1,25 @@
+You are leaving money inside your content workflow.
+
+Sorry, aggressive hook. But if your team has ideas, product knowledge, customer questions, and proof sitting everywhere, your content process should not still depend on manual chasing every week.
+
+Faceless YouTube is usually sold like a hustle.
+
+But for companies, the useful version is a production system:
+
+- idea bank
+- script generation
+- voiceover brief
+- source asset folder
+- editor handoff
+- subtitle and pacing rules
+- claim QA
+- publishing checklist
+- performance feedback
+
+That is where AI automation becomes practical.
+
+Claude can help create the scripts, briefs, captions, and QA rules.
+n8n can move files, create folders, trigger reminders, and update status.
+Humans still decide what is accurate, trusted, and worth publishing.
+
+If your content team repeats the same production steps every week, save this and map the workflow before buying another tool.

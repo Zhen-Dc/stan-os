@@ -1,0 +1,18 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+Use Fable 5 when the job has a clear brief, files to inspect, tools to use, and a finish line.
+
+The five source use cases:
+
+-> clone a paid workflow locally
+-> audit your Claude Code history
+-> build an agentic OS
+-> review a serious codebase
+-> build custom software from a PRD
+
+The rule:
+
+Tiny prompt = cheaper model.
+Clear system brief = strongest model.
+
+Save this before your next big build.

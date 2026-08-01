@@ -1,0 +1,20 @@
+
+If you are learning Claude, stop collecting random prompts first.
+
+Build or install Skills for tasks you repeat.
+
+Good examples:
+
+- ask me questions before building
+- rewrite this so it sounds human
+- fact-check every claim before publishing
+- turn my messy idea into a clean task
+- write the first two lines of a LinkedIn post
+
+The Skill saves the setup.
+
+The command starts the job.
+
+The real advantage is not having 27 files.
+
+The real advantage is no longer rebuilding the same context every chat.

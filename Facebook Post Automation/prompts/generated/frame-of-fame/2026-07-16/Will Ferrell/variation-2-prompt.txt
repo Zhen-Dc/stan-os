@@ -1,0 +1,36 @@
+Use case: photorealistic-natural
+Asset type: Facebook image post for Frame of Fame, true 3:4 portrait ratio
+
+Fields:
+CELEBRITY NAME: Will Ferrell
+COUNTRY: USA
+POST TYPE: Birthday / comedy and screen legacy
+AGE OR MEMORIAL YEARS: Turns 59
+KNOWN WORKS: Saturday Night Live, Anchorman, Elf, Talladega Nights
+CAREER MOOD: warm, fearless comedy, TV studio, modern screen legend
+COLOR PALETTE: black and amber
+HOUSE STRUCTURE: Bold Actor Center Portrait With Side Grids
+
+Primary request:
+Create variation 2 for Will Ferrell. Use a related archive-card / gallery-wall version of the Bold Actor Center Portrait With Side Grids structure.
+
+Subject:
+Will Ferrell, respectful recognizable likeness across life stages. Every grid/photo panel must show Will Ferrell recognizably. Props/settings may appear only as background context while Will Ferrell is present.
+
+Style/medium:
+premium archive-card collage, layered photo prints, cinematic gallery wall, refined editorial tribute. Photorealistic, premium, nostalgic, Facebook-mobile readable.
+
+Composition/framing:
+Vertical 3:4 portrait. Five or six layered archive-card / gallery-wall photo cards arranged around one larger central card, each card clearly showing Will Ferrell, bottom nameplate or title band. Thin clean dividers. No empty object-only panels. No prop-only panels. No distant silhouette-only panels.
+
+Lighting/mood:
+warm, fearless comedy, TV studio, modern screen legend; warm cinematic lighting, celebratory, legacy-focused, premium.
+
+Color palette:
+black and amber.
+
+Text (verbatim):
+"WILL FERRELL" only. Spell the name exactly as: WILL FERRELL. Large clean readable serif in the title/name band.
+
+Constraints:
+Every panel must include Will Ferrell recognizably. No standalone props. No exact movie-scene recreation. No copyrighted logos. No fake quotes. No hashtags. No watermark. No Facebook UI. No page branding. No extra text. No political references. No scandal references. Name must be correctly spelled and readable.

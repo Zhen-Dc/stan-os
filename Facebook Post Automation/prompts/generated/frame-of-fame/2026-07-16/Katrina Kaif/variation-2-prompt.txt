@@ -1,0 +1,36 @@
+Use case: photorealistic-natural
+Asset type: Facebook image post for Frame of Fame, true 3:4 portrait ratio
+
+Fields:
+CELEBRITY NAME: Katrina Kaif
+COUNTRY: UK
+POST TYPE: Birthday / Hindi cinema legacy
+AGE OR MEMORIAL YEARS: Turns 43
+KNOWN WORKS: Hindi-language films, action roles, dance performances, Screen Awards and Zee Cine Awards
+CAREER MOOD: modern cinema glamour, action energy, elegant star presence
+COLOR PALETTE: charcoal and gold
+HOUSE STRUCTURE: Elegant Actress Mosaic With Name Band
+
+Primary request:
+Create variation 2 for Katrina Kaif. Use a related archive-card / gallery-wall version of the Elegant Actress Mosaic With Name Band structure.
+
+Subject:
+Katrina Kaif, respectful recognizable likeness across life stages. Every grid/photo panel must show Katrina Kaif recognizably. Props/settings may appear only as background context while Katrina Kaif is present.
+
+Style/medium:
+premium archive-card collage, layered photo prints, cinematic gallery wall, refined editorial tribute. Photorealistic, premium, nostalgic, Facebook-mobile readable.
+
+Composition/framing:
+Vertical 3:4 portrait. Five or six layered archive-card / gallery-wall photo cards arranged around one larger central card, each card clearly showing Katrina Kaif, bottom nameplate or title band. Thin clean dividers. No empty object-only panels. No prop-only panels. No distant silhouette-only panels.
+
+Lighting/mood:
+modern cinema glamour, action energy, elegant star presence; warm cinematic lighting, celebratory, legacy-focused, premium.
+
+Color palette:
+charcoal and gold.
+
+Text (verbatim):
+"KATRINA KAIF" only. Spell the name exactly as: KATRINA KAIF. Large clean readable serif in the title/name band.
+
+Constraints:
+Every panel must include Katrina Kaif recognizably. No standalone props. No exact movie-scene recreation. No copyrighted logos. No fake quotes. No hashtags. No watermark. No Facebook UI. No page branding. No extra text. No political references. No scandal references. Name must be correctly spelled and readable.

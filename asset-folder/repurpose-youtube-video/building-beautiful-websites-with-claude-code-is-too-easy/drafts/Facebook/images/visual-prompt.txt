@@ -1,0 +1,32 @@
+Use case: ads-marketing
+Asset type: Facebook course-interest graphic, PNG
+
+Create a beginner-friendly course-interest graphic based on the video "Building Beautiful Websites with Claude Code Is Too Easy."
+
+Main text:
+Learn the AI website setup
+
+Support text:
+Context. Design rules. Brand assets. Review. Deploy.
+
+CTA:
+Comment "AI setup" for the beginner checklist.
+
+Visual structure:
+- 1080x1350 PNG.
+- Warm clean background.
+- Top-left creator row with Stanley's real profile photo from `AIS-OS/asset-folder/Brand_Assets/1762160371078.jpg`.
+- Put the blue verified badge beside Stanley's name with clear spacing.
+- Big centered headline.
+- Three roomy learning cards:
+  1. Set context
+  2. Guide the design
+  3. Ship with review
+- Bottom CTA with generous padding.
+
+Constraints:
+- No luxury imagery.
+- No unrealistic income claims.
+- No clipped text.
+- No generated lookalike avatar.
+- No watermark.

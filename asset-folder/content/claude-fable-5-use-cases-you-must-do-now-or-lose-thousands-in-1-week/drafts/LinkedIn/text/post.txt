@@ -1,0 +1,36 @@
+Stop wasting your strongest AI model on tiny prompts.
+
+That is the real point of this Fable 5 video.
+
+Most people will open the strongest model they have, ask it to rewrite a caption, make a to-do list, or "build me an app" from one vague sentence.
+
+That is a waste.
+
+Fable 5 makes more sense when the job has a clear brief, files to inspect, tools to use, and a finish line.
+
+The video gives five places to use it:
+
+-> Clone software you already pay for
+The demo uses a Whisper Flow-style dictation tool. The point is not copying random apps. The point is building a private local version of a workflow you already understand.
+
+-> Audit your Claude Code workflow
+Have it read old sessions, find repeated work, and decide what should become a skill, an automation, a fix, or nothing.
+
+-> Build an agentic OS
+Put reports, dashboards, tasks, skills, and automations into one visual layer so repeated work is easier to run.
+
+-> Review a serious codebase
+Use multiple reviewers, remove duplicate findings, then ask for evidence, severity, file locations, and fix priority. The video mentions 45 raw findings becoming 24 issues.
+
+-> Build custom software from a PRD
+For big builds, make the requirements first: goal, screens, constraints, success criteria, and stop conditions. Then spend the stronger model on execution.
+
+My rule after watching it:
+
+Use the cheaper model to research and plan.
+Use Fable 5 when the task is scoped, long, and expensive to get wrong.
+
+Tiny prompt = cheaper model.
+Clear system brief = strongest model.
+
+What would you stop wasting your strongest model on?

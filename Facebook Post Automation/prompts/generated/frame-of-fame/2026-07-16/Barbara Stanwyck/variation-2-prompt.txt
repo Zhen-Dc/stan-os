@@ -1,0 +1,36 @@
+Use case: photorealistic-natural
+Asset type: Facebook image post for Frame of Fame, true 3:4 portrait ratio
+
+Fields:
+CELEBRITY NAME: Barbara Stanwyck
+COUNTRY: USA
+POST TYPE: Birthday / classic Hollywood legacy
+AGE OR MEMORIAL YEARS: 1907-1990
+KNOWN WORKS: Double Indemnity, Stella Dallas, The Big Valley, classic Hollywood film and television
+CAREER MOOD: classic Hollywood strength, elegance, dramatic screen presence
+COLOR PALETTE: deep navy and ivory
+HOUSE STRUCTURE: Elegant Actress Mosaic With Name Band
+
+Primary request:
+Create variation 2 for Barbara Stanwyck. Use a related archive-card / gallery-wall version of the Elegant Actress Mosaic With Name Band structure.
+
+Subject:
+Barbara Stanwyck, respectful recognizable likeness across life stages. Every grid/photo panel must show Barbara Stanwyck recognizably. Props/settings may appear only as background context while Barbara Stanwyck is present.
+
+Style/medium:
+premium archive-card collage, layered photo prints, cinematic gallery wall, refined editorial tribute. Photorealistic, premium, nostalgic, Facebook-mobile readable.
+
+Composition/framing:
+Vertical 3:4 portrait. Five or six layered archive-card / gallery-wall photo cards arranged around one larger central card, each card clearly showing Barbara Stanwyck, bottom nameplate or title band. Thin clean dividers. No empty object-only panels. No prop-only panels. No distant silhouette-only panels.
+
+Lighting/mood:
+classic Hollywood strength, elegance, dramatic screen presence; warm cinematic lighting, celebratory, legacy-focused, premium.
+
+Color palette:
+deep navy and ivory.
+
+Text (verbatim):
+"BARBARA STANWYCK" only. Spell the name exactly as: BARBARA STANWYCK. Large clean readable serif in the title/name band.
+
+Constraints:
+Every panel must include Barbara Stanwyck recognizably. No standalone props. No exact movie-scene recreation. No copyrighted logos. No fake quotes. No hashtags. No watermark. No Facebook UI. No page branding. No extra text. No political references. No scandal references. Name must be correctly spelled and readable.

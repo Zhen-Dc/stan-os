@@ -1,0 +1,6 @@
+**X Quote 1 Prompt:** A bold, simple graphic (1080x1080). Text: "DO NOT USE PERSONAL AI FOR WORK." Must look like a warning sign in black/white. Very clean and stark.
+**X Quote 2 Prompt:** A diagram showing two paths: 'Company Approved Tool' (Green Check) vs. 'Personal Chatbot' (Red X). Title: "Compliance First". Style: Simple, bold infographic for maximum readability on mobile.
+**X Quote 3 Prompt:** Text: "The value isn't the AI; it's your human workflow design." Use a simple process diagram concept. Minimalist and professional.
+**X Quote 4 Prompt:** A visual representation of data passing through a filter/masking system, titled 'Data Anonymization Checklist'. Simple iconographic style.
+**X Quote 5 Prompt:** Text: "Ask this question before pasting ANYTHING: Would it be fine in the company-wide channel?" Use large font and an interrogation mark graphic.
+**X Quote 6 Prompt:** A simplified visual of a legal document being protected by a shield icon, labeled 'NDA Compliant'. Highly formal and trustworthy look.

@@ -1,0 +1,20 @@
+
+Claude Code Wow Moments.
+
+The impressive part is not that Claude Code can answer questions.
+
+The impressive part is what it can do inside a real workspace:
+
+- inspect files and folders
+- understand the current project state
+- choose the right command or tool
+- edit code, docs, media outputs, or local artifacts
+- run checks
+- verify that the final file exists
+
+That changes how you think about AI.
+
+It is no longer only a chatbot giving advice.
+It becomes a working assistant that can help move a task from idea to artifact.
+
+The best use cases are the ones with real files, clear outcomes, and a way to verify the result.

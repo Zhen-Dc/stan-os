@@ -1,0 +1,38 @@
+GPT-5.6 is OpenAI's most intelligent model.
+So here's 10 prompts to automate your ad account audits.
+
+Each prompt runs in minutes.
+
+GPT-5.6 Sol is built for complex reasoning.
+
+Making deep audits a simple task.
+
+All you do is paste in your Meta or Google exports.
+
+Then each prompt audits a different part of your account.
+
+But, finding wasted spend is only useful if you know what to do next.
+
+So every finding comes back ranked with a verdict: scale, pause, test or rebuild.
+
+Here's all 10 audits:
+
+→ Spend leaks: ranks zero-conversion spend by money burned
+→ Creative fatigue: catches winners fading before CPMs climb
+→ Audience overlap: finds ad sets bidding against each other
+→ Placement waste: shows where spend lands without conversions
+→ Attribution gaps: reconciles platform numbers with your backend
+→ Landing page mismatch: finds where high CTR dies after the click
+→ Budget pacing: flags caps starving proven winners
+→ Exclusion hygiene: catches spend wasted re-reaching buyers
+→ Naming and structure: exposes the mess hiding performance
+→ Competitor delta: turns Auction Insights into gaps to close
+
+If you want to automate your ad account audits, this is the best place to start.
+
+Want all 10 prompts?
+
+1. Make sure we're connected
+2. Comment "AUDIT" below
+
+I'll send it over. | 94 comments on LinkedIn
