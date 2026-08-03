@@ -1,0 +1,25 @@
+One winning ad should not become one more file in your swipe folder.
+
+It should become the starting point for the next 30 creative tests.
+
+The workflow is simple:
+
+Give Claude the ad that worked.
+Add the comments people left.
+Add the numbers that show what happened.
+
+Then run focused Skills instead of asking for random ideas.
+
+/score-ad finds the weak lever.
+/angle-teardown explains why the winner worked.
+/comment-mine turns audience comments into usable language.
+/hook-generator creates ranked openers.
+/ugc-script turns one angle into a shot-by-shot script.
+/brief-builder turns the winner into a production brief.
+/variation-generator turns one direction into testable concepts.
+
+The human still reviews before launch.
+
+But the blank page disappears.
+
+Comment CREATIVE if you want the 10-skill creative workflow.

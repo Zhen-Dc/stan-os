@@ -1,0 +1,35 @@
+If you're out of the loop on Claude, here's 10 skills for performance marketers
+
+Each skill helps to audit Meta + Google Ads like a senior performance marketer.
+
+All it takes to activate each skill is a simple slash command
+
+Claude then reads your live ad data and returns a ranked fix list.
+
+Letting you know whether to scale, pause, test or rebuild.
+
+Here's the full list:
+
+Meta Ads:
+→ /tracking-audit, the Pixel + CAPI gaps and the fixes
+→ /kpi-map, the campaigns chasing the wrong objective
+→ /campaign-structure-audit, the consolidation + learning-phase fixes
+→ /adset-analysis, a scale / hold / kill verdict per adset
+→ /creative-fatigue, dying ads caught before CPMs spike
+
+Google Ads:
+→ /wasted-spend-audit, the zero-conversion spend to cut
+→ /google-search-audit, the match-type + RSA leaks costing you rank
+→ /shopping-audit, the dead products capping your ROAS
+→ /pmax-audit, an A-to-F grade per asset group, dead ones flagged
+→ /keyword-opportunities, the expansion keywords to test next
+
+Audits can now be done in a matter of minutes.
+
+If you're a performance marketer trying to get started on Claude, this is a great place to start.
+
+Want all 10 skills for free?
+1. Make sure we're connected
+2. Comment "AUDIT" below
+
+I'll send you the link. | 454 comments on LinkedIn

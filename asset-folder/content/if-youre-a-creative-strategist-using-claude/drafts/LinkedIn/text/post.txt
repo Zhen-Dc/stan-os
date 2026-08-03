@@ -1,0 +1,35 @@
+If you are a creative strategist, one winning ad should not die as a screenshot in a Slack thread.
+
+It should become a creative testing system.
+
+The useful pattern is simple:
+
+1. Give Claude the ad that already worked.
+2. Add the comments and performance numbers.
+3. Run one focused Skill at a time.
+4. Turn the output into hooks, scripts, briefs, and variations.
+5. Keep a human approval gate before anything spends budget.
+
+The source idea listed 10 useful Claude Skills:
+
+Research:
+- /score-ad: grades the ad on 6 levers and names the weak one.
+- /angle-teardown: explains why the winner won.
+- /awareness-mapper: checks if the copy matches the audience stage.
+- /comment-mine: turns comments into a language bank.
+- /fatigue-spotter: catches ads before CPMs become the warning sign.
+
+Production:
+- /hook-generator: creates 15 hooks for Meta and TikTok.
+- /ugc-script: turns one angle into a shot-by-shot script.
+- /brief-builder: turns a winner into a production brief.
+- /variation-generator: turns one angle into 12 concepts.
+- /onscreen-sound: creates captions and audio cues for platform fit.
+
+That is the part most teams miss.
+
+The value is not "Claude writes ads."
+
+The value is a repeatable path from winner -> diagnosis -> language -> hooks -> scripts -> briefs -> tests.
+
+Comment CREATIVE if you want the 10-skill creative workflow.

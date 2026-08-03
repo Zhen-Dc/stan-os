@@ -1,0 +1,30 @@
+If your ads are getting messy, start here:
+
+10 Claude Skills for performance marketers who audit Meta + Google Ads.
+
+Each Skill does one serious job:
+it reads live ad data,
+checks a specific leak,
+and returns a ranked fix list.
+
+So instead of asking Claude for a vague account review,
+you run the exact slash command for the problem in front of you.
+
+Meta Ads:
+-> /tracking-audit: Pixel + CAPI gaps and the fixes
+-> /kpi-map: campaigns chasing the wrong objective
+-> /campaign-structure-audit: consolidation + learning-phase fixes
+-> /adset-analysis: scale / hold / kill verdict per adset
+-> /creative-fatigue: dying ads caught before CPMs spike
+
+Google Ads:
+-> /wasted-spend-audit: zero-conversion spend to cut
+-> /google-search-audit: match-type + RSA leaks costing rank
+-> /shopping-audit: dead products capping ROAS
+-> /pmax-audit: A-to-F grade per asset group
+-> /keyword-opportunities: expansion keywords to test next
+
+The point is not to replace the marketer.
+The point is to turn messy account data into decisions faster: scale, pause, test, or rebuild.
+
+Comment "AUDIT" if you want the 10-skill ad audit pack.

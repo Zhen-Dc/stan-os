@@ -1,0 +1,30 @@
+Slide 1: 10 Claude Skills
+for Creative
+Strategists
+to Boost Ads - 10 Claude Skills turn one winning ad, real comments, and performance numbers into 30 testable creative directions.
+
+Slide 2: The bottleneck is not ideas - Creative teams already have winning ads. The slow part is turning one winner into useful, testable variations without guessing.
+
+Slide 3: /score-ad - Grade the ad on six creative levers, then name the weakest lever before anyone writes new copy.
+
+Slide 4: /angle-teardown - Reverse-engineer why the winning ad worked so the team can keep the strategy and change the execution.
+
+Slide 5: /awareness-mapper - Check if the copy is talking to the right awareness stage before the team scales the wrong message.
+
+Slide 6: /comment-mine - Turn customer comments into a language bank. Your next hook should sound like the market, not the meeting room.
+
+Slide 7: /fatigue-spotter - Catch a dying ad before rising CPMs become the only warning signal your team notices.
+
+Slide 8: /hook-generator - Create 15 hooks, then rank them separately for Meta and TikTok instead of pretending one opener fits both feeds.
+
+Slide 9: /ugc-script - Turn one angle into a shot-by-shot script so a creator can record without guessing the opening, proof, or CTA.
+
+Slide 10: /brief-builder - Turn the winner into a fill-in brief that a designer, editor, or creator can execute without a long meeting.
+
+Slide 11: /variation-generator - Turn one angle into 12 distinct concepts so tests explore real creative directions, not tiny wording swaps.
+
+Slide 12: /onscreen-sound - Split the same idea into muted Meta captions and TikTok audio cues so the asset matches how people consume it.
+
+Slide 13: The 30-test receipt - A winner becomes a system only after the diagnosis drives the next creative decisions.
+
+Slide 14: Save the command library - Do not make Claude guess the workflow every time. Save the skills, feed them the ad, comments, and numbers, then keep human approval before ad spend goes live.

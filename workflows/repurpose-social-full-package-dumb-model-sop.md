@@ -691,6 +691,25 @@ Slide 1:
 - Teaching slides must use the white space for actual audience-facing content:
   examples, steps, rules, checks, decisions, or workflows. Do not leave big
   empty areas just because the template has only two or three cards.
+- Teaching-slide frame is fixed across future Stanley carousels unless he asks
+  to change it: cream graph-paper background; real profile pill at the top
+  right; circled slide number at the upper left; full-width pastel rounded
+  title band immediately to the right of the number; one bold explanatory
+  paragraph below; content-specific illustration in the middle; takeaway or
+  supporting module beneath; page count at bottom left and swipe cue at bottom
+  right. Only the illustration and its supporting modules are dynamic.
+- Do not replace this fixed frame with small floating topic pills, role labels,
+  generic output strips, or a different header placement. The reference
+  package is `these-are-the-exact-claude-skills-i-use-every-day-v2` slides
+  2-9. The profile display name remains `stanley chima` and the visible
+  username remains `@chima-stanley-chukwu`.
+- Density requirement: a teaching slide must fill its middle canvas with
+  source-grounded explanation. Add the necessary decision criteria, examples,
+  labels, process steps, checks, inputs, or outputs directly inside the
+  content-specific illustration. Do not fill the area with decorative shapes
+  or repeat the same generic `Output` statement. If a diagram is still easy to
+  misunderstand in three seconds, enlarge it and add the missing explanation
+  before adding another panel.
 - Do not leave a large empty gap between the slide title/subtitle and the first
   content section. The body section should start directly under the title area
   with only normal breathing room.
@@ -1130,6 +1149,38 @@ actually needed.
 Do not only vary the text. Vary the structure and order per project when the
 source calls for it. Example: a faceless YouTube system can use production-line
 order, while Claude Code can use inspect/plan/execute/edit/verify order.
+
+Reusable enforcement rule:
+
+- Before rendering, write a slide map that assigns every slide one job:
+  `hook`, `stakes`, `tool/process value`, `proof/receipt`, or `single CTA`.
+- For a tool library, one tool slide must show the tool name, what it does, and
+  the process or usable output. Do not reduce the teaching area to a generic
+  sentence plus an ornamental icon.
+- Do not approve a carousel when three or more slides share the same header,
+  profile row, body container, and result-strip composition. Shared brand
+  chrome is allowed; the main teaching shell is not.
+- When a repeated lower `Output` strip, card grid, profile bar, or label makes
+  the deck feel templated, replace it with a meaning-specific module such as a
+  scorecard, anatomy map, language flow, alert meter, ranked board, storyboard,
+  handoff form, branching tree, platform split, receipt, or CTA panel.
+- The QA report must name the selected structure for every slide and mark the
+  package `REVISE` if the cover is generic, familiar to an existing Stanley
+  post, not task/problem/outcome-led, merely large rather than gigantic, or
+  fails full-size title containment.
+
+Cover correction placeholders:
+
+```text
+Correction:
+- Package: [CONTENT_SLUG]
+- Slide: [SLIDE_NUMBER_OR_VISIBLE_MARKER]
+- Problem: [GENERIC_OR_DUPLICATE_COVER_PROMISE | WEAK_COVER_WEIGHT | TITLE_OVERFLOW]
+- Cause: [TITLE_NOT_TASK_LED | REUSED_PROMISE | AUTO_FIT | INSUFFICIENT_WEIGHT]
+- Fix: [SHORTER_TASK_PROBLEM_TITLE | THREE_LINE_LAYOUT | HEAVIER_RENDER | NEW_SUBTEXT]
+- Renderer module: [MODULE_NAME]
+- QA proof: [FULL_SIZE_INSPECTION | SAFE_WIDTH | TITLE_HEIGHT | DISTINCT_PROMISE]
+```
 
 ### Failure: Public visuals included internal helper text
 

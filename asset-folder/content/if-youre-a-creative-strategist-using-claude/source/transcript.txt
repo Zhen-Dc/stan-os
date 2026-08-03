@@ -1,0 +1,33 @@
+If you're a creative strategist using Claude
+Here's 10 skills that turn one winning ad into 30.
+
+Each skill works on creatives you already have.
+
+All it takes to run a skill is a simple slash command.
+
+Claude reads your ad, comments and numbers, then hands back the rubric, hooks or script like a senior creative strategist.
+
+Research:
+- /score-ad, grades any ad on 6 levers, names the weak one
+- /angle-teardown, reverse-engineers why a winner won
+- /awareness-mapper, catches cold copy aimed at the wrong audience
+- /comment-mine, comments turned into a language bank
+- /fatigue-spotter, dying ads caught before CPMs spike
+
+Production:
+- /hook-generator, 15 hooks ranked, split for Meta and TikTok
+- /ugc-script, one angle into a shot-by-shot script
+- /brief-builder, your winner into a fill-in brief
+- /variation-generator, one angle into 12 distinct test concepts
+- /onscreen-sound, captions for muted Meta, audio for TikTok
+
+It can all be done in minutes.
+
+If you're a creative strategist and new to Claude, this is a great place to start.
+
+Want all 10 skills?
+1. Make sure we're connected
+2. Comment "CREATIVE" below
+
+I'll send you the link.
+

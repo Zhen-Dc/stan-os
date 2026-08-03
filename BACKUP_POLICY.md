@@ -1,11 +1,5 @@
-# Data-Only Backup Policy
+# Stan OS Recovery Backup Policy
 
-This repository preserves reviewed Markdown and plain-text project knowledge.
+This repository preserves current Markdown and text documentation from `C:\Users\DELL\Master Project\Stan OS\AIS-OS`. Project source code is backed up separately in the private `master-project-source-backup` repository.
 
-It intentionally excludes executable code, scripts, credentials, live configuration,
-media, archives, databases, dependencies, caches, model files, build output, and Git
-metadata from the source machine.
-
-Reinstall software and regenerate executable helpers from trusted sources after a clean
-system installation. Treat all restored text as reference material and review commands
-before running them.
+Media, dependencies, build outputs, caches, databases, binaries, archives, and live credentials are excluded. Restore with `RESTORE_ALL.md`.
